@@ -1,0 +1,861 @@
+2 sua|0 seleção
+3 modalidade modal|2 sua
+3 modalidade modal|0 seleção
+6 Rússia|3 modalidade modal
+6 Rússia|2 sua
+6 Rússia|0 seleção
+10 seu|6 Rússia
+10 seu|3 modalidade modal
+10 seu|2 sua
+10 seu|0 seleção
+12 título|10 seu
+12 título|6 Rússia
+12 título|3 modalidade modal
+12 título|2 sua
+12 título|0 seleção
+13 superioridade superior|12 título
+13 superioridade superior|10 seu
+13 superioridade superior|6 Rússia
+13 superioridade superior|3 modalidade modal
+13 superioridade superior|2 sua
+13 superioridade superior|0 seleção
+15 conquista|13 superioridade superior
+15 conquista|12 título
+15 conquista|10 seu
+15 conquista|6 Rússia
+15 conquista|3 modalidade modal
+15 conquista|2 sua
+15 conquista|0 seleção
+16 este|15 conquista
+16 este|13 superioridade superior
+16 este|12 título
+16 este|10 seu
+16 este|6 Rússia
+16 este|3 modalidade modal
+16 este|2 sua
+16 este|0 seleção
+17 sua|16 este
+17 sua|15 conquista
+17 sua|13 superioridade superior
+17 sua|12 título
+17 sua|10 seu
+17 sua|6 Rússia
+17 sua|3 modalidade modal
+17 sua|2 sua
+17 sua|0 seleção
+18 final|17 sua
+18 final|16 este
+18 final|15 conquista
+18 final|13 superioridade superior
+18 final|12 título
+18 final|10 seu
+18 final|6 Rússia
+18 final|3 modalidade modal
+18 final|2 sua
+18 final|0 seleção
+20 Rússia|18 final
+20 Rússia|17 sua
+20 Rússia|16 este
+20 Rússia|15 conquista
+20 Rússia|13 superioridade superior
+20 Rússia|12 título
+20 Rússia|10 seu
+20 Rússia|6 Rússia
+20 Rússia|3 modalidade modal
+20 Rússia|2 sua
+20 Rússia|0 seleção
+21 Brasil|20 Rússia
+21 Brasil|18 final
+21 Brasil|17 sua
+21 Brasil|16 este
+21 Brasil|15 conquista
+21 Brasil|13 superioridade superior
+21 Brasil|12 título
+21 Brasil|10 seu
+21 Brasil|6 Rússia
+21 Brasil|3 modalidade modal
+21 Brasil|2 sua
+21 Brasil|0 seleção
+22 esse|21 Brasil
+22 esse|20 Rússia
+22 esse|18 final
+22 esse|17 sua
+22 esse|16 este
+22 esse|15 conquista
+22 esse|13 superioridade superior
+22 esse|12 título
+22 esse|10 seu
+22 esse|6 Rússia
+22 esse|3 modalidade modal
+22 esse|2 sua
+22 esse|0 seleção
+23 Brasil|22 esse
+23 Brasil|21 Brasil
+23 Brasil|20 Rússia
+23 Brasil|18 final
+23 Brasil|17 sua
+23 Brasil|16 este
+23 Brasil|15 conquista
+23 Brasil|13 superioridade superior
+23 Brasil|12 título
+23 Brasil|10 seu
+23 Brasil|6 Rússia
+23 Brasil|3 modalidade modal
+23 Brasil|2 sua
+23 Brasil|0 seleção
+24 se|23 Brasil
+24 se|22 esse
+24 se|21 Brasil
+24 se|20 Rússia
+24 se|18 final
+24 se|17 sua
+24 se|16 este
+24 se|15 conquista
+24 se|13 superioridade superior
+24 se|12 título
+24 se|10 seu
+24 se|6 Rússia
+24 se|3 modalidade modal
+24 se|2 sua
+24 se|0 seleção
+25 Itália|24 se
+25 Itália|23 Brasil
+25 Itália|22 esse
+25 Itália|21 Brasil
+25 Itália|20 Rússia
+25 Itália|18 final
+25 Itália|17 sua
+25 Itália|16 este
+25 Itália|15 conquista
+25 Itália|13 superioridade superior
+25 Itália|12 título
+25 Itália|10 seu
+25 Itália|6 Rússia
+25 Itália|3 modalidade modal
+25 Itália|2 sua
+25 Itália|0 seleção
+26 vencedor vencer|25 Itália
+26 vencedor vencer|24 se
+26 vencedor vencer|23 Brasil
+26 vencedor vencer|22 esse
+26 vencedor vencer|21 Brasil
+26 vencedor vencer|20 Rússia
+26 vencedor vencer|18 final
+26 vencedor vencer|17 sua
+26 vencedor vencer|16 este
+26 vencedor vencer|15 conquista
+26 vencedor vencer|13 superioridade superior
+26 vencedor vencer|12 título
+26 vencedor vencer|10 seu
+26 vencedor vencer|6 Rússia
+26 vencedor vencer|3 modalidade modal
+26 vencedor vencer|2 sua
+26 vencedor vencer|0 seleção
+28 conquista|26 vencedor vencer
+28 conquista|25 Itália
+28 conquista|24 se
+28 conquista|23 Brasil
+28 conquista|22 esse
+28 conquista|21 Brasil
+28 conquista|20 Rússia
+28 conquista|18 final
+28 conquista|17 sua
+28 conquista|16 este
+28 conquista|15 conquista
+28 conquista|13 superioridade superior
+28 conquista|12 título
+28 conquista|10 seu
+28 conquista|6 Rússia
+28 conquista|3 modalidade modal
+28 conquista|2 sua
+28 conquista|0 seleção
+29 seleção|28 conquista
+29 seleção|26 vencedor vencer
+29 seleção|25 Itália
+29 seleção|24 se
+29 seleção|23 Brasil
+29 seleção|22 esse
+29 seleção|21 Brasil
+29 seleção|20 Rússia
+29 seleção|18 final
+29 seleção|17 sua
+29 seleção|16 este
+29 seleção|15 conquista
+29 seleção|13 superioridade superior
+29 seleção|12 título
+29 seleção|10 seu
+29 seleção|6 Rússia
+29 seleção|3 modalidade modal
+29 seleção|2 sua
+29 seleção|0 seleção
+30 campanha|29 seleção
+30 campanha|28 conquista
+30 campanha|26 vencedor vencer
+30 campanha|25 Itália
+30 campanha|24 se
+30 campanha|23 Brasil
+30 campanha|22 esse
+30 campanha|21 Brasil
+30 campanha|20 Rússia
+30 campanha|18 final
+30 campanha|17 sua
+30 campanha|16 este
+30 campanha|15 conquista
+30 campanha|13 superioridade superior
+30 campanha|12 título
+30 campanha|10 seu
+30 campanha|6 Rússia
+30 campanha|3 modalidade modal
+30 campanha|2 sua
+30 campanha|0 seleção
+31 competição competir|30 campanha
+31 competição competir|29 seleção
+31 competição competir|28 conquista
+31 competição competir|26 vencedor vencer
+31 competição competir|25 Itália
+31 competição competir|24 se
+31 competição competir|23 Brasil
+31 competição competir|22 esse
+31 competição competir|21 Brasil
+31 competição competir|20 Rússia
+31 competição competir|18 final
+31 competição competir|17 sua
+31 competição competir|16 este
+31 competição competir|15 conquista
+31 competição competir|13 superioridade superior
+31 competição competir|12 título
+31 competição competir|10 seu
+31 competição competir|6 Rússia
+31 competição competir|3 modalidade modal
+31 competição competir|2 sua
+31 competição competir|0 seleção
+34 seu|31 competição competir
+34 seu|30 campanha
+34 seu|29 seleção
+34 seu|28 conquista
+34 seu|26 vencedor vencer
+34 seu|25 Itália
+34 seu|24 se
+34 seu|23 Brasil
+34 seu|22 esse
+34 seu|21 Brasil
+34 seu|20 Rússia
+34 seu|18 final
+34 seu|17 sua
+34 seu|16 este
+34 seu|15 conquista
+34 seu|13 superioridade superior
+34 seu|12 título
+34 seu|10 seu
+34 seu|6 Rússia
+34 seu|3 modalidade modal
+34 seu|2 sua
+34 seu|0 seleção
+35 Bulgária|34 seu
+35 Bulgária|31 competição competir
+35 Bulgária|30 campanha
+35 Bulgária|29 seleção
+35 Bulgária|28 conquista
+35 Bulgária|26 vencedor vencer
+35 Bulgária|25 Itália
+35 Bulgária|24 se
+35 Bulgária|23 Brasil
+35 Bulgária|22 esse
+35 Bulgária|21 Brasil
+35 Bulgária|20 Rússia
+35 Bulgária|18 final
+35 Bulgária|17 sua
+35 Bulgária|16 este
+35 Bulgária|15 conquista
+35 Bulgária|13 superioridade superior
+35 Bulgária|12 título
+35 Bulgária|10 seu
+35 Bulgária|6 Rússia
+35 Bulgária|3 modalidade modal
+35 Bulgária|2 sua
+35 Bulgária|0 seleção
+37 fase|35 Bulgária
+37 fase|34 seu
+37 fase|31 competição competir
+37 fase|30 campanha
+37 fase|29 seleção
+37 fase|28 conquista
+37 fase|26 vencedor vencer
+37 fase|25 Itália
+37 fase|24 se
+37 fase|23 Brasil
+37 fase|22 esse
+37 fase|21 Brasil
+37 fase|20 Rússia
+37 fase|18 final
+37 fase|17 sua
+37 fase|16 este
+37 fase|15 conquista
+37 fase|13 superioridade superior
+37 fase|12 título
+37 fase|10 seu
+37 fase|6 Rússia
+37 fase|3 modalidade modal
+37 fase|2 sua
+37 fase|0 seleção
+38 competição competir|37 fase
+38 competição competir|35 Bulgária
+38 competição competir|34 seu
+38 competição competir|31 competição competir
+38 competição competir|30 campanha
+38 competição competir|29 seleção
+38 competição competir|28 conquista
+38 competição competir|26 vencedor vencer
+38 competição competir|25 Itália
+38 competição competir|24 se
+38 competição competir|23 Brasil
+38 competição competir|22 esse
+38 competição competir|21 Brasil
+38 competição competir|20 Rússia
+38 competição competir|18 final
+38 competição competir|17 sua
+38 competição competir|16 este
+38 competição competir|15 conquista
+38 competição competir|13 superioridade superior
+38 competição competir|12 título
+38 competição competir|10 seu
+38 competição competir|6 Rússia
+38 competição competir|3 modalidade modal
+38 competição competir|2 sua
+38 competição competir|0 seleção
+39 era|38 competição competir
+39 era|37 fase
+39 era|35 Bulgária
+39 era|34 seu
+39 era|31 competição competir
+39 era|30 campanha
+39 era|29 seleção
+39 era|28 conquista
+39 era|26 vencedor vencer
+39 era|25 Itália
+39 era|24 se
+39 era|23 Brasil
+39 era|22 esse
+39 era|21 Brasil
+39 era|20 Rússia
+39 era|18 final
+39 era|17 sua
+39 era|16 este
+39 era|15 conquista
+39 era|13 superioridade superior
+39 era|12 título
+39 era|10 seu
+39 era|6 Rússia
+39 era|3 modalidade modal
+39 era|2 sua
+39 era|0 seleção
+43 outro|39 era
+43 outro|38 competição competir
+43 outro|37 fase
+43 outro|35 Bulgária
+43 outro|34 seu
+43 outro|31 competição competir
+43 outro|30 campanha
+43 outro|29 seleção
+43 outro|28 conquista
+43 outro|26 vencedor vencer
+43 outro|25 Itália
+43 outro|24 se
+43 outro|23 Brasil
+43 outro|22 esse
+43 outro|21 Brasil
+43 outro|20 Rússia
+43 outro|18 final
+43 outro|17 sua
+43 outro|16 este
+43 outro|15 conquista
+43 outro|13 superioridade superior
+43 outro|12 título
+43 outro|10 seu
+43 outro|6 Rússia
+43 outro|3 modalidade modal
+43 outro|2 sua
+43 outro|0 seleção
+44 seleção|43 outro
+44 seleção|39 era
+44 seleção|38 competição competir
+44 seleção|37 fase
+44 seleção|35 Bulgária
+44 seleção|34 seu
+44 seleção|31 competição competir
+44 seleção|30 campanha
+44 seleção|29 seleção
+44 seleção|28 conquista
+44 seleção|26 vencedor vencer
+44 seleção|25 Itália
+44 seleção|24 se
+44 seleção|23 Brasil
+44 seleção|22 esse
+44 seleção|21 Brasil
+44 seleção|20 Rússia
+44 seleção|18 final
+44 seleção|17 sua
+44 seleção|16 este
+44 seleção|15 conquista
+44 seleção|13 superioridade superior
+44 seleção|12 título
+44 seleção|10 seu
+44 seleção|6 Rússia
+44 seleção|3 modalidade modal
+44 seleção|2 sua
+44 seleção|0 seleção
+45 título|44 seleção
+45 título|43 outro
+45 título|39 era
+45 título|38 competição competir
+45 título|37 fase
+45 título|35 Bulgária
+45 título|34 seu
+45 título|31 competição competir
+45 título|30 campanha
+45 título|29 seleção
+45 título|28 conquista
+45 título|26 vencedor vencer
+45 título|25 Itália
+45 título|24 se
+45 título|23 Brasil
+45 título|22 esse
+45 título|21 Brasil
+45 título|20 Rússia
+45 título|18 final
+45 título|17 sua
+45 título|16 este
+45 título|15 conquista
+45 título|13 superioridade superior
+45 título|12 título
+45 título|10 seu
+45 título|6 Rússia
+45 título|3 modalidade modal
+45 título|2 sua
+45 título|0 seleção
+47 medalha|45 título
+47 medalha|44 seleção
+47 medalha|43 outro
+47 medalha|39 era
+47 medalha|38 competição competir
+47 medalha|37 fase
+47 medalha|35 Bulgária
+47 medalha|34 seu
+47 medalha|31 competição competir
+47 medalha|30 campanha
+47 medalha|29 seleção
+47 medalha|28 conquista
+47 medalha|26 vencedor vencer
+47 medalha|25 Itália
+47 medalha|24 se
+47 medalha|23 Brasil
+47 medalha|22 esse
+47 medalha|21 Brasil
+47 medalha|20 Rússia
+47 medalha|18 final
+47 medalha|17 sua
+47 medalha|16 este
+47 medalha|15 conquista
+47 medalha|13 superioridade superior
+47 medalha|12 título
+47 medalha|10 seu
+47 medalha|6 Rússia
+47 medalha|3 modalidade modal
+47 medalha|2 sua
+47 medalha|0 seleção
+48 ouro|47 medalha
+48 ouro|45 título
+48 ouro|44 seleção
+48 ouro|43 outro
+48 ouro|39 era
+48 ouro|38 competição competir
+48 ouro|37 fase
+48 ouro|35 Bulgária
+48 ouro|34 seu
+48 ouro|31 competição competir
+48 ouro|30 campanha
+48 ouro|29 seleção
+48 ouro|28 conquista
+48 ouro|26 vencedor vencer
+48 ouro|25 Itália
+48 ouro|24 se
+48 ouro|23 Brasil
+48 ouro|22 esse
+48 ouro|21 Brasil
+48 ouro|20 Rússia
+48 ouro|18 final
+48 ouro|17 sua
+48 ouro|16 este
+48 ouro|15 conquista
+48 ouro|13 superioridade superior
+48 ouro|12 título
+48 ouro|10 seu
+48 ouro|6 Rússia
+48 ouro|3 modalidade modal
+48 ouro|2 sua
+48 ouro|0 seleção
+52 Japão|48 ouro
+52 Japão|47 medalha
+52 Japão|45 título
+52 Japão|44 seleção
+52 Japão|43 outro
+52 Japão|39 era
+52 Japão|38 competição competir
+52 Japão|37 fase
+52 Japão|35 Bulgária
+52 Japão|34 seu
+52 Japão|31 competição competir
+52 Japão|30 campanha
+52 Japão|29 seleção
+52 Japão|28 conquista
+52 Japão|26 vencedor vencer
+52 Japão|25 Itália
+52 Japão|24 se
+52 Japão|23 Brasil
+52 Japão|22 esse
+52 Japão|21 Brasil
+52 Japão|20 Rússia
+52 Japão|18 final
+52 Japão|17 sua
+52 Japão|16 este
+52 Japão|15 conquista
+52 Japão|13 superioridade superior
+52 Japão|12 título
+52 Japão|10 seu
+52 Japão|6 Rússia
+52 Japão|3 modalidade modal
+52 Japão|2 sua
+52 Japão|0 seleção
+53 seu|52 Japão
+53 seu|48 ouro
+53 seu|47 medalha
+53 seu|45 título
+53 seu|44 seleção
+53 seu|43 outro
+53 seu|39 era
+53 seu|38 competição competir
+53 seu|37 fase
+53 seu|35 Bulgária
+53 seu|34 seu
+53 seu|31 competição competir
+53 seu|30 campanha
+53 seu|29 seleção
+53 seu|28 conquista
+53 seu|26 vencedor vencer
+53 seu|25 Itália
+53 seu|24 se
+53 seu|23 Brasil
+53 seu|22 esse
+53 seu|21 Brasil
+53 seu|20 Rússia
+53 seu|18 final
+53 seu|17 sua
+53 seu|16 este
+53 seu|15 conquista
+53 seu|13 superioridade superior
+53 seu|12 título
+53 seu|10 seu
+53 seu|6 Rússia
+53 seu|3 modalidade modal
+53 seu|2 sua
+53 seu|0 seleção
+56 pouco|53 seu
+56 pouco|52 Japão
+56 pouco|48 ouro
+56 pouco|47 medalha
+56 pouco|45 título
+56 pouco|44 seleção
+56 pouco|43 outro
+56 pouco|39 era
+56 pouco|38 competição competir
+56 pouco|37 fase
+56 pouco|35 Bulgária
+56 pouco|34 seu
+56 pouco|31 competição competir
+56 pouco|30 campanha
+56 pouco|29 seleção
+56 pouco|28 conquista
+56 pouco|26 vencedor vencer
+56 pouco|25 Itália
+56 pouco|24 se
+56 pouco|23 Brasil
+56 pouco|22 esse
+56 pouco|21 Brasil
+56 pouco|20 Rússia
+56 pouco|18 final
+56 pouco|17 sua
+56 pouco|16 este
+56 pouco|15 conquista
+56 pouco|13 superioridade superior
+56 pouco|12 título
+56 pouco|10 seu
+56 pouco|6 Rússia
+56 pouco|3 modalidade modal
+56 pouco|2 sua
+56 pouco|0 seleção
+57 seu|56 pouco
+57 seu|53 seu
+57 seu|52 Japão
+57 seu|48 ouro
+57 seu|47 medalha
+57 seu|45 título
+57 seu|44 seleção
+57 seu|43 outro
+57 seu|39 era
+57 seu|38 competição competir
+57 seu|37 fase
+57 seu|35 Bulgária
+57 seu|34 seu
+57 seu|31 competição competir
+57 seu|30 campanha
+57 seu|29 seleção
+57 seu|28 conquista
+57 seu|26 vencedor vencer
+57 seu|25 Itália
+57 seu|24 se
+57 seu|23 Brasil
+57 seu|22 esse
+57 seu|21 Brasil
+57 seu|20 Rússia
+57 seu|18 final
+57 seu|17 sua
+57 seu|16 este
+57 seu|15 conquista
+57 seu|13 superioridade superior
+57 seu|12 título
+57 seu|10 seu
+57 seu|6 Rússia
+57 seu|3 modalidade modal
+57 seu|2 sua
+57 seu|0 seleção
+58 dia|57 seu
+58 dia|56 pouco
+58 dia|53 seu
+58 dia|52 Japão
+58 dia|48 ouro
+58 dia|47 medalha
+58 dia|45 título
+58 dia|44 seleção
+58 dia|43 outro
+58 dia|39 era
+58 dia|38 competição competir
+58 dia|37 fase
+58 dia|35 Bulgária
+58 dia|34 seu
+58 dia|31 competição competir
+58 dia|30 campanha
+58 dia|29 seleção
+58 dia|28 conquista
+58 dia|26 vencedor vencer
+58 dia|25 Itália
+58 dia|24 se
+58 dia|23 Brasil
+58 dia|22 esse
+58 dia|21 Brasil
+58 dia|20 Rússia
+58 dia|18 final
+58 dia|17 sua
+58 dia|16 este
+58 dia|15 conquista
+58 dia|13 superioridade superior
+58 dia|12 título
+58 dia|10 seu
+58 dia|6 Rússia
+58 dia|3 modalidade modal
+58 dia|2 sua
+58 dia|0 seleção
+59 julho|58 dia
+59 julho|57 seu
+59 julho|56 pouco
+59 julho|53 seu
+59 julho|52 Japão
+59 julho|48 ouro
+59 julho|47 medalha
+59 julho|45 título
+59 julho|44 seleção
+59 julho|43 outro
+59 julho|39 era
+59 julho|38 competição competir
+59 julho|37 fase
+59 julho|35 Bulgária
+59 julho|34 seu
+59 julho|31 competição competir
+59 julho|30 campanha
+59 julho|29 seleção
+59 julho|28 conquista
+59 julho|26 vencedor vencer
+59 julho|25 Itália
+59 julho|24 se
+59 julho|23 Brasil
+59 julho|22 esse
+59 julho|21 Brasil
+59 julho|20 Rússia
+59 julho|18 final
+59 julho|17 sua
+59 julho|16 este
+59 julho|15 conquista
+59 julho|13 superioridade superior
+59 julho|12 título
+59 julho|10 seu
+59 julho|6 Rússia
+59 julho|3 modalidade modal
+59 julho|2 sua
+59 julho|0 seleção
+61 sua|59 julho
+61 sua|58 dia
+61 sua|57 seu
+61 sua|56 pouco
+61 sua|53 seu
+61 sua|52 Japão
+61 sua|48 ouro
+61 sua|47 medalha
+61 sua|45 título
+61 sua|44 seleção
+61 sua|43 outro
+61 sua|39 era
+61 sua|38 competição competir
+61 sua|37 fase
+61 sua|35 Bulgária
+61 sua|34 seu
+61 sua|31 competição competir
+61 sua|30 campanha
+61 sua|29 seleção
+61 sua|28 conquista
+61 sua|26 vencedor vencer
+61 sua|25 Itália
+61 sua|24 se
+61 sua|23 Brasil
+61 sua|22 esse
+61 sua|21 Brasil
+61 sua|20 Rússia
+61 sua|18 final
+61 sua|17 sua
+61 sua|16 este
+61 sua|15 conquista
+61 sua|13 superioridade superior
+61 sua|12 título
+61 sua|10 seu
+61 sua|6 Rússia
+61 sua|3 modalidade modal
+61 sua|2 sua
+61 sua|0 seleção
+64 Canadá|61 sua
+64 Canadá|59 julho
+64 Canadá|58 dia
+64 Canadá|57 seu
+64 Canadá|56 pouco
+64 Canadá|53 seu
+64 Canadá|52 Japão
+64 Canadá|48 ouro
+64 Canadá|47 medalha
+64 Canadá|45 título
+64 Canadá|44 seleção
+64 Canadá|43 outro
+64 Canadá|39 era
+64 Canadá|38 competição competir
+64 Canadá|37 fase
+64 Canadá|35 Bulgária
+64 Canadá|34 seu
+64 Canadá|31 competição competir
+64 Canadá|30 campanha
+64 Canadá|29 seleção
+64 Canadá|28 conquista
+64 Canadá|26 vencedor vencer
+64 Canadá|25 Itália
+64 Canadá|24 se
+64 Canadá|23 Brasil
+64 Canadá|22 esse
+64 Canadá|21 Brasil
+64 Canadá|20 Rússia
+64 Canadá|18 final
+64 Canadá|17 sua
+64 Canadá|16 este
+64 Canadá|15 conquista
+64 Canadá|13 superioridade superior
+64 Canadá|12 título
+64 Canadá|10 seu
+64 Canadá|6 Rússia
+64 Canadá|3 modalidade modal
+64 Canadá|2 sua
+64 Canadá|0 seleção
+65 ginásio|64 Canadá
+65 ginásio|61 sua
+65 ginásio|59 julho
+65 ginásio|58 dia
+65 ginásio|57 seu
+65 ginásio|56 pouco
+65 ginásio|53 seu
+65 ginásio|52 Japão
+65 ginásio|48 ouro
+65 ginásio|47 medalha
+65 ginásio|45 título
+65 ginásio|44 seleção
+65 ginásio|43 outro
+65 ginásio|39 era
+65 ginásio|38 competição competir
+65 ginásio|37 fase
+65 ginásio|35 Bulgária
+65 ginásio|34 seu
+65 ginásio|31 competição competir
+65 ginásio|30 campanha
+65 ginásio|29 seleção
+65 ginásio|28 conquista
+65 ginásio|26 vencedor vencer
+65 ginásio|25 Itália
+65 ginásio|24 se
+65 ginásio|23 Brasil
+65 ginásio|22 esse
+65 ginásio|21 Brasil
+65 ginásio|20 Rússia
+65 ginásio|18 final
+65 ginásio|17 sua
+65 ginásio|16 este
+65 ginásio|15 conquista
+65 ginásio|13 superioridade superior
+65 ginásio|12 título
+65 ginásio|10 seu
+65 ginásio|6 Rússia
+65 ginásio|3 modalidade modal
+65 ginásio|2 sua
+65 ginásio|0 seleção
+70 lugar|65 ginásio
+70 lugar|64 Canadá
+70 lugar|61 sua
+70 lugar|59 julho
+70 lugar|58 dia
+70 lugar|57 seu
+70 lugar|56 pouco
+70 lugar|53 seu
+70 lugar|52 Japão
+70 lugar|48 ouro
+70 lugar|47 medalha
+70 lugar|45 título
+70 lugar|44 seleção
+70 lugar|43 outro
+70 lugar|39 era
+70 lugar|38 competição competir
+70 lugar|37 fase
+70 lugar|35 Bulgária
+70 lugar|34 seu
+70 lugar|31 competição competir
+70 lugar|30 campanha
+70 lugar|29 seleção
+70 lugar|28 conquista
+70 lugar|26 vencedor vencer
+70 lugar|25 Itália
+70 lugar|24 se
+70 lugar|23 Brasil
+70 lugar|22 esse
+70 lugar|21 Brasil
+70 lugar|20 Rússia
+70 lugar|18 final
+70 lugar|17 sua
+70 lugar|16 este
+70 lugar|15 conquista
+70 lugar|13 superioridade superior
+70 lugar|12 título
+70 lugar|10 seu
+70 lugar|6 Rússia
+70 lugar|3 modalidade modal
+70 lugar|2 sua
+70 lugar|0 seleção

@@ -1,0 +1,7503 @@
+1 Brasil|0 Argentina
+2 final|1 Brasil
+2 final|0 Argentina
+4 Argentina|2 final
+4 Argentina|1 Brasil
+4 Argentina|0 Argentina
+5 campanha|4 Argentina
+5 campanha|2 final
+5 campanha|1 Brasil
+5 campanha|0 Argentina
+6 favorita, favorito|5 campanha
+6 favorita, favorito|4 Argentina
+6 favorita, favorito|2 final
+6 favorita, favorito|1 Brasil
+6 favorita, favorito|0 Argentina
+7 Brasil|6 favorita, favorito
+7 Brasil|5 campanha
+7 Brasil|4 Argentina
+7 Brasil|2 final
+7 Brasil|1 Brasil
+7 Brasil|0 Argentina
+8 Brasil|7 Brasil
+8 Brasil|6 favorita, favorito
+8 Brasil|5 campanha
+8 Brasil|4 Argentina
+8 Brasil|2 final
+8 Brasil|1 Brasil
+8 Brasil|0 Argentina
+9 campeão|8 Brasil
+9 campeão|7 Brasil
+9 campeão|6 favorita, favorito
+9 campeão|5 campanha
+9 campeão|4 Argentina
+9 campeão|2 final
+9 campeão|1 Brasil
+9 campeão|0 Argentina
+10 edição|9 campeão
+10 edição|8 Brasil
+10 edição|7 Brasil
+10 edição|6 favorita, favorito
+10 edição|5 campanha
+10 edição|4 Argentina
+10 edição|2 final
+10 edição|1 Brasil
+10 edição|0 Argentina
+11 torneio|10 edição
+11 torneio|9 campeão
+11 torneio|8 Brasil
+11 torneio|7 Brasil
+11 torneio|6 favorita, favorito
+11 torneio|5 campanha
+11 torneio|4 Argentina
+11 torneio|2 final
+11 torneio|1 Brasil
+11 torneio|0 Argentina
+12 futebol|11 torneio
+12 futebol|10 edição
+12 futebol|9 campeão
+12 futebol|8 Brasil
+12 futebol|7 Brasil
+12 futebol|6 favorita, favorito
+12 futebol|5 campanha
+12 futebol|4 Argentina
+12 futebol|2 final
+12 futebol|1 Brasil
+12 futebol|0 Argentina
+13 Venezuela|12 futebol
+13 Venezuela|11 torneio
+13 Venezuela|10 edição
+13 Venezuela|9 campeão
+13 Venezuela|8 Brasil
+13 Venezuela|7 Brasil
+13 Venezuela|6 favorita, favorito
+13 Venezuela|5 campanha
+13 Venezuela|4 Argentina
+13 Venezuela|2 final
+13 Venezuela|1 Brasil
+13 Venezuela|0 Argentina
+14 política, político|13 Venezuela
+14 política, político|12 futebol
+14 política, político|11 torneio
+14 política, político|10 edição
+14 política, político|9 campeão
+14 política, político|8 Brasil
+14 política, político|7 Brasil
+14 política, político|6 favorita, favorito
+14 política, político|5 campanha
+14 política, político|4 Argentina
+14 política, político|2 final
+14 política, político|1 Brasil
+14 política, político|0 Argentina
+15 presidente|14 política, político
+15 presidente|13 Venezuela
+15 presidente|12 futebol
+15 presidente|11 torneio
+15 presidente|10 edição
+15 presidente|9 campeão
+15 presidente|8 Brasil
+15 presidente|7 Brasil
+15 presidente|6 favorita, favorito
+15 presidente|5 campanha
+15 presidente|4 Argentina
+15 presidente|2 final
+15 presidente|1 Brasil
+15 presidente|0 Argentina
+17 seleção|15 presidente
+17 seleção|14 política, político
+17 seleção|13 Venezuela
+17 seleção|12 futebol
+17 seleção|11 torneio
+17 seleção|10 edição
+17 seleção|9 campeão
+17 seleção|8 Brasil
+17 seleção|7 Brasil
+17 seleção|6 favorita, favorito
+17 seleção|5 campanha
+17 seleção|4 Argentina
+17 seleção|2 final
+17 seleção|1 Brasil
+17 seleção|0 Argentina
+18 que|17 seleção
+18 que|15 presidente
+18 que|14 política, político
+18 que|13 Venezuela
+18 que|12 futebol
+18 que|11 torneio
+18 que|10 edição
+18 que|9 campeão
+18 que|8 Brasil
+18 que|7 Brasil
+18 que|6 favorita, favorito
+18 que|5 campanha
+18 que|4 Argentina
+18 que|2 final
+18 que|1 Brasil
+18 que|0 Argentina
+19 ano|18 que
+19 ano|17 seleção
+19 ano|15 presidente
+19 ano|14 política, político
+19 ano|13 Venezuela
+19 ano|12 futebol
+19 ano|11 torneio
+19 ano|10 edição
+19 ano|9 campeão
+19 ano|8 Brasil
+19 ano|7 Brasil
+19 ano|6 favorita, favorito
+19 ano|5 campanha
+19 ano|4 Argentina
+19 ano|2 final
+19 ano|1 Brasil
+19 ano|0 Argentina
+20 seu|19 ano
+20 seu|18 que
+20 seu|17 seleção
+20 seu|15 presidente
+20 seu|14 política, político
+20 seu|13 Venezuela
+20 seu|12 futebol
+20 seu|11 torneio
+20 seu|10 edição
+20 seu|9 campeão
+20 seu|8 Brasil
+20 seu|7 Brasil
+20 seu|6 favorita, favorito
+20 seu|5 campanha
+20 seu|4 Argentina
+20 seu|2 final
+20 seu|1 Brasil
+20 seu|0 Argentina
+21 competição, competir|20 seu
+21 competição, competir|19 ano
+21 competição, competir|18 que
+21 competição, competir|17 seleção
+21 competição, competir|15 presidente
+21 competição, competir|14 política, político
+21 competição, competir|13 Venezuela
+21 competição, competir|12 futebol
+21 competição, competir|11 torneio
+21 competição, competir|10 edição
+21 competição, competir|9 campeão
+21 competição, competir|8 Brasil
+21 competição, competir|7 Brasil
+21 competição, competir|6 favorita, favorito
+21 competição, competir|5 campanha
+21 competição, competir|4 Argentina
+21 competição, competir|2 final
+21 competição, competir|1 Brasil
+21 competição, competir|0 Argentina
+23 Argentina|21 competição, competir
+23 Argentina|20 seu
+23 Argentina|19 ano
+23 Argentina|18 que
+23 Argentina|17 seleção
+23 Argentina|15 presidente
+23 Argentina|14 política, político
+23 Argentina|13 Venezuela
+23 Argentina|12 futebol
+23 Argentina|11 torneio
+23 Argentina|10 edição
+23 Argentina|9 campeão
+23 Argentina|8 Brasil
+23 Argentina|7 Brasil
+23 Argentina|6 favorita, favorito
+23 Argentina|5 campanha
+23 Argentina|4 Argentina
+23 Argentina|2 final
+23 Argentina|1 Brasil
+23 Argentina|0 Argentina
+24 seu|23 Argentina
+24 seu|21 competição, competir
+24 seu|20 seu
+24 seu|19 ano
+24 seu|18 que
+24 seu|17 seleção
+24 seu|15 presidente
+24 seu|14 política, político
+24 seu|13 Venezuela
+24 seu|12 futebol
+24 seu|11 torneio
+24 seu|10 edição
+24 seu|9 campeão
+24 seu|8 Brasil
+24 seu|7 Brasil
+24 seu|6 favorita, favorito
+24 seu|5 campanha
+24 seu|4 Argentina
+24 seu|2 final
+24 seu|1 Brasil
+24 seu|0 Argentina
+25 título|24 seu
+25 título|23 Argentina
+25 título|21 competição, competir
+25 título|20 seu
+25 título|19 ano
+25 título|18 que
+25 título|17 seleção
+25 título|15 presidente
+25 título|14 política, político
+25 título|13 Venezuela
+25 título|12 futebol
+25 título|11 torneio
+25 título|10 edição
+25 título|9 campeão
+25 título|8 Brasil
+25 título|7 Brasil
+25 título|6 favorita, favorito
+25 título|5 campanha
+25 título|4 Argentina
+25 título|2 final
+25 título|1 Brasil
+25 título|0 Argentina
+26 disputa|25 título
+26 disputa|24 seu
+26 disputa|23 Argentina
+26 disputa|21 competição, competir
+26 disputa|20 seu
+26 disputa|19 ano
+26 disputa|18 que
+26 disputa|17 seleção
+26 disputa|15 presidente
+26 disputa|14 política, político
+26 disputa|13 Venezuela
+26 disputa|12 futebol
+26 disputa|11 torneio
+26 disputa|10 edição
+26 disputa|9 campeão
+26 disputa|8 Brasil
+26 disputa|7 Brasil
+26 disputa|6 favorita, favorito
+26 disputa|5 campanha
+26 disputa|4 Argentina
+26 disputa|2 final
+26 disputa|1 Brasil
+26 disputa|0 Argentina
+28 este|26 disputa
+28 este|25 título
+28 este|24 seu
+28 este|23 Argentina
+28 este|21 competição, competir
+28 este|20 seu
+28 este|19 ano
+28 este|18 que
+28 este|17 seleção
+28 este|15 presidente
+28 este|14 política, político
+28 este|13 Venezuela
+28 este|12 futebol
+28 este|11 torneio
+28 este|10 edição
+28 este|9 campeão
+28 este|8 Brasil
+28 este|7 Brasil
+28 este|6 favorita, favorito
+28 este|5 campanha
+28 este|4 Argentina
+28 este|2 final
+28 este|1 Brasil
+28 este|0 Argentina
+29 conquista|28 este
+29 conquista|26 disputa
+29 conquista|25 título
+29 conquista|24 seu
+29 conquista|23 Argentina
+29 conquista|21 competição, competir
+29 conquista|20 seu
+29 conquista|19 ano
+29 conquista|18 que
+29 conquista|17 seleção
+29 conquista|15 presidente
+29 conquista|14 política, político
+29 conquista|13 Venezuela
+29 conquista|12 futebol
+29 conquista|11 torneio
+29 conquista|10 edição
+29 conquista|9 campeão
+29 conquista|8 Brasil
+29 conquista|7 Brasil
+29 conquista|6 favorita, favorito
+29 conquista|5 campanha
+29 conquista|4 Argentina
+29 conquista|2 final
+29 conquista|1 Brasil
+29 conquista|0 Argentina
+31 técnico|29 conquista
+31 técnico|28 este
+31 técnico|26 disputa
+31 técnico|25 título
+31 técnico|24 seu
+31 técnico|23 Argentina
+31 técnico|21 competição, competir
+31 técnico|20 seu
+31 técnico|19 ano
+31 técnico|18 que
+31 técnico|17 seleção
+31 técnico|15 presidente
+31 técnico|14 política, político
+31 técnico|13 Venezuela
+31 técnico|12 futebol
+31 técnico|11 torneio
+31 técnico|10 edição
+31 técnico|9 campeão
+31 técnico|8 Brasil
+31 técnico|7 Brasil
+31 técnico|6 favorita, favorito
+31 técnico|5 campanha
+31 técnico|4 Argentina
+31 técnico|2 final
+31 técnico|1 Brasil
+31 técnico|0 Argentina
+32 estrela|31 técnico
+32 estrela|29 conquista
+32 estrela|28 este
+32 estrela|26 disputa
+32 estrela|25 título
+32 estrela|24 seu
+32 estrela|23 Argentina
+32 estrela|21 competição, competir
+32 estrela|20 seu
+32 estrela|19 ano
+32 estrela|18 que
+32 estrela|17 seleção
+32 estrela|15 presidente
+32 estrela|14 política, político
+32 estrela|13 Venezuela
+32 estrela|12 futebol
+32 estrela|11 torneio
+32 estrela|10 edição
+32 estrela|9 campeão
+32 estrela|8 Brasil
+32 estrela|7 Brasil
+32 estrela|6 favorita, favorito
+32 estrela|5 campanha
+32 estrela|4 Argentina
+32 estrela|2 final
+32 estrela|1 Brasil
+32 estrela|0 Argentina
+33 futebol|32 estrela
+33 futebol|31 técnico
+33 futebol|29 conquista
+33 futebol|28 este
+33 futebol|26 disputa
+33 futebol|25 título
+33 futebol|24 seu
+33 futebol|23 Argentina
+33 futebol|21 competição, competir
+33 futebol|20 seu
+33 futebol|19 ano
+33 futebol|18 que
+33 futebol|17 seleção
+33 futebol|15 presidente
+33 futebol|14 política, político
+33 futebol|13 Venezuela
+33 futebol|12 futebol
+33 futebol|11 torneio
+33 futebol|10 edição
+33 futebol|9 campeão
+33 futebol|8 Brasil
+33 futebol|7 Brasil
+33 futebol|6 favorita, favorito
+33 futebol|5 campanha
+33 futebol|4 Argentina
+33 futebol|2 final
+33 futebol|1 Brasil
+33 futebol|0 Argentina
+36 dispensa|33 futebol
+36 dispensa|32 estrela
+36 dispensa|31 técnico
+36 dispensa|29 conquista
+36 dispensa|28 este
+36 dispensa|26 disputa
+36 dispensa|25 título
+36 dispensa|24 seu
+36 dispensa|23 Argentina
+36 dispensa|21 competição, competir
+36 dispensa|20 seu
+36 dispensa|19 ano
+36 dispensa|18 que
+36 dispensa|17 seleção
+36 dispensa|15 presidente
+36 dispensa|14 política, político
+36 dispensa|13 Venezuela
+36 dispensa|12 futebol
+36 dispensa|11 torneio
+36 dispensa|10 edição
+36 dispensa|9 campeão
+36 dispensa|8 Brasil
+36 dispensa|7 Brasil
+36 dispensa|6 favorita, favorito
+36 dispensa|5 campanha
+36 dispensa|4 Argentina
+36 dispensa|2 final
+36 dispensa|1 Brasil
+36 dispensa|0 Argentina
+38 cansaço|36 dispensa
+38 cansaço|33 futebol
+38 cansaço|32 estrela
+38 cansaço|31 técnico
+38 cansaço|29 conquista
+38 cansaço|28 este
+38 cansaço|26 disputa
+38 cansaço|25 título
+38 cansaço|24 seu
+38 cansaço|23 Argentina
+38 cansaço|21 competição, competir
+38 cansaço|20 seu
+38 cansaço|19 ano
+38 cansaço|18 que
+38 cansaço|17 seleção
+38 cansaço|15 presidente
+38 cansaço|14 política, político
+38 cansaço|13 Venezuela
+38 cansaço|12 futebol
+38 cansaço|11 torneio
+38 cansaço|10 edição
+38 cansaço|9 campeão
+38 cansaço|8 Brasil
+38 cansaço|7 Brasil
+38 cansaço|6 favorita, favorito
+38 cansaço|5 campanha
+38 cansaço|4 Argentina
+38 cansaço|2 final
+38 cansaço|1 Brasil
+38 cansaço|0 Argentina
+39 título|38 cansaço
+39 título|36 dispensa
+39 título|33 futebol
+39 título|32 estrela
+39 título|31 técnico
+39 título|29 conquista
+39 título|28 este
+39 título|26 disputa
+39 título|25 título
+39 título|24 seu
+39 título|23 Argentina
+39 título|21 competição, competir
+39 título|20 seu
+39 título|19 ano
+39 título|18 que
+39 título|17 seleção
+39 título|15 presidente
+39 título|14 política, político
+39 título|13 Venezuela
+39 título|12 futebol
+39 título|11 torneio
+39 título|10 edição
+39 título|9 campeão
+39 título|8 Brasil
+39 título|7 Brasil
+39 título|6 favorita, favorito
+39 título|5 campanha
+39 título|4 Argentina
+39 título|2 final
+39 título|1 Brasil
+39 título|0 Argentina
+40 era|39 título
+40 era|38 cansaço
+40 era|36 dispensa
+40 era|33 futebol
+40 era|32 estrela
+40 era|31 técnico
+40 era|29 conquista
+40 era|28 este
+40 era|26 disputa
+40 era|25 título
+40 era|24 seu
+40 era|23 Argentina
+40 era|21 competição, competir
+40 era|20 seu
+40 era|19 ano
+40 era|18 que
+40 era|17 seleção
+40 era|15 presidente
+40 era|14 política, político
+40 era|13 Venezuela
+40 era|12 futebol
+40 era|11 torneio
+40 era|10 edição
+40 era|9 campeão
+40 era|8 Brasil
+40 era|7 Brasil
+40 era|6 favorita, favorito
+40 era|5 campanha
+40 era|4 Argentina
+40 era|2 final
+40 era|1 Brasil
+40 era|0 Argentina
+42 adversário|40 era
+42 adversário|39 título
+42 adversário|38 cansaço
+42 adversário|36 dispensa
+42 adversário|33 futebol
+42 adversário|32 estrela
+42 adversário|31 técnico
+42 adversário|29 conquista
+42 adversário|28 este
+42 adversário|26 disputa
+42 adversário|25 título
+42 adversário|24 seu
+42 adversário|23 Argentina
+42 adversário|21 competição, competir
+42 adversário|20 seu
+42 adversário|19 ano
+42 adversário|18 que
+42 adversário|17 seleção
+42 adversário|15 presidente
+42 adversário|14 política, político
+42 adversário|13 Venezuela
+42 adversário|12 futebol
+42 adversário|11 torneio
+42 adversário|10 edição
+42 adversário|9 campeão
+42 adversário|8 Brasil
+42 adversário|7 Brasil
+42 adversário|6 favorita, favorito
+42 adversário|5 campanha
+42 adversário|4 Argentina
+42 adversário|2 final
+42 adversário|1 Brasil
+42 adversário|0 Argentina
+43 expressão|42 adversário
+43 expressão|40 era
+43 expressão|39 título
+43 expressão|38 cansaço
+43 expressão|36 dispensa
+43 expressão|33 futebol
+43 expressão|32 estrela
+43 expressão|31 técnico
+43 expressão|29 conquista
+43 expressão|28 este
+43 expressão|26 disputa
+43 expressão|25 título
+43 expressão|24 seu
+43 expressão|23 Argentina
+43 expressão|21 competição, competir
+43 expressão|20 seu
+43 expressão|19 ano
+43 expressão|18 que
+43 expressão|17 seleção
+43 expressão|15 presidente
+43 expressão|14 política, político
+43 expressão|13 Venezuela
+43 expressão|12 futebol
+43 expressão|11 torneio
+43 expressão|10 edição
+43 expressão|9 campeão
+43 expressão|8 Brasil
+43 expressão|7 Brasil
+43 expressão|6 favorita, favorito
+43 expressão|5 campanha
+43 expressão|4 Argentina
+43 expressão|2 final
+43 expressão|1 Brasil
+43 expressão|0 Argentina
+44 Argentina|43 expressão
+44 Argentina|42 adversário
+44 Argentina|40 era
+44 Argentina|39 título
+44 Argentina|38 cansaço
+44 Argentina|36 dispensa
+44 Argentina|33 futebol
+44 Argentina|32 estrela
+44 Argentina|31 técnico
+44 Argentina|29 conquista
+44 Argentina|28 este
+44 Argentina|26 disputa
+44 Argentina|25 título
+44 Argentina|24 seu
+44 Argentina|23 Argentina
+44 Argentina|21 competição, competir
+44 Argentina|20 seu
+44 Argentina|19 ano
+44 Argentina|18 que
+44 Argentina|17 seleção
+44 Argentina|15 presidente
+44 Argentina|14 política, político
+44 Argentina|13 Venezuela
+44 Argentina|12 futebol
+44 Argentina|11 torneio
+44 Argentina|10 edição
+44 Argentina|9 campeão
+44 Argentina|8 Brasil
+44 Argentina|7 Brasil
+44 Argentina|6 favorita, favorito
+44 Argentina|5 campanha
+44 Argentina|4 Argentina
+44 Argentina|2 final
+44 Argentina|1 Brasil
+44 Argentina|0 Argentina
+46 que|44 Argentina
+46 que|43 expressão
+46 que|42 adversário
+46 que|40 era
+46 que|39 título
+46 que|38 cansaço
+46 que|36 dispensa
+46 que|33 futebol
+46 que|32 estrela
+46 que|31 técnico
+46 que|29 conquista
+46 que|28 este
+46 que|26 disputa
+46 que|25 título
+46 que|24 seu
+46 que|23 Argentina
+46 que|21 competição, competir
+46 que|20 seu
+46 que|19 ano
+46 que|18 que
+46 que|17 seleção
+46 que|15 presidente
+46 que|14 política, político
+46 que|13 Venezuela
+46 que|12 futebol
+46 que|11 torneio
+46 que|10 edição
+46 que|9 campeão
+46 que|8 Brasil
+46 que|7 Brasil
+46 que|6 favorita, favorito
+46 que|5 campanha
+46 que|4 Argentina
+46 que|2 final
+46 que|1 Brasil
+46 que|0 Argentina
+47 que|46 que
+47 que|44 Argentina
+47 que|43 expressão
+47 que|42 adversário
+47 que|40 era
+47 que|39 título
+47 que|38 cansaço
+47 que|36 dispensa
+47 que|33 futebol
+47 que|32 estrela
+47 que|31 técnico
+47 que|29 conquista
+47 que|28 este
+47 que|26 disputa
+47 que|25 título
+47 que|24 seu
+47 que|23 Argentina
+47 que|21 competição, competir
+47 que|20 seu
+47 que|19 ano
+47 que|18 que
+47 que|17 seleção
+47 que|15 presidente
+47 que|14 política, político
+47 que|13 Venezuela
+47 que|12 futebol
+47 que|11 torneio
+47 que|10 edição
+47 que|9 campeão
+47 que|8 Brasil
+47 que|7 Brasil
+47 que|6 favorita, favorito
+47 que|5 campanha
+47 que|4 Argentina
+47 que|2 final
+47 que|1 Brasil
+47 que|0 Argentina
+48 Brasil|47 que
+48 Brasil|46 que
+48 Brasil|44 Argentina
+48 Brasil|43 expressão
+48 Brasil|42 adversário
+48 Brasil|40 era
+48 Brasil|39 título
+48 Brasil|38 cansaço
+48 Brasil|36 dispensa
+48 Brasil|33 futebol
+48 Brasil|32 estrela
+48 Brasil|31 técnico
+48 Brasil|29 conquista
+48 Brasil|28 este
+48 Brasil|26 disputa
+48 Brasil|25 título
+48 Brasil|24 seu
+48 Brasil|23 Argentina
+48 Brasil|21 competição, competir
+48 Brasil|20 seu
+48 Brasil|19 ano
+48 Brasil|18 que
+48 Brasil|17 seleção
+48 Brasil|15 presidente
+48 Brasil|14 política, político
+48 Brasil|13 Venezuela
+48 Brasil|12 futebol
+48 Brasil|11 torneio
+48 Brasil|10 edição
+48 Brasil|9 campeão
+48 Brasil|8 Brasil
+48 Brasil|7 Brasil
+48 Brasil|6 favorita, favorito
+48 Brasil|5 campanha
+48 Brasil|4 Argentina
+48 Brasil|2 final
+48 Brasil|1 Brasil
+48 Brasil|0 Argentina
+50 treinador, treinar|48 Brasil
+50 treinador, treinar|47 que
+50 treinador, treinar|46 que
+50 treinador, treinar|44 Argentina
+50 treinador, treinar|43 expressão
+50 treinador, treinar|42 adversário
+50 treinador, treinar|40 era
+50 treinador, treinar|39 título
+50 treinador, treinar|38 cansaço
+50 treinador, treinar|36 dispensa
+50 treinador, treinar|33 futebol
+50 treinador, treinar|32 estrela
+50 treinador, treinar|31 técnico
+50 treinador, treinar|29 conquista
+50 treinador, treinar|28 este
+50 treinador, treinar|26 disputa
+50 treinador, treinar|25 título
+50 treinador, treinar|24 seu
+50 treinador, treinar|23 Argentina
+50 treinador, treinar|21 competição, competir
+50 treinador, treinar|20 seu
+50 treinador, treinar|19 ano
+50 treinador, treinar|18 que
+50 treinador, treinar|17 seleção
+50 treinador, treinar|15 presidente
+50 treinador, treinar|14 política, político
+50 treinador, treinar|13 Venezuela
+50 treinador, treinar|12 futebol
+50 treinador, treinar|11 torneio
+50 treinador, treinar|10 edição
+50 treinador, treinar|9 campeão
+50 treinador, treinar|8 Brasil
+50 treinador, treinar|7 Brasil
+50 treinador, treinar|6 favorita, favorito
+50 treinador, treinar|5 campanha
+50 treinador, treinar|4 Argentina
+50 treinador, treinar|2 final
+50 treinador, treinar|1 Brasil
+50 treinador, treinar|0 Argentina
+51 vitória|50 treinador, treinar
+51 vitória|48 Brasil
+51 vitória|47 que
+51 vitória|46 que
+51 vitória|44 Argentina
+51 vitória|43 expressão
+51 vitória|42 adversário
+51 vitória|40 era
+51 vitória|39 título
+51 vitória|38 cansaço
+51 vitória|36 dispensa
+51 vitória|33 futebol
+51 vitória|32 estrela
+51 vitória|31 técnico
+51 vitória|29 conquista
+51 vitória|28 este
+51 vitória|26 disputa
+51 vitória|25 título
+51 vitória|24 seu
+51 vitória|23 Argentina
+51 vitória|21 competição, competir
+51 vitória|20 seu
+51 vitória|19 ano
+51 vitória|18 que
+51 vitória|17 seleção
+51 vitória|15 presidente
+51 vitória|14 política, político
+51 vitória|13 Venezuela
+51 vitória|12 futebol
+51 vitória|11 torneio
+51 vitória|10 edição
+51 vitória|9 campeão
+51 vitória|8 Brasil
+51 vitória|7 Brasil
+51 vitória|6 favorita, favorito
+51 vitória|5 campanha
+51 vitória|4 Argentina
+51 vitória|2 final
+51 vitória|1 Brasil
+51 vitória|0 Argentina
+52 argentino|51 vitória
+52 argentino|50 treinador, treinar
+52 argentino|48 Brasil
+52 argentino|47 que
+52 argentino|46 que
+52 argentino|44 Argentina
+52 argentino|43 expressão
+52 argentino|42 adversário
+52 argentino|40 era
+52 argentino|39 título
+52 argentino|38 cansaço
+52 argentino|36 dispensa
+52 argentino|33 futebol
+52 argentino|32 estrela
+52 argentino|31 técnico
+52 argentino|29 conquista
+52 argentino|28 este
+52 argentino|26 disputa
+52 argentino|25 título
+52 argentino|24 seu
+52 argentino|23 Argentina
+52 argentino|21 competição, competir
+52 argentino|20 seu
+52 argentino|19 ano
+52 argentino|18 que
+52 argentino|17 seleção
+52 argentino|15 presidente
+52 argentino|14 política, político
+52 argentino|13 Venezuela
+52 argentino|12 futebol
+52 argentino|11 torneio
+52 argentino|10 edição
+52 argentino|9 campeão
+52 argentino|8 Brasil
+52 argentino|7 Brasil
+52 argentino|6 favorita, favorito
+52 argentino|5 campanha
+52 argentino|4 Argentina
+52 argentino|2 final
+52 argentino|1 Brasil
+52 argentino|0 Argentina
+54 outro|52 argentino
+54 outro|51 vitória
+54 outro|50 treinador, treinar
+54 outro|48 Brasil
+54 outro|47 que
+54 outro|46 que
+54 outro|44 Argentina
+54 outro|43 expressão
+54 outro|42 adversário
+54 outro|40 era
+54 outro|39 título
+54 outro|38 cansaço
+54 outro|36 dispensa
+54 outro|33 futebol
+54 outro|32 estrela
+54 outro|31 técnico
+54 outro|29 conquista
+54 outro|28 este
+54 outro|26 disputa
+54 outro|25 título
+54 outro|24 seu
+54 outro|23 Argentina
+54 outro|21 competição, competir
+54 outro|20 seu
+54 outro|19 ano
+54 outro|18 que
+54 outro|17 seleção
+54 outro|15 presidente
+54 outro|14 política, político
+54 outro|13 Venezuela
+54 outro|12 futebol
+54 outro|11 torneio
+54 outro|10 edição
+54 outro|9 campeão
+54 outro|8 Brasil
+54 outro|7 Brasil
+54 outro|6 favorita, favorito
+54 outro|5 campanha
+54 outro|4 Argentina
+54 outro|2 final
+54 outro|1 Brasil
+54 outro|0 Argentina
+55 confronto|54 outro
+55 confronto|52 argentino
+55 confronto|51 vitória
+55 confronto|50 treinador, treinar
+55 confronto|48 Brasil
+55 confronto|47 que
+55 confronto|46 que
+55 confronto|44 Argentina
+55 confronto|43 expressão
+55 confronto|42 adversário
+55 confronto|40 era
+55 confronto|39 título
+55 confronto|38 cansaço
+55 confronto|36 dispensa
+55 confronto|33 futebol
+55 confronto|32 estrela
+55 confronto|31 técnico
+55 confronto|29 conquista
+55 confronto|28 este
+55 confronto|26 disputa
+55 confronto|25 título
+55 confronto|24 seu
+55 confronto|23 Argentina
+55 confronto|21 competição, competir
+55 confronto|20 seu
+55 confronto|19 ano
+55 confronto|18 que
+55 confronto|17 seleção
+55 confronto|15 presidente
+55 confronto|14 política, político
+55 confronto|13 Venezuela
+55 confronto|12 futebol
+55 confronto|11 torneio
+55 confronto|10 edição
+55 confronto|9 campeão
+55 confronto|8 Brasil
+55 confronto|7 Brasil
+55 confronto|6 favorita, favorito
+55 confronto|5 campanha
+55 confronto|4 Argentina
+55 confronto|2 final
+55 confronto|1 Brasil
+55 confronto|0 Argentina
+56 América|55 confronto
+56 América|54 outro
+56 América|52 argentino
+56 América|51 vitória
+56 América|50 treinador, treinar
+56 América|48 Brasil
+56 América|47 que
+56 América|46 que
+56 América|44 Argentina
+56 América|43 expressão
+56 América|42 adversário
+56 América|40 era
+56 América|39 título
+56 América|38 cansaço
+56 América|36 dispensa
+56 América|33 futebol
+56 América|32 estrela
+56 América|31 técnico
+56 América|29 conquista
+56 América|28 este
+56 América|26 disputa
+56 América|25 título
+56 América|24 seu
+56 América|23 Argentina
+56 América|21 competição, competir
+56 América|20 seu
+56 América|19 ano
+56 América|18 que
+56 América|17 seleção
+56 América|15 presidente
+56 América|14 política, político
+56 América|13 Venezuela
+56 América|12 futebol
+56 América|11 torneio
+56 América|10 edição
+56 América|9 campeão
+56 América|8 Brasil
+56 América|7 Brasil
+56 América|6 favorita, favorito
+56 América|5 campanha
+56 América|4 Argentina
+56 América|2 final
+56 América|1 Brasil
+56 América|0 Argentina
+57 Londres|56 América
+57 Londres|55 confronto
+57 Londres|54 outro
+57 Londres|52 argentino
+57 Londres|51 vitória
+57 Londres|50 treinador, treinar
+57 Londres|48 Brasil
+57 Londres|47 que
+57 Londres|46 que
+57 Londres|44 Argentina
+57 Londres|43 expressão
+57 Londres|42 adversário
+57 Londres|40 era
+57 Londres|39 título
+57 Londres|38 cansaço
+57 Londres|36 dispensa
+57 Londres|33 futebol
+57 Londres|32 estrela
+57 Londres|31 técnico
+57 Londres|29 conquista
+57 Londres|28 este
+57 Londres|26 disputa
+57 Londres|25 título
+57 Londres|24 seu
+57 Londres|23 Argentina
+57 Londres|21 competição, competir
+57 Londres|20 seu
+57 Londres|19 ano
+57 Londres|18 que
+57 Londres|17 seleção
+57 Londres|15 presidente
+57 Londres|14 política, político
+57 Londres|13 Venezuela
+57 Londres|12 futebol
+57 Londres|11 torneio
+57 Londres|10 edição
+57 Londres|9 campeão
+57 Londres|8 Brasil
+57 Londres|7 Brasil
+57 Londres|6 favorita, favorito
+57 Londres|5 campanha
+57 Londres|4 Argentina
+57 Londres|2 final
+57 Londres|1 Brasil
+57 Londres|0 Argentina
+59 técnico|57 Londres
+59 técnico|56 América
+59 técnico|55 confronto
+59 técnico|54 outro
+59 técnico|52 argentino
+59 técnico|51 vitória
+59 técnico|50 treinador, treinar
+59 técnico|48 Brasil
+59 técnico|47 que
+59 técnico|46 que
+59 técnico|44 Argentina
+59 técnico|43 expressão
+59 técnico|42 adversário
+59 técnico|40 era
+59 técnico|39 título
+59 técnico|38 cansaço
+59 técnico|36 dispensa
+59 técnico|33 futebol
+59 técnico|32 estrela
+59 técnico|31 técnico
+59 técnico|29 conquista
+59 técnico|28 este
+59 técnico|26 disputa
+59 técnico|25 título
+59 técnico|24 seu
+59 técnico|23 Argentina
+59 técnico|21 competição, competir
+59 técnico|20 seu
+59 técnico|19 ano
+59 técnico|18 que
+59 técnico|17 seleção
+59 técnico|15 presidente
+59 técnico|14 política, político
+59 técnico|13 Venezuela
+59 técnico|12 futebol
+59 técnico|11 torneio
+59 técnico|10 edição
+59 técnico|9 campeão
+59 técnico|8 Brasil
+59 técnico|7 Brasil
+59 técnico|6 favorita, favorito
+59 técnico|5 campanha
+59 técnico|4 Argentina
+59 técnico|2 final
+59 técnico|1 Brasil
+59 técnico|0 Argentina
+61 frente|59 técnico
+61 frente|57 Londres
+61 frente|56 América
+61 frente|55 confronto
+61 frente|54 outro
+61 frente|52 argentino
+61 frente|51 vitória
+61 frente|50 treinador, treinar
+61 frente|48 Brasil
+61 frente|47 que
+61 frente|46 que
+61 frente|44 Argentina
+61 frente|43 expressão
+61 frente|42 adversário
+61 frente|40 era
+61 frente|39 título
+61 frente|38 cansaço
+61 frente|36 dispensa
+61 frente|33 futebol
+61 frente|32 estrela
+61 frente|31 técnico
+61 frente|29 conquista
+61 frente|28 este
+61 frente|26 disputa
+61 frente|25 título
+61 frente|24 seu
+61 frente|23 Argentina
+61 frente|21 competição, competir
+61 frente|20 seu
+61 frente|19 ano
+61 frente|18 que
+61 frente|17 seleção
+61 frente|15 presidente
+61 frente|14 política, político
+61 frente|13 Venezuela
+61 frente|12 futebol
+61 frente|11 torneio
+61 frente|10 edição
+61 frente|9 campeão
+61 frente|8 Brasil
+61 frente|7 Brasil
+61 frente|6 favorita, favorito
+61 frente|5 campanha
+61 frente|4 Argentina
+61 frente|2 final
+61 frente|1 Brasil
+61 frente|0 Argentina
+62 seleção|61 frente
+62 seleção|59 técnico
+62 seleção|57 Londres
+62 seleção|56 América
+62 seleção|55 confronto
+62 seleção|54 outro
+62 seleção|52 argentino
+62 seleção|51 vitória
+62 seleção|50 treinador, treinar
+62 seleção|48 Brasil
+62 seleção|47 que
+62 seleção|46 que
+62 seleção|44 Argentina
+62 seleção|43 expressão
+62 seleção|42 adversário
+62 seleção|40 era
+62 seleção|39 título
+62 seleção|38 cansaço
+62 seleção|36 dispensa
+62 seleção|33 futebol
+62 seleção|32 estrela
+62 seleção|31 técnico
+62 seleção|29 conquista
+62 seleção|28 este
+62 seleção|26 disputa
+62 seleção|25 título
+62 seleção|24 seu
+62 seleção|23 Argentina
+62 seleção|21 competição, competir
+62 seleção|20 seu
+62 seleção|19 ano
+62 seleção|18 que
+62 seleção|17 seleção
+62 seleção|15 presidente
+62 seleção|14 política, político
+62 seleção|13 Venezuela
+62 seleção|12 futebol
+62 seleção|11 torneio
+62 seleção|10 edição
+62 seleção|9 campeão
+62 seleção|8 Brasil
+62 seleção|7 Brasil
+62 seleção|6 favorita, favorito
+62 seleção|5 campanha
+62 seleção|4 Argentina
+62 seleção|2 final
+62 seleção|1 Brasil
+62 seleção|0 Argentina
+63 que|62 seleção
+63 que|61 frente
+63 que|59 técnico
+63 que|57 Londres
+63 que|56 América
+63 que|55 confronto
+63 que|54 outro
+63 que|52 argentino
+63 que|51 vitória
+63 que|50 treinador, treinar
+63 que|48 Brasil
+63 que|47 que
+63 que|46 que
+63 que|44 Argentina
+63 que|43 expressão
+63 que|42 adversário
+63 que|40 era
+63 que|39 título
+63 que|38 cansaço
+63 que|36 dispensa
+63 que|33 futebol
+63 que|32 estrela
+63 que|31 técnico
+63 que|29 conquista
+63 que|28 este
+63 que|26 disputa
+63 que|25 título
+63 que|24 seu
+63 que|23 Argentina
+63 que|21 competição, competir
+63 que|20 seu
+63 que|19 ano
+63 que|18 que
+63 que|17 seleção
+63 que|15 presidente
+63 que|14 política, político
+63 que|13 Venezuela
+63 que|12 futebol
+63 que|11 torneio
+63 que|10 edição
+63 que|9 campeão
+63 que|8 Brasil
+63 que|7 Brasil
+63 que|6 favorita, favorito
+63 que|5 campanha
+63 que|4 Argentina
+63 que|2 final
+63 que|1 Brasil
+63 que|0 Argentina
+64 que|63 que
+64 que|62 seleção
+64 que|61 frente
+64 que|59 técnico
+64 que|57 Londres
+64 que|56 América
+64 que|55 confronto
+64 que|54 outro
+64 que|52 argentino
+64 que|51 vitória
+64 que|50 treinador, treinar
+64 que|48 Brasil
+64 que|47 que
+64 que|46 que
+64 que|44 Argentina
+64 que|43 expressão
+64 que|42 adversário
+64 que|40 era
+64 que|39 título
+64 que|38 cansaço
+64 que|36 dispensa
+64 que|33 futebol
+64 que|32 estrela
+64 que|31 técnico
+64 que|29 conquista
+64 que|28 este
+64 que|26 disputa
+64 que|25 título
+64 que|24 seu
+64 que|23 Argentina
+64 que|21 competição, competir
+64 que|20 seu
+64 que|19 ano
+64 que|18 que
+64 que|17 seleção
+64 que|15 presidente
+64 que|14 política, político
+64 que|13 Venezuela
+64 que|12 futebol
+64 que|11 torneio
+64 que|10 edição
+64 que|9 campeão
+64 que|8 Brasil
+64 que|7 Brasil
+64 que|6 favorita, favorito
+64 que|5 campanha
+64 que|4 Argentina
+64 que|2 final
+64 que|1 Brasil
+64 que|0 Argentina
+65 chance|64 que
+65 chance|63 que
+65 chance|62 seleção
+65 chance|61 frente
+65 chance|59 técnico
+65 chance|57 Londres
+65 chance|56 América
+65 chance|55 confronto
+65 chance|54 outro
+65 chance|52 argentino
+65 chance|51 vitória
+65 chance|50 treinador, treinar
+65 chance|48 Brasil
+65 chance|47 que
+65 chance|46 que
+65 chance|44 Argentina
+65 chance|43 expressão
+65 chance|42 adversário
+65 chance|40 era
+65 chance|39 título
+65 chance|38 cansaço
+65 chance|36 dispensa
+65 chance|33 futebol
+65 chance|32 estrela
+65 chance|31 técnico
+65 chance|29 conquista
+65 chance|28 este
+65 chance|26 disputa
+65 chance|25 título
+65 chance|24 seu
+65 chance|23 Argentina
+65 chance|21 competição, competir
+65 chance|20 seu
+65 chance|19 ano
+65 chance|18 que
+65 chance|17 seleção
+65 chance|15 presidente
+65 chance|14 política, político
+65 chance|13 Venezuela
+65 chance|12 futebol
+65 chance|11 torneio
+65 chance|10 edição
+65 chance|9 campeão
+65 chance|8 Brasil
+65 chance|7 Brasil
+65 chance|6 favorita, favorito
+65 chance|5 campanha
+65 chance|4 Argentina
+65 chance|2 final
+65 chance|1 Brasil
+65 chance|0 Argentina
+66 sua|65 chance
+66 sua|64 que
+66 sua|63 que
+66 sua|62 seleção
+66 sua|61 frente
+66 sua|59 técnico
+66 sua|57 Londres
+66 sua|56 América
+66 sua|55 confronto
+66 sua|54 outro
+66 sua|52 argentino
+66 sua|51 vitória
+66 sua|50 treinador, treinar
+66 sua|48 Brasil
+66 sua|47 que
+66 sua|46 que
+66 sua|44 Argentina
+66 sua|43 expressão
+66 sua|42 adversário
+66 sua|40 era
+66 sua|39 título
+66 sua|38 cansaço
+66 sua|36 dispensa
+66 sua|33 futebol
+66 sua|32 estrela
+66 sua|31 técnico
+66 sua|29 conquista
+66 sua|28 este
+66 sua|26 disputa
+66 sua|25 título
+66 sua|24 seu
+66 sua|23 Argentina
+66 sua|21 competição, competir
+66 sua|20 seu
+66 sua|19 ano
+66 sua|18 que
+66 sua|17 seleção
+66 sua|15 presidente
+66 sua|14 política, político
+66 sua|13 Venezuela
+66 sua|12 futebol
+66 sua|11 torneio
+66 sua|10 edição
+66 sua|9 campeão
+66 sua|8 Brasil
+66 sua|7 Brasil
+66 sua|6 favorita, favorito
+66 sua|5 campanha
+66 sua|4 Argentina
+66 sua|2 final
+66 sua|1 Brasil
+66 sua|0 Argentina
+67 ele|66 sua
+67 ele|65 chance
+67 ele|64 que
+67 ele|63 que
+67 ele|62 seleção
+67 ele|61 frente
+67 ele|59 técnico
+67 ele|57 Londres
+67 ele|56 América
+67 ele|55 confronto
+67 ele|54 outro
+67 ele|52 argentino
+67 ele|51 vitória
+67 ele|50 treinador, treinar
+67 ele|48 Brasil
+67 ele|47 que
+67 ele|46 que
+67 ele|44 Argentina
+67 ele|43 expressão
+67 ele|42 adversário
+67 ele|40 era
+67 ele|39 título
+67 ele|38 cansaço
+67 ele|36 dispensa
+67 ele|33 futebol
+67 ele|32 estrela
+67 ele|31 técnico
+67 ele|29 conquista
+67 ele|28 este
+67 ele|26 disputa
+67 ele|25 título
+67 ele|24 seu
+67 ele|23 Argentina
+67 ele|21 competição, competir
+67 ele|20 seu
+67 ele|19 ano
+67 ele|18 que
+67 ele|17 seleção
+67 ele|15 presidente
+67 ele|14 política, político
+67 ele|13 Venezuela
+67 ele|12 futebol
+67 ele|11 torneio
+67 ele|10 edição
+67 ele|9 campeão
+67 ele|8 Brasil
+67 ele|7 Brasil
+67 ele|6 favorita, favorito
+67 ele|5 campanha
+67 ele|4 Argentina
+67 ele|2 final
+67 ele|1 Brasil
+67 ele|0 Argentina
+68 treinador, treinar|67 ele
+68 treinador, treinar|66 sua
+68 treinador, treinar|65 chance
+68 treinador, treinar|64 que
+68 treinador, treinar|63 que
+68 treinador, treinar|62 seleção
+68 treinador, treinar|61 frente
+68 treinador, treinar|59 técnico
+68 treinador, treinar|57 Londres
+68 treinador, treinar|56 América
+68 treinador, treinar|55 confronto
+68 treinador, treinar|54 outro
+68 treinador, treinar|52 argentino
+68 treinador, treinar|51 vitória
+68 treinador, treinar|50 treinador, treinar
+68 treinador, treinar|48 Brasil
+68 treinador, treinar|47 que
+68 treinador, treinar|46 que
+68 treinador, treinar|44 Argentina
+68 treinador, treinar|43 expressão
+68 treinador, treinar|42 adversário
+68 treinador, treinar|40 era
+68 treinador, treinar|39 título
+68 treinador, treinar|38 cansaço
+68 treinador, treinar|36 dispensa
+68 treinador, treinar|33 futebol
+68 treinador, treinar|32 estrela
+68 treinador, treinar|31 técnico
+68 treinador, treinar|29 conquista
+68 treinador, treinar|28 este
+68 treinador, treinar|26 disputa
+68 treinador, treinar|25 título
+68 treinador, treinar|24 seu
+68 treinador, treinar|23 Argentina
+68 treinador, treinar|21 competição, competir
+68 treinador, treinar|20 seu
+68 treinador, treinar|19 ano
+68 treinador, treinar|18 que
+68 treinador, treinar|17 seleção
+68 treinador, treinar|15 presidente
+68 treinador, treinar|14 política, político
+68 treinador, treinar|13 Venezuela
+68 treinador, treinar|12 futebol
+68 treinador, treinar|11 torneio
+68 treinador, treinar|10 edição
+68 treinador, treinar|9 campeão
+68 treinador, treinar|8 Brasil
+68 treinador, treinar|7 Brasil
+68 treinador, treinar|6 favorita, favorito
+68 treinador, treinar|5 campanha
+68 treinador, treinar|4 Argentina
+68 treinador, treinar|2 final
+68 treinador, treinar|1 Brasil
+68 treinador, treinar|0 Argentina
+69 conquista|68 treinador, treinar
+69 conquista|67 ele
+69 conquista|66 sua
+69 conquista|65 chance
+69 conquista|64 que
+69 conquista|63 que
+69 conquista|62 seleção
+69 conquista|61 frente
+69 conquista|59 técnico
+69 conquista|57 Londres
+69 conquista|56 América
+69 conquista|55 confronto
+69 conquista|54 outro
+69 conquista|52 argentino
+69 conquista|51 vitória
+69 conquista|50 treinador, treinar
+69 conquista|48 Brasil
+69 conquista|47 que
+69 conquista|46 que
+69 conquista|44 Argentina
+69 conquista|43 expressão
+69 conquista|42 adversário
+69 conquista|40 era
+69 conquista|39 título
+69 conquista|38 cansaço
+69 conquista|36 dispensa
+69 conquista|33 futebol
+69 conquista|32 estrela
+69 conquista|31 técnico
+69 conquista|29 conquista
+69 conquista|28 este
+69 conquista|26 disputa
+69 conquista|25 título
+69 conquista|24 seu
+69 conquista|23 Argentina
+69 conquista|21 competição, competir
+69 conquista|20 seu
+69 conquista|19 ano
+69 conquista|18 que
+69 conquista|17 seleção
+69 conquista|15 presidente
+69 conquista|14 política, político
+69 conquista|13 Venezuela
+69 conquista|12 futebol
+69 conquista|11 torneio
+69 conquista|10 edição
+69 conquista|9 campeão
+69 conquista|8 Brasil
+69 conquista|7 Brasil
+69 conquista|6 favorita, favorito
+69 conquista|5 campanha
+69 conquista|4 Argentina
+69 conquista|2 final
+69 conquista|1 Brasil
+69 conquista|0 Argentina
+70 seu|69 conquista
+70 seu|68 treinador, treinar
+70 seu|67 ele
+70 seu|66 sua
+70 seu|65 chance
+70 seu|64 que
+70 seu|63 que
+70 seu|62 seleção
+70 seu|61 frente
+70 seu|59 técnico
+70 seu|57 Londres
+70 seu|56 América
+70 seu|55 confronto
+70 seu|54 outro
+70 seu|52 argentino
+70 seu|51 vitória
+70 seu|50 treinador, treinar
+70 seu|48 Brasil
+70 seu|47 que
+70 seu|46 que
+70 seu|44 Argentina
+70 seu|43 expressão
+70 seu|42 adversário
+70 seu|40 era
+70 seu|39 título
+70 seu|38 cansaço
+70 seu|36 dispensa
+70 seu|33 futebol
+70 seu|32 estrela
+70 seu|31 técnico
+70 seu|29 conquista
+70 seu|28 este
+70 seu|26 disputa
+70 seu|25 título
+70 seu|24 seu
+70 seu|23 Argentina
+70 seu|21 competição, competir
+70 seu|20 seu
+70 seu|19 ano
+70 seu|18 que
+70 seu|17 seleção
+70 seu|15 presidente
+70 seu|14 política, político
+70 seu|13 Venezuela
+70 seu|12 futebol
+70 seu|11 torneio
+70 seu|10 edição
+70 seu|9 campeão
+70 seu|8 Brasil
+70 seu|7 Brasil
+70 seu|6 favorita, favorito
+70 seu|5 campanha
+70 seu|4 Argentina
+70 seu|2 final
+70 seu|1 Brasil
+70 seu|0 Argentina
+71 torneio|70 seu
+71 torneio|69 conquista
+71 torneio|68 treinador, treinar
+71 torneio|67 ele
+71 torneio|66 sua
+71 torneio|65 chance
+71 torneio|64 que
+71 torneio|63 que
+71 torneio|62 seleção
+71 torneio|61 frente
+71 torneio|59 técnico
+71 torneio|57 Londres
+71 torneio|56 América
+71 torneio|55 confronto
+71 torneio|54 outro
+71 torneio|52 argentino
+71 torneio|51 vitória
+71 torneio|50 treinador, treinar
+71 torneio|48 Brasil
+71 torneio|47 que
+71 torneio|46 que
+71 torneio|44 Argentina
+71 torneio|43 expressão
+71 torneio|42 adversário
+71 torneio|40 era
+71 torneio|39 título
+71 torneio|38 cansaço
+71 torneio|36 dispensa
+71 torneio|33 futebol
+71 torneio|32 estrela
+71 torneio|31 técnico
+71 torneio|29 conquista
+71 torneio|28 este
+71 torneio|26 disputa
+71 torneio|25 título
+71 torneio|24 seu
+71 torneio|23 Argentina
+71 torneio|21 competição, competir
+71 torneio|20 seu
+71 torneio|19 ano
+71 torneio|18 que
+71 torneio|17 seleção
+71 torneio|15 presidente
+71 torneio|14 política, político
+71 torneio|13 Venezuela
+71 torneio|12 futebol
+71 torneio|11 torneio
+71 torneio|10 edição
+71 torneio|9 campeão
+71 torneio|8 Brasil
+71 torneio|7 Brasil
+71 torneio|6 favorita, favorito
+71 torneio|5 campanha
+71 torneio|4 Argentina
+71 torneio|2 final
+71 torneio|1 Brasil
+71 torneio|0 Argentina
+72 façanha|71 torneio
+72 façanha|70 seu
+72 façanha|69 conquista
+72 façanha|68 treinador, treinar
+72 façanha|67 ele
+72 façanha|66 sua
+72 façanha|65 chance
+72 façanha|64 que
+72 façanha|63 que
+72 façanha|62 seleção
+72 façanha|61 frente
+72 façanha|59 técnico
+72 façanha|57 Londres
+72 façanha|56 América
+72 façanha|55 confronto
+72 façanha|54 outro
+72 façanha|52 argentino
+72 façanha|51 vitória
+72 façanha|50 treinador, treinar
+72 façanha|48 Brasil
+72 façanha|47 que
+72 façanha|46 que
+72 façanha|44 Argentina
+72 façanha|43 expressão
+72 façanha|42 adversário
+72 façanha|40 era
+72 façanha|39 título
+72 façanha|38 cansaço
+72 façanha|36 dispensa
+72 façanha|33 futebol
+72 façanha|32 estrela
+72 façanha|31 técnico
+72 façanha|29 conquista
+72 façanha|28 este
+72 façanha|26 disputa
+72 façanha|25 título
+72 façanha|24 seu
+72 façanha|23 Argentina
+72 façanha|21 competição, competir
+72 façanha|20 seu
+72 façanha|19 ano
+72 façanha|18 que
+72 façanha|17 seleção
+72 façanha|15 presidente
+72 façanha|14 política, político
+72 façanha|13 Venezuela
+72 façanha|12 futebol
+72 façanha|11 torneio
+72 façanha|10 edição
+72 façanha|9 campeão
+72 façanha|8 Brasil
+72 façanha|7 Brasil
+72 façanha|6 favorita, favorito
+72 façanha|5 campanha
+72 façanha|4 Argentina
+72 façanha|2 final
+72 façanha|1 Brasil
+72 façanha|0 Argentina
+74 seu|72 façanha
+74 seu|71 torneio
+74 seu|70 seu
+74 seu|69 conquista
+74 seu|68 treinador, treinar
+74 seu|67 ele
+74 seu|66 sua
+74 seu|65 chance
+74 seu|64 que
+74 seu|63 que
+74 seu|62 seleção
+74 seu|61 frente
+74 seu|59 técnico
+74 seu|57 Londres
+74 seu|56 América
+74 seu|55 confronto
+74 seu|54 outro
+74 seu|52 argentino
+74 seu|51 vitória
+74 seu|50 treinador, treinar
+74 seu|48 Brasil
+74 seu|47 que
+74 seu|46 que
+74 seu|44 Argentina
+74 seu|43 expressão
+74 seu|42 adversário
+74 seu|40 era
+74 seu|39 título
+74 seu|38 cansaço
+74 seu|36 dispensa
+74 seu|33 futebol
+74 seu|32 estrela
+74 seu|31 técnico
+74 seu|29 conquista
+74 seu|28 este
+74 seu|26 disputa
+74 seu|25 título
+74 seu|24 seu
+74 seu|23 Argentina
+74 seu|21 competição, competir
+74 seu|20 seu
+74 seu|19 ano
+74 seu|18 que
+74 seu|17 seleção
+74 seu|15 presidente
+74 seu|14 política, político
+74 seu|13 Venezuela
+74 seu|12 futebol
+74 seu|11 torneio
+74 seu|10 edição
+74 seu|9 campeão
+74 seu|8 Brasil
+74 seu|7 Brasil
+74 seu|6 favorita, favorito
+74 seu|5 campanha
+74 seu|4 Argentina
+74 seu|2 final
+74 seu|1 Brasil
+74 seu|0 Argentina
+75 volante|74 seu
+75 volante|72 façanha
+75 volante|71 torneio
+75 volante|70 seu
+75 volante|69 conquista
+75 volante|68 treinador, treinar
+75 volante|67 ele
+75 volante|66 sua
+75 volante|65 chance
+75 volante|64 que
+75 volante|63 que
+75 volante|62 seleção
+75 volante|61 frente
+75 volante|59 técnico
+75 volante|57 Londres
+75 volante|56 América
+75 volante|55 confronto
+75 volante|54 outro
+75 volante|52 argentino
+75 volante|51 vitória
+75 volante|50 treinador, treinar
+75 volante|48 Brasil
+75 volante|47 que
+75 volante|46 que
+75 volante|44 Argentina
+75 volante|43 expressão
+75 volante|42 adversário
+75 volante|40 era
+75 volante|39 título
+75 volante|38 cansaço
+75 volante|36 dispensa
+75 volante|33 futebol
+75 volante|32 estrela
+75 volante|31 técnico
+75 volante|29 conquista
+75 volante|28 este
+75 volante|26 disputa
+75 volante|25 título
+75 volante|24 seu
+75 volante|23 Argentina
+75 volante|21 competição, competir
+75 volante|20 seu
+75 volante|19 ano
+75 volante|18 que
+75 volante|17 seleção
+75 volante|15 presidente
+75 volante|14 política, político
+75 volante|13 Venezuela
+75 volante|12 futebol
+75 volante|11 torneio
+75 volante|10 edição
+75 volante|9 campeão
+75 volante|8 Brasil
+75 volante|7 Brasil
+75 volante|6 favorita, favorito
+75 volante|5 campanha
+75 volante|4 Argentina
+75 volante|2 final
+75 volante|1 Brasil
+75 volante|0 Argentina
+77 treinador, treinar|75 volante
+77 treinador, treinar|74 seu
+77 treinador, treinar|72 façanha
+77 treinador, treinar|71 torneio
+77 treinador, treinar|70 seu
+77 treinador, treinar|69 conquista
+77 treinador, treinar|68 treinador, treinar
+77 treinador, treinar|67 ele
+77 treinador, treinar|66 sua
+77 treinador, treinar|65 chance
+77 treinador, treinar|64 que
+77 treinador, treinar|63 que
+77 treinador, treinar|62 seleção
+77 treinador, treinar|61 frente
+77 treinador, treinar|59 técnico
+77 treinador, treinar|57 Londres
+77 treinador, treinar|56 América
+77 treinador, treinar|55 confronto
+77 treinador, treinar|54 outro
+77 treinador, treinar|52 argentino
+77 treinador, treinar|51 vitória
+77 treinador, treinar|50 treinador, treinar
+77 treinador, treinar|48 Brasil
+77 treinador, treinar|47 que
+77 treinador, treinar|46 que
+77 treinador, treinar|44 Argentina
+77 treinador, treinar|43 expressão
+77 treinador, treinar|42 adversário
+77 treinador, treinar|40 era
+77 treinador, treinar|39 título
+77 treinador, treinar|38 cansaço
+77 treinador, treinar|36 dispensa
+77 treinador, treinar|33 futebol
+77 treinador, treinar|32 estrela
+77 treinador, treinar|31 técnico
+77 treinador, treinar|29 conquista
+77 treinador, treinar|28 este
+77 treinador, treinar|26 disputa
+77 treinador, treinar|25 título
+77 treinador, treinar|24 seu
+77 treinador, treinar|23 Argentina
+77 treinador, treinar|21 competição, competir
+77 treinador, treinar|20 seu
+77 treinador, treinar|19 ano
+77 treinador, treinar|18 que
+77 treinador, treinar|17 seleção
+77 treinador, treinar|15 presidente
+77 treinador, treinar|14 política, político
+77 treinador, treinar|13 Venezuela
+77 treinador, treinar|12 futebol
+77 treinador, treinar|11 torneio
+77 treinador, treinar|10 edição
+77 treinador, treinar|9 campeão
+77 treinador, treinar|8 Brasil
+77 treinador, treinar|7 Brasil
+77 treinador, treinar|6 favorita, favorito
+77 treinador, treinar|5 campanha
+77 treinador, treinar|4 Argentina
+77 treinador, treinar|2 final
+77 treinador, treinar|1 Brasil
+77 treinador, treinar|0 Argentina
+78 partida|77 treinador, treinar
+78 partida|75 volante
+78 partida|74 seu
+78 partida|72 façanha
+78 partida|71 torneio
+78 partida|70 seu
+78 partida|69 conquista
+78 partida|68 treinador, treinar
+78 partida|67 ele
+78 partida|66 sua
+78 partida|65 chance
+78 partida|64 que
+78 partida|63 que
+78 partida|62 seleção
+78 partida|61 frente
+78 partida|59 técnico
+78 partida|57 Londres
+78 partida|56 América
+78 partida|55 confronto
+78 partida|54 outro
+78 partida|52 argentino
+78 partida|51 vitória
+78 partida|50 treinador, treinar
+78 partida|48 Brasil
+78 partida|47 que
+78 partida|46 que
+78 partida|44 Argentina
+78 partida|43 expressão
+78 partida|42 adversário
+78 partida|40 era
+78 partida|39 título
+78 partida|38 cansaço
+78 partida|36 dispensa
+78 partida|33 futebol
+78 partida|32 estrela
+78 partida|31 técnico
+78 partida|29 conquista
+78 partida|28 este
+78 partida|26 disputa
+78 partida|25 título
+78 partida|24 seu
+78 partida|23 Argentina
+78 partida|21 competição, competir
+78 partida|20 seu
+78 partida|19 ano
+78 partida|18 que
+78 partida|17 seleção
+78 partida|15 presidente
+78 partida|14 política, político
+78 partida|13 Venezuela
+78 partida|12 futebol
+78 partida|11 torneio
+78 partida|10 edição
+78 partida|9 campeão
+78 partida|8 Brasil
+78 partida|7 Brasil
+78 partida|6 favorita, favorito
+78 partida|5 campanha
+78 partida|4 Argentina
+78 partida|2 final
+78 partida|1 Brasil
+78 partida|0 Argentina
+81 se|78 partida
+81 se|77 treinador, treinar
+81 se|75 volante
+81 se|74 seu
+81 se|72 façanha
+81 se|71 torneio
+81 se|70 seu
+81 se|69 conquista
+81 se|68 treinador, treinar
+81 se|67 ele
+81 se|66 sua
+81 se|65 chance
+81 se|64 que
+81 se|63 que
+81 se|62 seleção
+81 se|61 frente
+81 se|59 técnico
+81 se|57 Londres
+81 se|56 América
+81 se|55 confronto
+81 se|54 outro
+81 se|52 argentino
+81 se|51 vitória
+81 se|50 treinador, treinar
+81 se|48 Brasil
+81 se|47 que
+81 se|46 que
+81 se|44 Argentina
+81 se|43 expressão
+81 se|42 adversário
+81 se|40 era
+81 se|39 título
+81 se|38 cansaço
+81 se|36 dispensa
+81 se|33 futebol
+81 se|32 estrela
+81 se|31 técnico
+81 se|29 conquista
+81 se|28 este
+81 se|26 disputa
+81 se|25 título
+81 se|24 seu
+81 se|23 Argentina
+81 se|21 competição, competir
+81 se|20 seu
+81 se|19 ano
+81 se|18 que
+81 se|17 seleção
+81 se|15 presidente
+81 se|14 política, político
+81 se|13 Venezuela
+81 se|12 futebol
+81 se|11 torneio
+81 se|10 edição
+81 se|9 campeão
+81 se|8 Brasil
+81 se|7 Brasil
+81 se|6 favorita, favorito
+81 se|5 campanha
+81 se|4 Argentina
+81 se|2 final
+81 se|1 Brasil
+81 se|0 Argentina
+82 ele|81 se
+82 ele|78 partida
+82 ele|77 treinador, treinar
+82 ele|75 volante
+82 ele|74 seu
+82 ele|72 façanha
+82 ele|71 torneio
+82 ele|70 seu
+82 ele|69 conquista
+82 ele|68 treinador, treinar
+82 ele|67 ele
+82 ele|66 sua
+82 ele|65 chance
+82 ele|64 que
+82 ele|63 que
+82 ele|62 seleção
+82 ele|61 frente
+82 ele|59 técnico
+82 ele|57 Londres
+82 ele|56 América
+82 ele|55 confronto
+82 ele|54 outro
+82 ele|52 argentino
+82 ele|51 vitória
+82 ele|50 treinador, treinar
+82 ele|48 Brasil
+82 ele|47 que
+82 ele|46 que
+82 ele|44 Argentina
+82 ele|43 expressão
+82 ele|42 adversário
+82 ele|40 era
+82 ele|39 título
+82 ele|38 cansaço
+82 ele|36 dispensa
+82 ele|33 futebol
+82 ele|32 estrela
+82 ele|31 técnico
+82 ele|29 conquista
+82 ele|28 este
+82 ele|26 disputa
+82 ele|25 título
+82 ele|24 seu
+82 ele|23 Argentina
+82 ele|21 competição, competir
+82 ele|20 seu
+82 ele|19 ano
+82 ele|18 que
+82 ele|17 seleção
+82 ele|15 presidente
+82 ele|14 política, político
+82 ele|13 Venezuela
+82 ele|12 futebol
+82 ele|11 torneio
+82 ele|10 edição
+82 ele|9 campeão
+82 ele|8 Brasil
+82 ele|7 Brasil
+82 ele|6 favorita, favorito
+82 ele|5 campanha
+82 ele|4 Argentina
+82 ele|2 final
+82 ele|1 Brasil
+82 ele|0 Argentina
+83 Fernando|82 ele
+83 Fernando|81 se
+83 Fernando|78 partida
+83 Fernando|77 treinador, treinar
+83 Fernando|75 volante
+83 Fernando|74 seu
+83 Fernando|72 façanha
+83 Fernando|71 torneio
+83 Fernando|70 seu
+83 Fernando|69 conquista
+83 Fernando|68 treinador, treinar
+83 Fernando|67 ele
+83 Fernando|66 sua
+83 Fernando|65 chance
+83 Fernando|64 que
+83 Fernando|63 que
+83 Fernando|62 seleção
+83 Fernando|61 frente
+83 Fernando|59 técnico
+83 Fernando|57 Londres
+83 Fernando|56 América
+83 Fernando|55 confronto
+83 Fernando|54 outro
+83 Fernando|52 argentino
+83 Fernando|51 vitória
+83 Fernando|50 treinador, treinar
+83 Fernando|48 Brasil
+83 Fernando|47 que
+83 Fernando|46 que
+83 Fernando|44 Argentina
+83 Fernando|43 expressão
+83 Fernando|42 adversário
+83 Fernando|40 era
+83 Fernando|39 título
+83 Fernando|38 cansaço
+83 Fernando|36 dispensa
+83 Fernando|33 futebol
+83 Fernando|32 estrela
+83 Fernando|31 técnico
+83 Fernando|29 conquista
+83 Fernando|28 este
+83 Fernando|26 disputa
+83 Fernando|25 título
+83 Fernando|24 seu
+83 Fernando|23 Argentina
+83 Fernando|21 competição, competir
+83 Fernando|20 seu
+83 Fernando|19 ano
+83 Fernando|18 que
+83 Fernando|17 seleção
+83 Fernando|15 presidente
+83 Fernando|14 política, político
+83 Fernando|13 Venezuela
+83 Fernando|12 futebol
+83 Fernando|11 torneio
+83 Fernando|10 edição
+83 Fernando|9 campeão
+83 Fernando|8 Brasil
+83 Fernando|7 Brasil
+83 Fernando|6 favorita, favorito
+83 Fernando|5 campanha
+83 Fernando|4 Argentina
+83 Fernando|2 final
+83 Fernando|1 Brasil
+83 Fernando|0 Argentina
+84 volante|83 Fernando
+84 volante|82 ele
+84 volante|81 se
+84 volante|78 partida
+84 volante|77 treinador, treinar
+84 volante|75 volante
+84 volante|74 seu
+84 volante|72 façanha
+84 volante|71 torneio
+84 volante|70 seu
+84 volante|69 conquista
+84 volante|68 treinador, treinar
+84 volante|67 ele
+84 volante|66 sua
+84 volante|65 chance
+84 volante|64 que
+84 volante|63 que
+84 volante|62 seleção
+84 volante|61 frente
+84 volante|59 técnico
+84 volante|57 Londres
+84 volante|56 América
+84 volante|55 confronto
+84 volante|54 outro
+84 volante|52 argentino
+84 volante|51 vitória
+84 volante|50 treinador, treinar
+84 volante|48 Brasil
+84 volante|47 que
+84 volante|46 que
+84 volante|44 Argentina
+84 volante|43 expressão
+84 volante|42 adversário
+84 volante|40 era
+84 volante|39 título
+84 volante|38 cansaço
+84 volante|36 dispensa
+84 volante|33 futebol
+84 volante|32 estrela
+84 volante|31 técnico
+84 volante|29 conquista
+84 volante|28 este
+84 volante|26 disputa
+84 volante|25 título
+84 volante|24 seu
+84 volante|23 Argentina
+84 volante|21 competição, competir
+84 volante|20 seu
+84 volante|19 ano
+84 volante|18 que
+84 volante|17 seleção
+84 volante|15 presidente
+84 volante|14 política, político
+84 volante|13 Venezuela
+84 volante|12 futebol
+84 volante|11 torneio
+84 volante|10 edição
+84 volante|9 campeão
+84 volante|8 Brasil
+84 volante|7 Brasil
+84 volante|6 favorita, favorito
+84 volante|5 campanha
+84 volante|4 Argentina
+84 volante|2 final
+84 volante|1 Brasil
+84 volante|0 Argentina
+85 que|84 volante
+85 que|83 Fernando
+85 que|82 ele
+85 que|81 se
+85 que|78 partida
+85 que|77 treinador, treinar
+85 que|75 volante
+85 que|74 seu
+85 que|72 façanha
+85 que|71 torneio
+85 que|70 seu
+85 que|69 conquista
+85 que|68 treinador, treinar
+85 que|67 ele
+85 que|66 sua
+85 que|65 chance
+85 que|64 que
+85 que|63 que
+85 que|62 seleção
+85 que|61 frente
+85 que|59 técnico
+85 que|57 Londres
+85 que|56 América
+85 que|55 confronto
+85 que|54 outro
+85 que|52 argentino
+85 que|51 vitória
+85 que|50 treinador, treinar
+85 que|48 Brasil
+85 que|47 que
+85 que|46 que
+85 que|44 Argentina
+85 que|43 expressão
+85 que|42 adversário
+85 que|40 era
+85 que|39 título
+85 que|38 cansaço
+85 que|36 dispensa
+85 que|33 futebol
+85 que|32 estrela
+85 que|31 técnico
+85 que|29 conquista
+85 que|28 este
+85 que|26 disputa
+85 que|25 título
+85 que|24 seu
+85 que|23 Argentina
+85 que|21 competição, competir
+85 que|20 seu
+85 que|19 ano
+85 que|18 que
+85 que|17 seleção
+85 que|15 presidente
+85 que|14 política, político
+85 que|13 Venezuela
+85 que|12 futebol
+85 que|11 torneio
+85 que|10 edição
+85 que|9 campeão
+85 que|8 Brasil
+85 que|7 Brasil
+85 que|6 favorita, favorito
+85 que|5 campanha
+85 que|4 Argentina
+85 que|2 final
+85 que|1 Brasil
+85 que|0 Argentina
+86 banco|85 que
+86 banco|84 volante
+86 banco|83 Fernando
+86 banco|82 ele
+86 banco|81 se
+86 banco|78 partida
+86 banco|77 treinador, treinar
+86 banco|75 volante
+86 banco|74 seu
+86 banco|72 façanha
+86 banco|71 torneio
+86 banco|70 seu
+86 banco|69 conquista
+86 banco|68 treinador, treinar
+86 banco|67 ele
+86 banco|66 sua
+86 banco|65 chance
+86 banco|64 que
+86 banco|63 que
+86 banco|62 seleção
+86 banco|61 frente
+86 banco|59 técnico
+86 banco|57 Londres
+86 banco|56 América
+86 banco|55 confronto
+86 banco|54 outro
+86 banco|52 argentino
+86 banco|51 vitória
+86 banco|50 treinador, treinar
+86 banco|48 Brasil
+86 banco|47 que
+86 banco|46 que
+86 banco|44 Argentina
+86 banco|43 expressão
+86 banco|42 adversário
+86 banco|40 era
+86 banco|39 título
+86 banco|38 cansaço
+86 banco|36 dispensa
+86 banco|33 futebol
+86 banco|32 estrela
+86 banco|31 técnico
+86 banco|29 conquista
+86 banco|28 este
+86 banco|26 disputa
+86 banco|25 título
+86 banco|24 seu
+86 banco|23 Argentina
+86 banco|21 competição, competir
+86 banco|20 seu
+86 banco|19 ano
+86 banco|18 que
+86 banco|17 seleção
+86 banco|15 presidente
+86 banco|14 política, político
+86 banco|13 Venezuela
+86 banco|12 futebol
+86 banco|11 torneio
+86 banco|10 edição
+86 banco|9 campeão
+86 banco|8 Brasil
+86 banco|7 Brasil
+86 banco|6 favorita, favorito
+86 banco|5 campanha
+86 banco|4 Argentina
+86 banco|2 final
+86 banco|1 Brasil
+86 banco|0 Argentina
+89 meio-campo|86 banco
+89 meio-campo|85 que
+89 meio-campo|84 volante
+89 meio-campo|83 Fernando
+89 meio-campo|82 ele
+89 meio-campo|81 se
+89 meio-campo|78 partida
+89 meio-campo|77 treinador, treinar
+89 meio-campo|75 volante
+89 meio-campo|74 seu
+89 meio-campo|72 façanha
+89 meio-campo|71 torneio
+89 meio-campo|70 seu
+89 meio-campo|69 conquista
+89 meio-campo|68 treinador, treinar
+89 meio-campo|67 ele
+89 meio-campo|66 sua
+89 meio-campo|65 chance
+89 meio-campo|64 que
+89 meio-campo|63 que
+89 meio-campo|62 seleção
+89 meio-campo|61 frente
+89 meio-campo|59 técnico
+89 meio-campo|57 Londres
+89 meio-campo|56 América
+89 meio-campo|55 confronto
+89 meio-campo|54 outro
+89 meio-campo|52 argentino
+89 meio-campo|51 vitória
+89 meio-campo|50 treinador, treinar
+89 meio-campo|48 Brasil
+89 meio-campo|47 que
+89 meio-campo|46 que
+89 meio-campo|44 Argentina
+89 meio-campo|43 expressão
+89 meio-campo|42 adversário
+89 meio-campo|40 era
+89 meio-campo|39 título
+89 meio-campo|38 cansaço
+89 meio-campo|36 dispensa
+89 meio-campo|33 futebol
+89 meio-campo|32 estrela
+89 meio-campo|31 técnico
+89 meio-campo|29 conquista
+89 meio-campo|28 este
+89 meio-campo|26 disputa
+89 meio-campo|25 título
+89 meio-campo|24 seu
+89 meio-campo|23 Argentina
+89 meio-campo|21 competição, competir
+89 meio-campo|20 seu
+89 meio-campo|19 ano
+89 meio-campo|18 que
+89 meio-campo|17 seleção
+89 meio-campo|15 presidente
+89 meio-campo|14 política, político
+89 meio-campo|13 Venezuela
+89 meio-campo|12 futebol
+89 meio-campo|11 torneio
+89 meio-campo|10 edição
+89 meio-campo|9 campeão
+89 meio-campo|8 Brasil
+89 meio-campo|7 Brasil
+89 meio-campo|6 favorita, favorito
+89 meio-campo|5 campanha
+89 meio-campo|4 Argentina
+89 meio-campo|2 final
+89 meio-campo|1 Brasil
+89 meio-campo|0 Argentina
+90 campanha|89 meio-campo
+90 campanha|86 banco
+90 campanha|85 que
+90 campanha|84 volante
+90 campanha|83 Fernando
+90 campanha|82 ele
+90 campanha|81 se
+90 campanha|78 partida
+90 campanha|77 treinador, treinar
+90 campanha|75 volante
+90 campanha|74 seu
+90 campanha|72 façanha
+90 campanha|71 torneio
+90 campanha|70 seu
+90 campanha|69 conquista
+90 campanha|68 treinador, treinar
+90 campanha|67 ele
+90 campanha|66 sua
+90 campanha|65 chance
+90 campanha|64 que
+90 campanha|63 que
+90 campanha|62 seleção
+90 campanha|61 frente
+90 campanha|59 técnico
+90 campanha|57 Londres
+90 campanha|56 América
+90 campanha|55 confronto
+90 campanha|54 outro
+90 campanha|52 argentino
+90 campanha|51 vitória
+90 campanha|50 treinador, treinar
+90 campanha|48 Brasil
+90 campanha|47 que
+90 campanha|46 que
+90 campanha|44 Argentina
+90 campanha|43 expressão
+90 campanha|42 adversário
+90 campanha|40 era
+90 campanha|39 título
+90 campanha|38 cansaço
+90 campanha|36 dispensa
+90 campanha|33 futebol
+90 campanha|32 estrela
+90 campanha|31 técnico
+90 campanha|29 conquista
+90 campanha|28 este
+90 campanha|26 disputa
+90 campanha|25 título
+90 campanha|24 seu
+90 campanha|23 Argentina
+90 campanha|21 competição, competir
+90 campanha|20 seu
+90 campanha|19 ano
+90 campanha|18 que
+90 campanha|17 seleção
+90 campanha|15 presidente
+90 campanha|14 política, político
+90 campanha|13 Venezuela
+90 campanha|12 futebol
+90 campanha|11 torneio
+90 campanha|10 edição
+90 campanha|9 campeão
+90 campanha|8 Brasil
+90 campanha|7 Brasil
+90 campanha|6 favorita, favorito
+90 campanha|5 campanha
+90 campanha|4 Argentina
+90 campanha|2 final
+90 campanha|1 Brasil
+90 campanha|0 Argentina
+91 Brasil|90 campanha
+91 Brasil|89 meio-campo
+91 Brasil|86 banco
+91 Brasil|85 que
+91 Brasil|84 volante
+91 Brasil|83 Fernando
+91 Brasil|82 ele
+91 Brasil|81 se
+91 Brasil|78 partida
+91 Brasil|77 treinador, treinar
+91 Brasil|75 volante
+91 Brasil|74 seu
+91 Brasil|72 façanha
+91 Brasil|71 torneio
+91 Brasil|70 seu
+91 Brasil|69 conquista
+91 Brasil|68 treinador, treinar
+91 Brasil|67 ele
+91 Brasil|66 sua
+91 Brasil|65 chance
+91 Brasil|64 que
+91 Brasil|63 que
+91 Brasil|62 seleção
+91 Brasil|61 frente
+91 Brasil|59 técnico
+91 Brasil|57 Londres
+91 Brasil|56 América
+91 Brasil|55 confronto
+91 Brasil|54 outro
+91 Brasil|52 argentino
+91 Brasil|51 vitória
+91 Brasil|50 treinador, treinar
+91 Brasil|48 Brasil
+91 Brasil|47 que
+91 Brasil|46 que
+91 Brasil|44 Argentina
+91 Brasil|43 expressão
+91 Brasil|42 adversário
+91 Brasil|40 era
+91 Brasil|39 título
+91 Brasil|38 cansaço
+91 Brasil|36 dispensa
+91 Brasil|33 futebol
+91 Brasil|32 estrela
+91 Brasil|31 técnico
+91 Brasil|29 conquista
+91 Brasil|28 este
+91 Brasil|26 disputa
+91 Brasil|25 título
+91 Brasil|24 seu
+91 Brasil|23 Argentina
+91 Brasil|21 competição, competir
+91 Brasil|20 seu
+91 Brasil|19 ano
+91 Brasil|18 que
+91 Brasil|17 seleção
+91 Brasil|15 presidente
+91 Brasil|14 política, político
+91 Brasil|13 Venezuela
+91 Brasil|12 futebol
+91 Brasil|11 torneio
+91 Brasil|10 edição
+91 Brasil|9 campeão
+91 Brasil|8 Brasil
+91 Brasil|7 Brasil
+91 Brasil|6 favorita, favorito
+91 Brasil|5 campanha
+91 Brasil|4 Argentina
+91 Brasil|2 final
+91 Brasil|1 Brasil
+91 Brasil|0 Argentina
+93 Argentina|91 Brasil
+93 Argentina|90 campanha
+93 Argentina|89 meio-campo
+93 Argentina|86 banco
+93 Argentina|85 que
+93 Argentina|84 volante
+93 Argentina|83 Fernando
+93 Argentina|82 ele
+93 Argentina|81 se
+93 Argentina|78 partida
+93 Argentina|77 treinador, treinar
+93 Argentina|75 volante
+93 Argentina|74 seu
+93 Argentina|72 façanha
+93 Argentina|71 torneio
+93 Argentina|70 seu
+93 Argentina|69 conquista
+93 Argentina|68 treinador, treinar
+93 Argentina|67 ele
+93 Argentina|66 sua
+93 Argentina|65 chance
+93 Argentina|64 que
+93 Argentina|63 que
+93 Argentina|62 seleção
+93 Argentina|61 frente
+93 Argentina|59 técnico
+93 Argentina|57 Londres
+93 Argentina|56 América
+93 Argentina|55 confronto
+93 Argentina|54 outro
+93 Argentina|52 argentino
+93 Argentina|51 vitória
+93 Argentina|50 treinador, treinar
+93 Argentina|48 Brasil
+93 Argentina|47 que
+93 Argentina|46 que
+93 Argentina|44 Argentina
+93 Argentina|43 expressão
+93 Argentina|42 adversário
+93 Argentina|40 era
+93 Argentina|39 título
+93 Argentina|38 cansaço
+93 Argentina|36 dispensa
+93 Argentina|33 futebol
+93 Argentina|32 estrela
+93 Argentina|31 técnico
+93 Argentina|29 conquista
+93 Argentina|28 este
+93 Argentina|26 disputa
+93 Argentina|25 título
+93 Argentina|24 seu
+93 Argentina|23 Argentina
+93 Argentina|21 competição, competir
+93 Argentina|20 seu
+93 Argentina|19 ano
+93 Argentina|18 que
+93 Argentina|17 seleção
+93 Argentina|15 presidente
+93 Argentina|14 política, político
+93 Argentina|13 Venezuela
+93 Argentina|12 futebol
+93 Argentina|11 torneio
+93 Argentina|10 edição
+93 Argentina|9 campeão
+93 Argentina|8 Brasil
+93 Argentina|7 Brasil
+93 Argentina|6 favorita, favorito
+93 Argentina|5 campanha
+93 Argentina|4 Argentina
+93 Argentina|2 final
+93 Argentina|1 Brasil
+93 Argentina|0 Argentina
+94 vitória|93 Argentina
+94 vitória|91 Brasil
+94 vitória|90 campanha
+94 vitória|89 meio-campo
+94 vitória|86 banco
+94 vitória|85 que
+94 vitória|84 volante
+94 vitória|83 Fernando
+94 vitória|82 ele
+94 vitória|81 se
+94 vitória|78 partida
+94 vitória|77 treinador, treinar
+94 vitória|75 volante
+94 vitória|74 seu
+94 vitória|72 façanha
+94 vitória|71 torneio
+94 vitória|70 seu
+94 vitória|69 conquista
+94 vitória|68 treinador, treinar
+94 vitória|67 ele
+94 vitória|66 sua
+94 vitória|65 chance
+94 vitória|64 que
+94 vitória|63 que
+94 vitória|62 seleção
+94 vitória|61 frente
+94 vitória|59 técnico
+94 vitória|57 Londres
+94 vitória|56 América
+94 vitória|55 confronto
+94 vitória|54 outro
+94 vitória|52 argentino
+94 vitória|51 vitória
+94 vitória|50 treinador, treinar
+94 vitória|48 Brasil
+94 vitória|47 que
+94 vitória|46 que
+94 vitória|44 Argentina
+94 vitória|43 expressão
+94 vitória|42 adversário
+94 vitória|40 era
+94 vitória|39 título
+94 vitória|38 cansaço
+94 vitória|36 dispensa
+94 vitória|33 futebol
+94 vitória|32 estrela
+94 vitória|31 técnico
+94 vitória|29 conquista
+94 vitória|28 este
+94 vitória|26 disputa
+94 vitória|25 título
+94 vitória|24 seu
+94 vitória|23 Argentina
+94 vitória|21 competição, competir
+94 vitória|20 seu
+94 vitória|19 ano
+94 vitória|18 que
+94 vitória|17 seleção
+94 vitória|15 presidente
+94 vitória|14 política, político
+94 vitória|13 Venezuela
+94 vitória|12 futebol
+94 vitória|11 torneio
+94 vitória|10 edição
+94 vitória|9 campeão
+94 vitória|8 Brasil
+94 vitória|7 Brasil
+94 vitória|6 favorita, favorito
+94 vitória|5 campanha
+94 vitória|4 Argentina
+94 vitória|2 final
+94 vitória|1 Brasil
+94 vitória|0 Argentina
+95 ataque|94 vitória
+95 ataque|93 Argentina
+95 ataque|91 Brasil
+95 ataque|90 campanha
+95 ataque|89 meio-campo
+95 ataque|86 banco
+95 ataque|85 que
+95 ataque|84 volante
+95 ataque|83 Fernando
+95 ataque|82 ele
+95 ataque|81 se
+95 ataque|78 partida
+95 ataque|77 treinador, treinar
+95 ataque|75 volante
+95 ataque|74 seu
+95 ataque|72 façanha
+95 ataque|71 torneio
+95 ataque|70 seu
+95 ataque|69 conquista
+95 ataque|68 treinador, treinar
+95 ataque|67 ele
+95 ataque|66 sua
+95 ataque|65 chance
+95 ataque|64 que
+95 ataque|63 que
+95 ataque|62 seleção
+95 ataque|61 frente
+95 ataque|59 técnico
+95 ataque|57 Londres
+95 ataque|56 América
+95 ataque|55 confronto
+95 ataque|54 outro
+95 ataque|52 argentino
+95 ataque|51 vitória
+95 ataque|50 treinador, treinar
+95 ataque|48 Brasil
+95 ataque|47 que
+95 ataque|46 que
+95 ataque|44 Argentina
+95 ataque|43 expressão
+95 ataque|42 adversário
+95 ataque|40 era
+95 ataque|39 título
+95 ataque|38 cansaço
+95 ataque|36 dispensa
+95 ataque|33 futebol
+95 ataque|32 estrela
+95 ataque|31 técnico
+95 ataque|29 conquista
+95 ataque|28 este
+95 ataque|26 disputa
+95 ataque|25 título
+95 ataque|24 seu
+95 ataque|23 Argentina
+95 ataque|21 competição, competir
+95 ataque|20 seu
+95 ataque|19 ano
+95 ataque|18 que
+95 ataque|17 seleção
+95 ataque|15 presidente
+95 ataque|14 política, político
+95 ataque|13 Venezuela
+95 ataque|12 futebol
+95 ataque|11 torneio
+95 ataque|10 edição
+95 ataque|9 campeão
+95 ataque|8 Brasil
+95 ataque|7 Brasil
+95 ataque|6 favorita, favorito
+95 ataque|5 campanha
+95 ataque|4 Argentina
+95 ataque|2 final
+95 ataque|1 Brasil
+95 ataque|0 Argentina
+96 torneio|95 ataque
+96 torneio|94 vitória
+96 torneio|93 Argentina
+96 torneio|91 Brasil
+96 torneio|90 campanha
+96 torneio|89 meio-campo
+96 torneio|86 banco
+96 torneio|85 que
+96 torneio|84 volante
+96 torneio|83 Fernando
+96 torneio|82 ele
+96 torneio|81 se
+96 torneio|78 partida
+96 torneio|77 treinador, treinar
+96 torneio|75 volante
+96 torneio|74 seu
+96 torneio|72 façanha
+96 torneio|71 torneio
+96 torneio|70 seu
+96 torneio|69 conquista
+96 torneio|68 treinador, treinar
+96 torneio|67 ele
+96 torneio|66 sua
+96 torneio|65 chance
+96 torneio|64 que
+96 torneio|63 que
+96 torneio|62 seleção
+96 torneio|61 frente
+96 torneio|59 técnico
+96 torneio|57 Londres
+96 torneio|56 América
+96 torneio|55 confronto
+96 torneio|54 outro
+96 torneio|52 argentino
+96 torneio|51 vitória
+96 torneio|50 treinador, treinar
+96 torneio|48 Brasil
+96 torneio|47 que
+96 torneio|46 que
+96 torneio|44 Argentina
+96 torneio|43 expressão
+96 torneio|42 adversário
+96 torneio|40 era
+96 torneio|39 título
+96 torneio|38 cansaço
+96 torneio|36 dispensa
+96 torneio|33 futebol
+96 torneio|32 estrela
+96 torneio|31 técnico
+96 torneio|29 conquista
+96 torneio|28 este
+96 torneio|26 disputa
+96 torneio|25 título
+96 torneio|24 seu
+96 torneio|23 Argentina
+96 torneio|21 competição, competir
+96 torneio|20 seu
+96 torneio|19 ano
+96 torneio|18 que
+96 torneio|17 seleção
+96 torneio|15 presidente
+96 torneio|14 política, político
+96 torneio|13 Venezuela
+96 torneio|12 futebol
+96 torneio|11 torneio
+96 torneio|10 edição
+96 torneio|9 campeão
+96 torneio|8 Brasil
+96 torneio|7 Brasil
+96 torneio|6 favorita, favorito
+96 torneio|5 campanha
+96 torneio|4 Argentina
+96 torneio|2 final
+96 torneio|1 Brasil
+96 torneio|0 Argentina
+98 decisão|96 torneio
+98 decisão|95 ataque
+98 decisão|94 vitória
+98 decisão|93 Argentina
+98 decisão|91 Brasil
+98 decisão|90 campanha
+98 decisão|89 meio-campo
+98 decisão|86 banco
+98 decisão|85 que
+98 decisão|84 volante
+98 decisão|83 Fernando
+98 decisão|82 ele
+98 decisão|81 se
+98 decisão|78 partida
+98 decisão|77 treinador, treinar
+98 decisão|75 volante
+98 decisão|74 seu
+98 decisão|72 façanha
+98 decisão|71 torneio
+98 decisão|70 seu
+98 decisão|69 conquista
+98 decisão|68 treinador, treinar
+98 decisão|67 ele
+98 decisão|66 sua
+98 decisão|65 chance
+98 decisão|64 que
+98 decisão|63 que
+98 decisão|62 seleção
+98 decisão|61 frente
+98 decisão|59 técnico
+98 decisão|57 Londres
+98 decisão|56 América
+98 decisão|55 confronto
+98 decisão|54 outro
+98 decisão|52 argentino
+98 decisão|51 vitória
+98 decisão|50 treinador, treinar
+98 decisão|48 Brasil
+98 decisão|47 que
+98 decisão|46 que
+98 decisão|44 Argentina
+98 decisão|43 expressão
+98 decisão|42 adversário
+98 decisão|40 era
+98 decisão|39 título
+98 decisão|38 cansaço
+98 decisão|36 dispensa
+98 decisão|33 futebol
+98 decisão|32 estrela
+98 decisão|31 técnico
+98 decisão|29 conquista
+98 decisão|28 este
+98 decisão|26 disputa
+98 decisão|25 título
+98 decisão|24 seu
+98 decisão|23 Argentina
+98 decisão|21 competição, competir
+98 decisão|20 seu
+98 decisão|19 ano
+98 decisão|18 que
+98 decisão|17 seleção
+98 decisão|15 presidente
+98 decisão|14 política, político
+98 decisão|13 Venezuela
+98 decisão|12 futebol
+98 decisão|11 torneio
+98 decisão|10 edição
+98 decisão|9 campeão
+98 decisão|8 Brasil
+98 decisão|7 Brasil
+98 decisão|6 favorita, favorito
+98 decisão|5 campanha
+98 decisão|4 Argentina
+98 decisão|2 final
+98 decisão|1 Brasil
+98 decisão|0 Argentina
+99 isso|98 decisão
+99 isso|96 torneio
+99 isso|95 ataque
+99 isso|94 vitória
+99 isso|93 Argentina
+99 isso|91 Brasil
+99 isso|90 campanha
+99 isso|89 meio-campo
+99 isso|86 banco
+99 isso|85 que
+99 isso|84 volante
+99 isso|83 Fernando
+99 isso|82 ele
+99 isso|81 se
+99 isso|78 partida
+99 isso|77 treinador, treinar
+99 isso|75 volante
+99 isso|74 seu
+99 isso|72 façanha
+99 isso|71 torneio
+99 isso|70 seu
+99 isso|69 conquista
+99 isso|68 treinador, treinar
+99 isso|67 ele
+99 isso|66 sua
+99 isso|65 chance
+99 isso|64 que
+99 isso|63 que
+99 isso|62 seleção
+99 isso|61 frente
+99 isso|59 técnico
+99 isso|57 Londres
+99 isso|56 América
+99 isso|55 confronto
+99 isso|54 outro
+99 isso|52 argentino
+99 isso|51 vitória
+99 isso|50 treinador, treinar
+99 isso|48 Brasil
+99 isso|47 que
+99 isso|46 que
+99 isso|44 Argentina
+99 isso|43 expressão
+99 isso|42 adversário
+99 isso|40 era
+99 isso|39 título
+99 isso|38 cansaço
+99 isso|36 dispensa
+99 isso|33 futebol
+99 isso|32 estrela
+99 isso|31 técnico
+99 isso|29 conquista
+99 isso|28 este
+99 isso|26 disputa
+99 isso|25 título
+99 isso|24 seu
+99 isso|23 Argentina
+99 isso|21 competição, competir
+99 isso|20 seu
+99 isso|19 ano
+99 isso|18 que
+99 isso|17 seleção
+99 isso|15 presidente
+99 isso|14 política, político
+99 isso|13 Venezuela
+99 isso|12 futebol
+99 isso|11 torneio
+99 isso|10 edição
+99 isso|9 campeão
+99 isso|8 Brasil
+99 isso|7 Brasil
+99 isso|6 favorita, favorito
+99 isso|5 campanha
+99 isso|4 Argentina
+99 isso|2 final
+99 isso|1 Brasil
+99 isso|0 Argentina
+100 seleção|99 isso
+100 seleção|98 decisão
+100 seleção|96 torneio
+100 seleção|95 ataque
+100 seleção|94 vitória
+100 seleção|93 Argentina
+100 seleção|91 Brasil
+100 seleção|90 campanha
+100 seleção|89 meio-campo
+100 seleção|86 banco
+100 seleção|85 que
+100 seleção|84 volante
+100 seleção|83 Fernando
+100 seleção|82 ele
+100 seleção|81 se
+100 seleção|78 partida
+100 seleção|77 treinador, treinar
+100 seleção|75 volante
+100 seleção|74 seu
+100 seleção|72 façanha
+100 seleção|71 torneio
+100 seleção|70 seu
+100 seleção|69 conquista
+100 seleção|68 treinador, treinar
+100 seleção|67 ele
+100 seleção|66 sua
+100 seleção|65 chance
+100 seleção|64 que
+100 seleção|63 que
+100 seleção|62 seleção
+100 seleção|61 frente
+100 seleção|59 técnico
+100 seleção|57 Londres
+100 seleção|56 América
+100 seleção|55 confronto
+100 seleção|54 outro
+100 seleção|52 argentino
+100 seleção|51 vitória
+100 seleção|50 treinador, treinar
+100 seleção|48 Brasil
+100 seleção|47 que
+100 seleção|46 que
+100 seleção|44 Argentina
+100 seleção|43 expressão
+100 seleção|42 adversário
+100 seleção|40 era
+100 seleção|39 título
+100 seleção|38 cansaço
+100 seleção|36 dispensa
+100 seleção|33 futebol
+100 seleção|32 estrela
+100 seleção|31 técnico
+100 seleção|29 conquista
+100 seleção|28 este
+100 seleção|26 disputa
+100 seleção|25 título
+100 seleção|24 seu
+100 seleção|23 Argentina
+100 seleção|21 competição, competir
+100 seleção|20 seu
+100 seleção|19 ano
+100 seleção|18 que
+100 seleção|17 seleção
+100 seleção|15 presidente
+100 seleção|14 política, político
+100 seleção|13 Venezuela
+100 seleção|12 futebol
+100 seleção|11 torneio
+100 seleção|10 edição
+100 seleção|9 campeão
+100 seleção|8 Brasil
+100 seleção|7 Brasil
+100 seleção|6 favorita, favorito
+100 seleção|5 campanha
+100 seleção|4 Argentina
+100 seleção|2 final
+100 seleção|1 Brasil
+100 seleção|0 Argentina
+101 frente|100 seleção
+101 frente|99 isso
+101 frente|98 decisão
+101 frente|96 torneio
+101 frente|95 ataque
+101 frente|94 vitória
+101 frente|93 Argentina
+101 frente|91 Brasil
+101 frente|90 campanha
+101 frente|89 meio-campo
+101 frente|86 banco
+101 frente|85 que
+101 frente|84 volante
+101 frente|83 Fernando
+101 frente|82 ele
+101 frente|81 se
+101 frente|78 partida
+101 frente|77 treinador, treinar
+101 frente|75 volante
+101 frente|74 seu
+101 frente|72 façanha
+101 frente|71 torneio
+101 frente|70 seu
+101 frente|69 conquista
+101 frente|68 treinador, treinar
+101 frente|67 ele
+101 frente|66 sua
+101 frente|65 chance
+101 frente|64 que
+101 frente|63 que
+101 frente|62 seleção
+101 frente|61 frente
+101 frente|59 técnico
+101 frente|57 Londres
+101 frente|56 América
+101 frente|55 confronto
+101 frente|54 outro
+101 frente|52 argentino
+101 frente|51 vitória
+101 frente|50 treinador, treinar
+101 frente|48 Brasil
+101 frente|47 que
+101 frente|46 que
+101 frente|44 Argentina
+101 frente|43 expressão
+101 frente|42 adversário
+101 frente|40 era
+101 frente|39 título
+101 frente|38 cansaço
+101 frente|36 dispensa
+101 frente|33 futebol
+101 frente|32 estrela
+101 frente|31 técnico
+101 frente|29 conquista
+101 frente|28 este
+101 frente|26 disputa
+101 frente|25 título
+101 frente|24 seu
+101 frente|23 Argentina
+101 frente|21 competição, competir
+101 frente|20 seu
+101 frente|19 ano
+101 frente|18 que
+101 frente|17 seleção
+101 frente|15 presidente
+101 frente|14 política, político
+101 frente|13 Venezuela
+101 frente|12 futebol
+101 frente|11 torneio
+101 frente|10 edição
+101 frente|9 campeão
+101 frente|8 Brasil
+101 frente|7 Brasil
+101 frente|6 favorita, favorito
+101 frente|5 campanha
+101 frente|4 Argentina
+101 frente|2 final
+101 frente|1 Brasil
+101 frente|0 Argentina
+104 lançar|101 frente
+104 lançar|100 seleção
+104 lançar|99 isso
+104 lançar|98 decisão
+104 lançar|96 torneio
+104 lançar|95 ataque
+104 lançar|94 vitória
+104 lançar|93 Argentina
+104 lançar|91 Brasil
+104 lançar|90 campanha
+104 lançar|89 meio-campo
+104 lançar|86 banco
+104 lançar|85 que
+104 lançar|84 volante
+104 lançar|83 Fernando
+104 lançar|82 ele
+104 lançar|81 se
+104 lançar|78 partida
+104 lançar|77 treinador, treinar
+104 lançar|75 volante
+104 lançar|74 seu
+104 lançar|72 façanha
+104 lançar|71 torneio
+104 lançar|70 seu
+104 lançar|69 conquista
+104 lançar|68 treinador, treinar
+104 lançar|67 ele
+104 lançar|66 sua
+104 lançar|65 chance
+104 lançar|64 que
+104 lançar|63 que
+104 lançar|62 seleção
+104 lançar|61 frente
+104 lançar|59 técnico
+104 lançar|57 Londres
+104 lançar|56 América
+104 lançar|55 confronto
+104 lançar|54 outro
+104 lançar|52 argentino
+104 lançar|51 vitória
+104 lançar|50 treinador, treinar
+104 lançar|48 Brasil
+104 lançar|47 que
+104 lançar|46 que
+104 lançar|44 Argentina
+104 lançar|43 expressão
+104 lançar|42 adversário
+104 lançar|40 era
+104 lançar|39 título
+104 lançar|38 cansaço
+104 lançar|36 dispensa
+104 lançar|33 futebol
+104 lançar|32 estrela
+104 lançar|31 técnico
+104 lançar|29 conquista
+104 lançar|28 este
+104 lançar|26 disputa
+104 lançar|25 título
+104 lançar|24 seu
+104 lançar|23 Argentina
+104 lançar|21 competição, competir
+104 lançar|20 seu
+104 lançar|19 ano
+104 lançar|18 que
+104 lançar|17 seleção
+104 lançar|15 presidente
+104 lançar|14 política, político
+104 lançar|13 Venezuela
+104 lançar|12 futebol
+104 lançar|11 torneio
+104 lançar|10 edição
+104 lançar|9 campeão
+104 lançar|8 Brasil
+104 lançar|7 Brasil
+104 lançar|6 favorita, favorito
+104 lançar|5 campanha
+104 lançar|4 Argentina
+104 lançar|2 final
+104 lançar|1 Brasil
+104 lançar|0 Argentina
+107 que|104 lançar
+107 que|101 frente
+107 que|100 seleção
+107 que|99 isso
+107 que|98 decisão
+107 que|96 torneio
+107 que|95 ataque
+107 que|94 vitória
+107 que|93 Argentina
+107 que|91 Brasil
+107 que|90 campanha
+107 que|89 meio-campo
+107 que|86 banco
+107 que|85 que
+107 que|84 volante
+107 que|83 Fernando
+107 que|82 ele
+107 que|81 se
+107 que|78 partida
+107 que|77 treinador, treinar
+107 que|75 volante
+107 que|74 seu
+107 que|72 façanha
+107 que|71 torneio
+107 que|70 seu
+107 que|69 conquista
+107 que|68 treinador, treinar
+107 que|67 ele
+107 que|66 sua
+107 que|65 chance
+107 que|64 que
+107 que|63 que
+107 que|62 seleção
+107 que|61 frente
+107 que|59 técnico
+107 que|57 Londres
+107 que|56 América
+107 que|55 confronto
+107 que|54 outro
+107 que|52 argentino
+107 que|51 vitória
+107 que|50 treinador, treinar
+107 que|48 Brasil
+107 que|47 que
+107 que|46 que
+107 que|44 Argentina
+107 que|43 expressão
+107 que|42 adversário
+107 que|40 era
+107 que|39 título
+107 que|38 cansaço
+107 que|36 dispensa
+107 que|33 futebol
+107 que|32 estrela
+107 que|31 técnico
+107 que|29 conquista
+107 que|28 este
+107 que|26 disputa
+107 que|25 título
+107 que|24 seu
+107 que|23 Argentina
+107 que|21 competição, competir
+107 que|20 seu
+107 que|19 ano
+107 que|18 que
+107 que|17 seleção
+107 que|15 presidente
+107 que|14 política, político
+107 que|13 Venezuela
+107 que|12 futebol
+107 que|11 torneio
+107 que|10 edição
+107 que|9 campeão
+107 que|8 Brasil
+107 que|7 Brasil
+107 que|6 favorita, favorito
+107 que|5 campanha
+107 que|4 Argentina
+107 que|2 final
+107 que|1 Brasil
+107 que|0 Argentina
+108 Brasil|107 que
+108 Brasil|104 lançar
+108 Brasil|101 frente
+108 Brasil|100 seleção
+108 Brasil|99 isso
+108 Brasil|98 decisão
+108 Brasil|96 torneio
+108 Brasil|95 ataque
+108 Brasil|94 vitória
+108 Brasil|93 Argentina
+108 Brasil|91 Brasil
+108 Brasil|90 campanha
+108 Brasil|89 meio-campo
+108 Brasil|86 banco
+108 Brasil|85 que
+108 Brasil|84 volante
+108 Brasil|83 Fernando
+108 Brasil|82 ele
+108 Brasil|81 se
+108 Brasil|78 partida
+108 Brasil|77 treinador, treinar
+108 Brasil|75 volante
+108 Brasil|74 seu
+108 Brasil|72 façanha
+108 Brasil|71 torneio
+108 Brasil|70 seu
+108 Brasil|69 conquista
+108 Brasil|68 treinador, treinar
+108 Brasil|67 ele
+108 Brasil|66 sua
+108 Brasil|65 chance
+108 Brasil|64 que
+108 Brasil|63 que
+108 Brasil|62 seleção
+108 Brasil|61 frente
+108 Brasil|59 técnico
+108 Brasil|57 Londres
+108 Brasil|56 América
+108 Brasil|55 confronto
+108 Brasil|54 outro
+108 Brasil|52 argentino
+108 Brasil|51 vitória
+108 Brasil|50 treinador, treinar
+108 Brasil|48 Brasil
+108 Brasil|47 que
+108 Brasil|46 que
+108 Brasil|44 Argentina
+108 Brasil|43 expressão
+108 Brasil|42 adversário
+108 Brasil|40 era
+108 Brasil|39 título
+108 Brasil|38 cansaço
+108 Brasil|36 dispensa
+108 Brasil|33 futebol
+108 Brasil|32 estrela
+108 Brasil|31 técnico
+108 Brasil|29 conquista
+108 Brasil|28 este
+108 Brasil|26 disputa
+108 Brasil|25 título
+108 Brasil|24 seu
+108 Brasil|23 Argentina
+108 Brasil|21 competição, competir
+108 Brasil|20 seu
+108 Brasil|19 ano
+108 Brasil|18 que
+108 Brasil|17 seleção
+108 Brasil|15 presidente
+108 Brasil|14 política, político
+108 Brasil|13 Venezuela
+108 Brasil|12 futebol
+108 Brasil|11 torneio
+108 Brasil|10 edição
+108 Brasil|9 campeão
+108 Brasil|8 Brasil
+108 Brasil|7 Brasil
+108 Brasil|6 favorita, favorito
+108 Brasil|5 campanha
+108 Brasil|4 Argentina
+108 Brasil|2 final
+108 Brasil|1 Brasil
+108 Brasil|0 Argentina
+109 vantagem|108 Brasil
+109 vantagem|107 que
+109 vantagem|104 lançar
+109 vantagem|101 frente
+109 vantagem|100 seleção
+109 vantagem|99 isso
+109 vantagem|98 decisão
+109 vantagem|96 torneio
+109 vantagem|95 ataque
+109 vantagem|94 vitória
+109 vantagem|93 Argentina
+109 vantagem|91 Brasil
+109 vantagem|90 campanha
+109 vantagem|89 meio-campo
+109 vantagem|86 banco
+109 vantagem|85 que
+109 vantagem|84 volante
+109 vantagem|83 Fernando
+109 vantagem|82 ele
+109 vantagem|81 se
+109 vantagem|78 partida
+109 vantagem|77 treinador, treinar
+109 vantagem|75 volante
+109 vantagem|74 seu
+109 vantagem|72 façanha
+109 vantagem|71 torneio
+109 vantagem|70 seu
+109 vantagem|69 conquista
+109 vantagem|68 treinador, treinar
+109 vantagem|67 ele
+109 vantagem|66 sua
+109 vantagem|65 chance
+109 vantagem|64 que
+109 vantagem|63 que
+109 vantagem|62 seleção
+109 vantagem|61 frente
+109 vantagem|59 técnico
+109 vantagem|57 Londres
+109 vantagem|56 América
+109 vantagem|55 confronto
+109 vantagem|54 outro
+109 vantagem|52 argentino
+109 vantagem|51 vitória
+109 vantagem|50 treinador, treinar
+109 vantagem|48 Brasil
+109 vantagem|47 que
+109 vantagem|46 que
+109 vantagem|44 Argentina
+109 vantagem|43 expressão
+109 vantagem|42 adversário
+109 vantagem|40 era
+109 vantagem|39 título
+109 vantagem|38 cansaço
+109 vantagem|36 dispensa
+109 vantagem|33 futebol
+109 vantagem|32 estrela
+109 vantagem|31 técnico
+109 vantagem|29 conquista
+109 vantagem|28 este
+109 vantagem|26 disputa
+109 vantagem|25 título
+109 vantagem|24 seu
+109 vantagem|23 Argentina
+109 vantagem|21 competição, competir
+109 vantagem|20 seu
+109 vantagem|19 ano
+109 vantagem|18 que
+109 vantagem|17 seleção
+109 vantagem|15 presidente
+109 vantagem|14 política, político
+109 vantagem|13 Venezuela
+109 vantagem|12 futebol
+109 vantagem|11 torneio
+109 vantagem|10 edição
+109 vantagem|9 campeão
+109 vantagem|8 Brasil
+109 vantagem|7 Brasil
+109 vantagem|6 favorita, favorito
+109 vantagem|5 campanha
+109 vantagem|4 Argentina
+109 vantagem|2 final
+109 vantagem|1 Brasil
+109 vantagem|0 Argentina
+111 argentino|109 vantagem
+111 argentino|108 Brasil
+111 argentino|107 que
+111 argentino|104 lançar
+111 argentino|101 frente
+111 argentino|100 seleção
+111 argentino|99 isso
+111 argentino|98 decisão
+111 argentino|96 torneio
+111 argentino|95 ataque
+111 argentino|94 vitória
+111 argentino|93 Argentina
+111 argentino|91 Brasil
+111 argentino|90 campanha
+111 argentino|89 meio-campo
+111 argentino|86 banco
+111 argentino|85 que
+111 argentino|84 volante
+111 argentino|83 Fernando
+111 argentino|82 ele
+111 argentino|81 se
+111 argentino|78 partida
+111 argentino|77 treinador, treinar
+111 argentino|75 volante
+111 argentino|74 seu
+111 argentino|72 façanha
+111 argentino|71 torneio
+111 argentino|70 seu
+111 argentino|69 conquista
+111 argentino|68 treinador, treinar
+111 argentino|67 ele
+111 argentino|66 sua
+111 argentino|65 chance
+111 argentino|64 que
+111 argentino|63 que
+111 argentino|62 seleção
+111 argentino|61 frente
+111 argentino|59 técnico
+111 argentino|57 Londres
+111 argentino|56 América
+111 argentino|55 confronto
+111 argentino|54 outro
+111 argentino|52 argentino
+111 argentino|51 vitória
+111 argentino|50 treinador, treinar
+111 argentino|48 Brasil
+111 argentino|47 que
+111 argentino|46 que
+111 argentino|44 Argentina
+111 argentino|43 expressão
+111 argentino|42 adversário
+111 argentino|40 era
+111 argentino|39 título
+111 argentino|38 cansaço
+111 argentino|36 dispensa
+111 argentino|33 futebol
+111 argentino|32 estrela
+111 argentino|31 técnico
+111 argentino|29 conquista
+111 argentino|28 este
+111 argentino|26 disputa
+111 argentino|25 título
+111 argentino|24 seu
+111 argentino|23 Argentina
+111 argentino|21 competição, competir
+111 argentino|20 seu
+111 argentino|19 ano
+111 argentino|18 que
+111 argentino|17 seleção
+111 argentino|15 presidente
+111 argentino|14 política, político
+111 argentino|13 Venezuela
+111 argentino|12 futebol
+111 argentino|11 torneio
+111 argentino|10 edição
+111 argentino|9 campeão
+111 argentino|8 Brasil
+111 argentino|7 Brasil
+111 argentino|6 favorita, favorito
+111 argentino|5 campanha
+111 argentino|4 Argentina
+111 argentino|2 final
+111 argentino|1 Brasil
+111 argentino|0 Argentina
+112 bola|111 argentino
+112 bola|109 vantagem
+112 bola|108 Brasil
+112 bola|107 que
+112 bola|104 lançar
+112 bola|101 frente
+112 bola|100 seleção
+112 bola|99 isso
+112 bola|98 decisão
+112 bola|96 torneio
+112 bola|95 ataque
+112 bola|94 vitória
+112 bola|93 Argentina
+112 bola|91 Brasil
+112 bola|90 campanha
+112 bola|89 meio-campo
+112 bola|86 banco
+112 bola|85 que
+112 bola|84 volante
+112 bola|83 Fernando
+112 bola|82 ele
+112 bola|81 se
+112 bola|78 partida
+112 bola|77 treinador, treinar
+112 bola|75 volante
+112 bola|74 seu
+112 bola|72 façanha
+112 bola|71 torneio
+112 bola|70 seu
+112 bola|69 conquista
+112 bola|68 treinador, treinar
+112 bola|67 ele
+112 bola|66 sua
+112 bola|65 chance
+112 bola|64 que
+112 bola|63 que
+112 bola|62 seleção
+112 bola|61 frente
+112 bola|59 técnico
+112 bola|57 Londres
+112 bola|56 América
+112 bola|55 confronto
+112 bola|54 outro
+112 bola|52 argentino
+112 bola|51 vitória
+112 bola|50 treinador, treinar
+112 bola|48 Brasil
+112 bola|47 que
+112 bola|46 que
+112 bola|44 Argentina
+112 bola|43 expressão
+112 bola|42 adversário
+112 bola|40 era
+112 bola|39 título
+112 bola|38 cansaço
+112 bola|36 dispensa
+112 bola|33 futebol
+112 bola|32 estrela
+112 bola|31 técnico
+112 bola|29 conquista
+112 bola|28 este
+112 bola|26 disputa
+112 bola|25 título
+112 bola|24 seu
+112 bola|23 Argentina
+112 bola|21 competição, competir
+112 bola|20 seu
+112 bola|19 ano
+112 bola|18 que
+112 bola|17 seleção
+112 bola|15 presidente
+112 bola|14 política, político
+112 bola|13 Venezuela
+112 bola|12 futebol
+112 bola|11 torneio
+112 bola|10 edição
+112 bola|9 campeão
+112 bola|8 Brasil
+112 bola|7 Brasil
+112 bola|6 favorita, favorito
+112 bola|5 campanha
+112 bola|4 Argentina
+112 bola|2 final
+112 bola|1 Brasil
+112 bola|0 Argentina
+113 trave|112 bola
+113 trave|111 argentino
+113 trave|109 vantagem
+113 trave|108 Brasil
+113 trave|107 que
+113 trave|104 lançar
+113 trave|101 frente
+113 trave|100 seleção
+113 trave|99 isso
+113 trave|98 decisão
+113 trave|96 torneio
+113 trave|95 ataque
+113 trave|94 vitória
+113 trave|93 Argentina
+113 trave|91 Brasil
+113 trave|90 campanha
+113 trave|89 meio-campo
+113 trave|86 banco
+113 trave|85 que
+113 trave|84 volante
+113 trave|83 Fernando
+113 trave|82 ele
+113 trave|81 se
+113 trave|78 partida
+113 trave|77 treinador, treinar
+113 trave|75 volante
+113 trave|74 seu
+113 trave|72 façanha
+113 trave|71 torneio
+113 trave|70 seu
+113 trave|69 conquista
+113 trave|68 treinador, treinar
+113 trave|67 ele
+113 trave|66 sua
+113 trave|65 chance
+113 trave|64 que
+113 trave|63 que
+113 trave|62 seleção
+113 trave|61 frente
+113 trave|59 técnico
+113 trave|57 Londres
+113 trave|56 América
+113 trave|55 confronto
+113 trave|54 outro
+113 trave|52 argentino
+113 trave|51 vitória
+113 trave|50 treinador, treinar
+113 trave|48 Brasil
+113 trave|47 que
+113 trave|46 que
+113 trave|44 Argentina
+113 trave|43 expressão
+113 trave|42 adversário
+113 trave|40 era
+113 trave|39 título
+113 trave|38 cansaço
+113 trave|36 dispensa
+113 trave|33 futebol
+113 trave|32 estrela
+113 trave|31 técnico
+113 trave|29 conquista
+113 trave|28 este
+113 trave|26 disputa
+113 trave|25 título
+113 trave|24 seu
+113 trave|23 Argentina
+113 trave|21 competição, competir
+113 trave|20 seu
+113 trave|19 ano
+113 trave|18 que
+113 trave|17 seleção
+113 trave|15 presidente
+113 trave|14 política, político
+113 trave|13 Venezuela
+113 trave|12 futebol
+113 trave|11 torneio
+113 trave|10 edição
+113 trave|9 campeão
+113 trave|8 Brasil
+113 trave|7 Brasil
+113 trave|6 favorita, favorito
+113 trave|5 campanha
+113 trave|4 Argentina
+113 trave|2 final
+113 trave|1 Brasil
+113 trave|0 Argentina
+115 empate|113 trave
+115 empate|112 bola
+115 empate|111 argentino
+115 empate|109 vantagem
+115 empate|108 Brasil
+115 empate|107 que
+115 empate|104 lançar
+115 empate|101 frente
+115 empate|100 seleção
+115 empate|99 isso
+115 empate|98 decisão
+115 empate|96 torneio
+115 empate|95 ataque
+115 empate|94 vitória
+115 empate|93 Argentina
+115 empate|91 Brasil
+115 empate|90 campanha
+115 empate|89 meio-campo
+115 empate|86 banco
+115 empate|85 que
+115 empate|84 volante
+115 empate|83 Fernando
+115 empate|82 ele
+115 empate|81 se
+115 empate|78 partida
+115 empate|77 treinador, treinar
+115 empate|75 volante
+115 empate|74 seu
+115 empate|72 façanha
+115 empate|71 torneio
+115 empate|70 seu
+115 empate|69 conquista
+115 empate|68 treinador, treinar
+115 empate|67 ele
+115 empate|66 sua
+115 empate|65 chance
+115 empate|64 que
+115 empate|63 que
+115 empate|62 seleção
+115 empate|61 frente
+115 empate|59 técnico
+115 empate|57 Londres
+115 empate|56 América
+115 empate|55 confronto
+115 empate|54 outro
+115 empate|52 argentino
+115 empate|51 vitória
+115 empate|50 treinador, treinar
+115 empate|48 Brasil
+115 empate|47 que
+115 empate|46 que
+115 empate|44 Argentina
+115 empate|43 expressão
+115 empate|42 adversário
+115 empate|40 era
+115 empate|39 título
+115 empate|38 cansaço
+115 empate|36 dispensa
+115 empate|33 futebol
+115 empate|32 estrela
+115 empate|31 técnico
+115 empate|29 conquista
+115 empate|28 este
+115 empate|26 disputa
+115 empate|25 título
+115 empate|24 seu
+115 empate|23 Argentina
+115 empate|21 competição, competir
+115 empate|20 seu
+115 empate|19 ano
+115 empate|18 que
+115 empate|17 seleção
+115 empate|15 presidente
+115 empate|14 política, político
+115 empate|13 Venezuela
+115 empate|12 futebol
+115 empate|11 torneio
+115 empate|10 edição
+115 empate|9 campeão
+115 empate|8 Brasil
+115 empate|7 Brasil
+115 empate|6 favorita, favorito
+115 empate|5 campanha
+115 empate|4 Argentina
+115 empate|2 final
+115 empate|1 Brasil
+115 empate|0 Argentina
+116 Brasil|115 empate
+116 Brasil|113 trave
+116 Brasil|112 bola
+116 Brasil|111 argentino
+116 Brasil|109 vantagem
+116 Brasil|108 Brasil
+116 Brasil|107 que
+116 Brasil|104 lançar
+116 Brasil|101 frente
+116 Brasil|100 seleção
+116 Brasil|99 isso
+116 Brasil|98 decisão
+116 Brasil|96 torneio
+116 Brasil|95 ataque
+116 Brasil|94 vitória
+116 Brasil|93 Argentina
+116 Brasil|91 Brasil
+116 Brasil|90 campanha
+116 Brasil|89 meio-campo
+116 Brasil|86 banco
+116 Brasil|85 que
+116 Brasil|84 volante
+116 Brasil|83 Fernando
+116 Brasil|82 ele
+116 Brasil|81 se
+116 Brasil|78 partida
+116 Brasil|77 treinador, treinar
+116 Brasil|75 volante
+116 Brasil|74 seu
+116 Brasil|72 façanha
+116 Brasil|71 torneio
+116 Brasil|70 seu
+116 Brasil|69 conquista
+116 Brasil|68 treinador, treinar
+116 Brasil|67 ele
+116 Brasil|66 sua
+116 Brasil|65 chance
+116 Brasil|64 que
+116 Brasil|63 que
+116 Brasil|62 seleção
+116 Brasil|61 frente
+116 Brasil|59 técnico
+116 Brasil|57 Londres
+116 Brasil|56 América
+116 Brasil|55 confronto
+116 Brasil|54 outro
+116 Brasil|52 argentino
+116 Brasil|51 vitória
+116 Brasil|50 treinador, treinar
+116 Brasil|48 Brasil
+116 Brasil|47 que
+116 Brasil|46 que
+116 Brasil|44 Argentina
+116 Brasil|43 expressão
+116 Brasil|42 adversário
+116 Brasil|40 era
+116 Brasil|39 título
+116 Brasil|38 cansaço
+116 Brasil|36 dispensa
+116 Brasil|33 futebol
+116 Brasil|32 estrela
+116 Brasil|31 técnico
+116 Brasil|29 conquista
+116 Brasil|28 este
+116 Brasil|26 disputa
+116 Brasil|25 título
+116 Brasil|24 seu
+116 Brasil|23 Argentina
+116 Brasil|21 competição, competir
+116 Brasil|20 seu
+116 Brasil|19 ano
+116 Brasil|18 que
+116 Brasil|17 seleção
+116 Brasil|15 presidente
+116 Brasil|14 política, político
+116 Brasil|13 Venezuela
+116 Brasil|12 futebol
+116 Brasil|11 torneio
+116 Brasil|10 edição
+116 Brasil|9 campeão
+116 Brasil|8 Brasil
+116 Brasil|7 Brasil
+116 Brasil|6 favorita, favorito
+116 Brasil|5 campanha
+116 Brasil|4 Argentina
+116 Brasil|2 final
+116 Brasil|1 Brasil
+116 Brasil|0 Argentina
+118 gol|116 Brasil
+118 gol|115 empate
+118 gol|113 trave
+118 gol|112 bola
+118 gol|111 argentino
+118 gol|109 vantagem
+118 gol|108 Brasil
+118 gol|107 que
+118 gol|104 lançar
+118 gol|101 frente
+118 gol|100 seleção
+118 gol|99 isso
+118 gol|98 decisão
+118 gol|96 torneio
+118 gol|95 ataque
+118 gol|94 vitória
+118 gol|93 Argentina
+118 gol|91 Brasil
+118 gol|90 campanha
+118 gol|89 meio-campo
+118 gol|86 banco
+118 gol|85 que
+118 gol|84 volante
+118 gol|83 Fernando
+118 gol|82 ele
+118 gol|81 se
+118 gol|78 partida
+118 gol|77 treinador, treinar
+118 gol|75 volante
+118 gol|74 seu
+118 gol|72 façanha
+118 gol|71 torneio
+118 gol|70 seu
+118 gol|69 conquista
+118 gol|68 treinador, treinar
+118 gol|67 ele
+118 gol|66 sua
+118 gol|65 chance
+118 gol|64 que
+118 gol|63 que
+118 gol|62 seleção
+118 gol|61 frente
+118 gol|59 técnico
+118 gol|57 Londres
+118 gol|56 América
+118 gol|55 confronto
+118 gol|54 outro
+118 gol|52 argentino
+118 gol|51 vitória
+118 gol|50 treinador, treinar
+118 gol|48 Brasil
+118 gol|47 que
+118 gol|46 que
+118 gol|44 Argentina
+118 gol|43 expressão
+118 gol|42 adversário
+118 gol|40 era
+118 gol|39 título
+118 gol|38 cansaço
+118 gol|36 dispensa
+118 gol|33 futebol
+118 gol|32 estrela
+118 gol|31 técnico
+118 gol|29 conquista
+118 gol|28 este
+118 gol|26 disputa
+118 gol|25 título
+118 gol|24 seu
+118 gol|23 Argentina
+118 gol|21 competição, competir
+118 gol|20 seu
+118 gol|19 ano
+118 gol|18 que
+118 gol|17 seleção
+118 gol|15 presidente
+118 gol|14 política, político
+118 gol|13 Venezuela
+118 gol|12 futebol
+118 gol|11 torneio
+118 gol|10 edição
+118 gol|9 campeão
+118 gol|8 Brasil
+118 gol|7 Brasil
+118 gol|6 favorita, favorito
+118 gol|5 campanha
+118 gol|4 Argentina
+118 gol|2 final
+118 gol|1 Brasil
+118 gol|0 Argentina
+121 que|118 gol
+121 que|116 Brasil
+121 que|115 empate
+121 que|113 trave
+121 que|112 bola
+121 que|111 argentino
+121 que|109 vantagem
+121 que|108 Brasil
+121 que|107 que
+121 que|104 lançar
+121 que|101 frente
+121 que|100 seleção
+121 que|99 isso
+121 que|98 decisão
+121 que|96 torneio
+121 que|95 ataque
+121 que|94 vitória
+121 que|93 Argentina
+121 que|91 Brasil
+121 que|90 campanha
+121 que|89 meio-campo
+121 que|86 banco
+121 que|85 que
+121 que|84 volante
+121 que|83 Fernando
+121 que|82 ele
+121 que|81 se
+121 que|78 partida
+121 que|77 treinador, treinar
+121 que|75 volante
+121 que|74 seu
+121 que|72 façanha
+121 que|71 torneio
+121 que|70 seu
+121 que|69 conquista
+121 que|68 treinador, treinar
+121 que|67 ele
+121 que|66 sua
+121 que|65 chance
+121 que|64 que
+121 que|63 que
+121 que|62 seleção
+121 que|61 frente
+121 que|59 técnico
+121 que|57 Londres
+121 que|56 América
+121 que|55 confronto
+121 que|54 outro
+121 que|52 argentino
+121 que|51 vitória
+121 que|50 treinador, treinar
+121 que|48 Brasil
+121 que|47 que
+121 que|46 que
+121 que|44 Argentina
+121 que|43 expressão
+121 que|42 adversário
+121 que|40 era
+121 que|39 título
+121 que|38 cansaço
+121 que|36 dispensa
+121 que|33 futebol
+121 que|32 estrela
+121 que|31 técnico
+121 que|29 conquista
+121 que|28 este
+121 que|26 disputa
+121 que|25 título
+121 que|24 seu
+121 que|23 Argentina
+121 que|21 competição, competir
+121 que|20 seu
+121 que|19 ano
+121 que|18 que
+121 que|17 seleção
+121 que|15 presidente
+121 que|14 política, político
+121 que|13 Venezuela
+121 que|12 futebol
+121 que|11 torneio
+121 que|10 edição
+121 que|9 campeão
+121 que|8 Brasil
+121 que|7 Brasil
+121 que|6 favorita, favorito
+121 que|5 campanha
+121 que|4 Argentina
+121 que|2 final
+121 que|1 Brasil
+121 que|0 Argentina
+122 meio|121 que
+122 meio|118 gol
+122 meio|116 Brasil
+122 meio|115 empate
+122 meio|113 trave
+122 meio|112 bola
+122 meio|111 argentino
+122 meio|109 vantagem
+122 meio|108 Brasil
+122 meio|107 que
+122 meio|104 lançar
+122 meio|101 frente
+122 meio|100 seleção
+122 meio|99 isso
+122 meio|98 decisão
+122 meio|96 torneio
+122 meio|95 ataque
+122 meio|94 vitória
+122 meio|93 Argentina
+122 meio|91 Brasil
+122 meio|90 campanha
+122 meio|89 meio-campo
+122 meio|86 banco
+122 meio|85 que
+122 meio|84 volante
+122 meio|83 Fernando
+122 meio|82 ele
+122 meio|81 se
+122 meio|78 partida
+122 meio|77 treinador, treinar
+122 meio|75 volante
+122 meio|74 seu
+122 meio|72 façanha
+122 meio|71 torneio
+122 meio|70 seu
+122 meio|69 conquista
+122 meio|68 treinador, treinar
+122 meio|67 ele
+122 meio|66 sua
+122 meio|65 chance
+122 meio|64 que
+122 meio|63 que
+122 meio|62 seleção
+122 meio|61 frente
+122 meio|59 técnico
+122 meio|57 Londres
+122 meio|56 América
+122 meio|55 confronto
+122 meio|54 outro
+122 meio|52 argentino
+122 meio|51 vitória
+122 meio|50 treinador, treinar
+122 meio|48 Brasil
+122 meio|47 que
+122 meio|46 que
+122 meio|44 Argentina
+122 meio|43 expressão
+122 meio|42 adversário
+122 meio|40 era
+122 meio|39 título
+122 meio|38 cansaço
+122 meio|36 dispensa
+122 meio|33 futebol
+122 meio|32 estrela
+122 meio|31 técnico
+122 meio|29 conquista
+122 meio|28 este
+122 meio|26 disputa
+122 meio|25 título
+122 meio|24 seu
+122 meio|23 Argentina
+122 meio|21 competição, competir
+122 meio|20 seu
+122 meio|19 ano
+122 meio|18 que
+122 meio|17 seleção
+122 meio|15 presidente
+122 meio|14 política, político
+122 meio|13 Venezuela
+122 meio|12 futebol
+122 meio|11 torneio
+122 meio|10 edição
+122 meio|9 campeão
+122 meio|8 Brasil
+122 meio|7 Brasil
+122 meio|6 favorita, favorito
+122 meio|5 campanha
+122 meio|4 Argentina
+122 meio|2 final
+122 meio|1 Brasil
+122 meio|0 Argentina
+124 direita, direito|122 meio
+124 direita, direito|121 que
+124 direita, direito|118 gol
+124 direita, direito|116 Brasil
+124 direita, direito|115 empate
+124 direita, direito|113 trave
+124 direita, direito|112 bola
+124 direita, direito|111 argentino
+124 direita, direito|109 vantagem
+124 direita, direito|108 Brasil
+124 direita, direito|107 que
+124 direita, direito|104 lançar
+124 direita, direito|101 frente
+124 direita, direito|100 seleção
+124 direita, direito|99 isso
+124 direita, direito|98 decisão
+124 direita, direito|96 torneio
+124 direita, direito|95 ataque
+124 direita, direito|94 vitória
+124 direita, direito|93 Argentina
+124 direita, direito|91 Brasil
+124 direita, direito|90 campanha
+124 direita, direito|89 meio-campo
+124 direita, direito|86 banco
+124 direita, direito|85 que
+124 direita, direito|84 volante
+124 direita, direito|83 Fernando
+124 direita, direito|82 ele
+124 direita, direito|81 se
+124 direita, direito|78 partida
+124 direita, direito|77 treinador, treinar
+124 direita, direito|75 volante
+124 direita, direito|74 seu
+124 direita, direito|72 façanha
+124 direita, direito|71 torneio
+124 direita, direito|70 seu
+124 direita, direito|69 conquista
+124 direita, direito|68 treinador, treinar
+124 direita, direito|67 ele
+124 direita, direito|66 sua
+124 direita, direito|65 chance
+124 direita, direito|64 que
+124 direita, direito|63 que
+124 direita, direito|62 seleção
+124 direita, direito|61 frente
+124 direita, direito|59 técnico
+124 direita, direito|57 Londres
+124 direita, direito|56 América
+124 direita, direito|55 confronto
+124 direita, direito|54 outro
+124 direita, direito|52 argentino
+124 direita, direito|51 vitória
+124 direita, direito|50 treinador, treinar
+124 direita, direito|48 Brasil
+124 direita, direito|47 que
+124 direita, direito|46 que
+124 direita, direito|44 Argentina
+124 direita, direito|43 expressão
+124 direita, direito|42 adversário
+124 direita, direito|40 era
+124 direita, direito|39 título
+124 direita, direito|38 cansaço
+124 direita, direito|36 dispensa
+124 direita, direito|33 futebol
+124 direita, direito|32 estrela
+124 direita, direito|31 técnico
+124 direita, direito|29 conquista
+124 direita, direito|28 este
+124 direita, direito|26 disputa
+124 direita, direito|25 título
+124 direita, direito|24 seu
+124 direita, direito|23 Argentina
+124 direita, direito|21 competição, competir
+124 direita, direito|20 seu
+124 direita, direito|19 ano
+124 direita, direito|18 que
+124 direita, direito|17 seleção
+124 direita, direito|15 presidente
+124 direita, direito|14 política, político
+124 direita, direito|13 Venezuela
+124 direita, direito|12 futebol
+124 direita, direito|11 torneio
+124 direita, direito|10 edição
+124 direita, direito|9 campeão
+124 direita, direito|8 Brasil
+124 direita, direito|7 Brasil
+124 direita, direito|6 favorita, favorito
+124 direita, direito|5 campanha
+124 direita, direito|4 Argentina
+124 direita, direito|2 final
+124 direita, direito|1 Brasil
+124 direita, direito|0 Argentina
+127 bola|124 direita, direito
+127 bola|122 meio
+127 bola|121 que
+127 bola|118 gol
+127 bola|116 Brasil
+127 bola|115 empate
+127 bola|113 trave
+127 bola|112 bola
+127 bola|111 argentino
+127 bola|109 vantagem
+127 bola|108 Brasil
+127 bola|107 que
+127 bola|104 lançar
+127 bola|101 frente
+127 bola|100 seleção
+127 bola|99 isso
+127 bola|98 decisão
+127 bola|96 torneio
+127 bola|95 ataque
+127 bola|94 vitória
+127 bola|93 Argentina
+127 bola|91 Brasil
+127 bola|90 campanha
+127 bola|89 meio-campo
+127 bola|86 banco
+127 bola|85 que
+127 bola|84 volante
+127 bola|83 Fernando
+127 bola|82 ele
+127 bola|81 se
+127 bola|78 partida
+127 bola|77 treinador, treinar
+127 bola|75 volante
+127 bola|74 seu
+127 bola|72 façanha
+127 bola|71 torneio
+127 bola|70 seu
+127 bola|69 conquista
+127 bola|68 treinador, treinar
+127 bola|67 ele
+127 bola|66 sua
+127 bola|65 chance
+127 bola|64 que
+127 bola|63 que
+127 bola|62 seleção
+127 bola|61 frente
+127 bola|59 técnico
+127 bola|57 Londres
+127 bola|56 América
+127 bola|55 confronto
+127 bola|54 outro
+127 bola|52 argentino
+127 bola|51 vitória
+127 bola|50 treinador, treinar
+127 bola|48 Brasil
+127 bola|47 que
+127 bola|46 que
+127 bola|44 Argentina
+127 bola|43 expressão
+127 bola|42 adversário
+127 bola|40 era
+127 bola|39 título
+127 bola|38 cansaço
+127 bola|36 dispensa
+127 bola|33 futebol
+127 bola|32 estrela
+127 bola|31 técnico
+127 bola|29 conquista
+127 bola|28 este
+127 bola|26 disputa
+127 bola|25 título
+127 bola|24 seu
+127 bola|23 Argentina
+127 bola|21 competição, competir
+127 bola|20 seu
+127 bola|19 ano
+127 bola|18 que
+127 bola|17 seleção
+127 bola|15 presidente
+127 bola|14 política, político
+127 bola|13 Venezuela
+127 bola|12 futebol
+127 bola|11 torneio
+127 bola|10 edição
+127 bola|9 campeão
+127 bola|8 Brasil
+127 bola|7 Brasil
+127 bola|6 favorita, favorito
+127 bola|5 campanha
+127 bola|4 Argentina
+127 bola|2 final
+127 bola|1 Brasil
+127 bola|0 Argentina
+128 sua|127 bola
+128 sua|124 direita, direito
+128 sua|122 meio
+128 sua|121 que
+128 sua|118 gol
+128 sua|116 Brasil
+128 sua|115 empate
+128 sua|113 trave
+128 sua|112 bola
+128 sua|111 argentino
+128 sua|109 vantagem
+128 sua|108 Brasil
+128 sua|107 que
+128 sua|104 lançar
+128 sua|101 frente
+128 sua|100 seleção
+128 sua|99 isso
+128 sua|98 decisão
+128 sua|96 torneio
+128 sua|95 ataque
+128 sua|94 vitória
+128 sua|93 Argentina
+128 sua|91 Brasil
+128 sua|90 campanha
+128 sua|89 meio-campo
+128 sua|86 banco
+128 sua|85 que
+128 sua|84 volante
+128 sua|83 Fernando
+128 sua|82 ele
+128 sua|81 se
+128 sua|78 partida
+128 sua|77 treinador, treinar
+128 sua|75 volante
+128 sua|74 seu
+128 sua|72 façanha
+128 sua|71 torneio
+128 sua|70 seu
+128 sua|69 conquista
+128 sua|68 treinador, treinar
+128 sua|67 ele
+128 sua|66 sua
+128 sua|65 chance
+128 sua|64 que
+128 sua|63 que
+128 sua|62 seleção
+128 sua|61 frente
+128 sua|59 técnico
+128 sua|57 Londres
+128 sua|56 América
+128 sua|55 confronto
+128 sua|54 outro
+128 sua|52 argentino
+128 sua|51 vitória
+128 sua|50 treinador, treinar
+128 sua|48 Brasil
+128 sua|47 que
+128 sua|46 que
+128 sua|44 Argentina
+128 sua|43 expressão
+128 sua|42 adversário
+128 sua|40 era
+128 sua|39 título
+128 sua|38 cansaço
+128 sua|36 dispensa
+128 sua|33 futebol
+128 sua|32 estrela
+128 sua|31 técnico
+128 sua|29 conquista
+128 sua|28 este
+128 sua|26 disputa
+128 sua|25 título
+128 sua|24 seu
+128 sua|23 Argentina
+128 sua|21 competição, competir
+128 sua|20 seu
+128 sua|19 ano
+128 sua|18 que
+128 sua|17 seleção
+128 sua|15 presidente
+128 sua|14 política, político
+128 sua|13 Venezuela
+128 sua|12 futebol
+128 sua|11 torneio
+128 sua|10 edição
+128 sua|9 campeão
+128 sua|8 Brasil
+128 sua|7 Brasil
+128 sua|6 favorita, favorito
+128 sua|5 campanha
+128 sua|4 Argentina
+128 sua|2 final
+128 sua|1 Brasil
+128 sua|0 Argentina
+129 tempo|128 sua
+129 tempo|127 bola
+129 tempo|124 direita, direito
+129 tempo|122 meio
+129 tempo|121 que
+129 tempo|118 gol
+129 tempo|116 Brasil
+129 tempo|115 empate
+129 tempo|113 trave
+129 tempo|112 bola
+129 tempo|111 argentino
+129 tempo|109 vantagem
+129 tempo|108 Brasil
+129 tempo|107 que
+129 tempo|104 lançar
+129 tempo|101 frente
+129 tempo|100 seleção
+129 tempo|99 isso
+129 tempo|98 decisão
+129 tempo|96 torneio
+129 tempo|95 ataque
+129 tempo|94 vitória
+129 tempo|93 Argentina
+129 tempo|91 Brasil
+129 tempo|90 campanha
+129 tempo|89 meio-campo
+129 tempo|86 banco
+129 tempo|85 que
+129 tempo|84 volante
+129 tempo|83 Fernando
+129 tempo|82 ele
+129 tempo|81 se
+129 tempo|78 partida
+129 tempo|77 treinador, treinar
+129 tempo|75 volante
+129 tempo|74 seu
+129 tempo|72 façanha
+129 tempo|71 torneio
+129 tempo|70 seu
+129 tempo|69 conquista
+129 tempo|68 treinador, treinar
+129 tempo|67 ele
+129 tempo|66 sua
+129 tempo|65 chance
+129 tempo|64 que
+129 tempo|63 que
+129 tempo|62 seleção
+129 tempo|61 frente
+129 tempo|59 técnico
+129 tempo|57 Londres
+129 tempo|56 América
+129 tempo|55 confronto
+129 tempo|54 outro
+129 tempo|52 argentino
+129 tempo|51 vitória
+129 tempo|50 treinador, treinar
+129 tempo|48 Brasil
+129 tempo|47 que
+129 tempo|46 que
+129 tempo|44 Argentina
+129 tempo|43 expressão
+129 tempo|42 adversário
+129 tempo|40 era
+129 tempo|39 título
+129 tempo|38 cansaço
+129 tempo|36 dispensa
+129 tempo|33 futebol
+129 tempo|32 estrela
+129 tempo|31 técnico
+129 tempo|29 conquista
+129 tempo|28 este
+129 tempo|26 disputa
+129 tempo|25 título
+129 tempo|24 seu
+129 tempo|23 Argentina
+129 tempo|21 competição, competir
+129 tempo|20 seu
+129 tempo|19 ano
+129 tempo|18 que
+129 tempo|17 seleção
+129 tempo|15 presidente
+129 tempo|14 política, político
+129 tempo|13 Venezuela
+129 tempo|12 futebol
+129 tempo|11 torneio
+129 tempo|10 edição
+129 tempo|9 campeão
+129 tempo|8 Brasil
+129 tempo|7 Brasil
+129 tempo|6 favorita, favorito
+129 tempo|5 campanha
+129 tempo|4 Argentina
+129 tempo|2 final
+129 tempo|1 Brasil
+129 tempo|0 Argentina
+130 pressão|129 tempo
+130 pressão|128 sua
+130 pressão|127 bola
+130 pressão|124 direita, direito
+130 pressão|122 meio
+130 pressão|121 que
+130 pressão|118 gol
+130 pressão|116 Brasil
+130 pressão|115 empate
+130 pressão|113 trave
+130 pressão|112 bola
+130 pressão|111 argentino
+130 pressão|109 vantagem
+130 pressão|108 Brasil
+130 pressão|107 que
+130 pressão|104 lançar
+130 pressão|101 frente
+130 pressão|100 seleção
+130 pressão|99 isso
+130 pressão|98 decisão
+130 pressão|96 torneio
+130 pressão|95 ataque
+130 pressão|94 vitória
+130 pressão|93 Argentina
+130 pressão|91 Brasil
+130 pressão|90 campanha
+130 pressão|89 meio-campo
+130 pressão|86 banco
+130 pressão|85 que
+130 pressão|84 volante
+130 pressão|83 Fernando
+130 pressão|82 ele
+130 pressão|81 se
+130 pressão|78 partida
+130 pressão|77 treinador, treinar
+130 pressão|75 volante
+130 pressão|74 seu
+130 pressão|72 façanha
+130 pressão|71 torneio
+130 pressão|70 seu
+130 pressão|69 conquista
+130 pressão|68 treinador, treinar
+130 pressão|67 ele
+130 pressão|66 sua
+130 pressão|65 chance
+130 pressão|64 que
+130 pressão|63 que
+130 pressão|62 seleção
+130 pressão|61 frente
+130 pressão|59 técnico
+130 pressão|57 Londres
+130 pressão|56 América
+130 pressão|55 confronto
+130 pressão|54 outro
+130 pressão|52 argentino
+130 pressão|51 vitória
+130 pressão|50 treinador, treinar
+130 pressão|48 Brasil
+130 pressão|47 que
+130 pressão|46 que
+130 pressão|44 Argentina
+130 pressão|43 expressão
+130 pressão|42 adversário
+130 pressão|40 era
+130 pressão|39 título
+130 pressão|38 cansaço
+130 pressão|36 dispensa
+130 pressão|33 futebol
+130 pressão|32 estrela
+130 pressão|31 técnico
+130 pressão|29 conquista
+130 pressão|28 este
+130 pressão|26 disputa
+130 pressão|25 título
+130 pressão|24 seu
+130 pressão|23 Argentina
+130 pressão|21 competição, competir
+130 pressão|20 seu
+130 pressão|19 ano
+130 pressão|18 que
+130 pressão|17 seleção
+130 pressão|15 presidente
+130 pressão|14 política, político
+130 pressão|13 Venezuela
+130 pressão|12 futebol
+130 pressão|11 torneio
+130 pressão|10 edição
+130 pressão|9 campeão
+130 pressão|8 Brasil
+130 pressão|7 Brasil
+130 pressão|6 favorita, favorito
+130 pressão|5 campanha
+130 pressão|4 Argentina
+130 pressão|2 final
+130 pressão|1 Brasil
+130 pressão|0 Argentina
+131 espaço|130 pressão
+131 espaço|129 tempo
+131 espaço|128 sua
+131 espaço|127 bola
+131 espaço|124 direita, direito
+131 espaço|122 meio
+131 espaço|121 que
+131 espaço|118 gol
+131 espaço|116 Brasil
+131 espaço|115 empate
+131 espaço|113 trave
+131 espaço|112 bola
+131 espaço|111 argentino
+131 espaço|109 vantagem
+131 espaço|108 Brasil
+131 espaço|107 que
+131 espaço|104 lançar
+131 espaço|101 frente
+131 espaço|100 seleção
+131 espaço|99 isso
+131 espaço|98 decisão
+131 espaço|96 torneio
+131 espaço|95 ataque
+131 espaço|94 vitória
+131 espaço|93 Argentina
+131 espaço|91 Brasil
+131 espaço|90 campanha
+131 espaço|89 meio-campo
+131 espaço|86 banco
+131 espaço|85 que
+131 espaço|84 volante
+131 espaço|83 Fernando
+131 espaço|82 ele
+131 espaço|81 se
+131 espaço|78 partida
+131 espaço|77 treinador, treinar
+131 espaço|75 volante
+131 espaço|74 seu
+131 espaço|72 façanha
+131 espaço|71 torneio
+131 espaço|70 seu
+131 espaço|69 conquista
+131 espaço|68 treinador, treinar
+131 espaço|67 ele
+131 espaço|66 sua
+131 espaço|65 chance
+131 espaço|64 que
+131 espaço|63 que
+131 espaço|62 seleção
+131 espaço|61 frente
+131 espaço|59 técnico
+131 espaço|57 Londres
+131 espaço|56 América
+131 espaço|55 confronto
+131 espaço|54 outro
+131 espaço|52 argentino
+131 espaço|51 vitória
+131 espaço|50 treinador, treinar
+131 espaço|48 Brasil
+131 espaço|47 que
+131 espaço|46 que
+131 espaço|44 Argentina
+131 espaço|43 expressão
+131 espaço|42 adversário
+131 espaço|40 era
+131 espaço|39 título
+131 espaço|38 cansaço
+131 espaço|36 dispensa
+131 espaço|33 futebol
+131 espaço|32 estrela
+131 espaço|31 técnico
+131 espaço|29 conquista
+131 espaço|28 este
+131 espaço|26 disputa
+131 espaço|25 título
+131 espaço|24 seu
+131 espaço|23 Argentina
+131 espaço|21 competição, competir
+131 espaço|20 seu
+131 espaço|19 ano
+131 espaço|18 que
+131 espaço|17 seleção
+131 espaço|15 presidente
+131 espaço|14 política, político
+131 espaço|13 Venezuela
+131 espaço|12 futebol
+131 espaço|11 torneio
+131 espaço|10 edição
+131 espaço|9 campeão
+131 espaço|8 Brasil
+131 espaço|7 Brasil
+131 espaço|6 favorita, favorito
+131 espaço|5 campanha
+131 espaço|4 Argentina
+131 espaço|2 final
+131 espaço|1 Brasil
+131 espaço|0 Argentina
+132 contra-ataque|131 espaço
+132 contra-ataque|130 pressão
+132 contra-ataque|129 tempo
+132 contra-ataque|128 sua
+132 contra-ataque|127 bola
+132 contra-ataque|124 direita, direito
+132 contra-ataque|122 meio
+132 contra-ataque|121 que
+132 contra-ataque|118 gol
+132 contra-ataque|116 Brasil
+132 contra-ataque|115 empate
+132 contra-ataque|113 trave
+132 contra-ataque|112 bola
+132 contra-ataque|111 argentino
+132 contra-ataque|109 vantagem
+132 contra-ataque|108 Brasil
+132 contra-ataque|107 que
+132 contra-ataque|104 lançar
+132 contra-ataque|101 frente
+132 contra-ataque|100 seleção
+132 contra-ataque|99 isso
+132 contra-ataque|98 decisão
+132 contra-ataque|96 torneio
+132 contra-ataque|95 ataque
+132 contra-ataque|94 vitória
+132 contra-ataque|93 Argentina
+132 contra-ataque|91 Brasil
+132 contra-ataque|90 campanha
+132 contra-ataque|89 meio-campo
+132 contra-ataque|86 banco
+132 contra-ataque|85 que
+132 contra-ataque|84 volante
+132 contra-ataque|83 Fernando
+132 contra-ataque|82 ele
+132 contra-ataque|81 se
+132 contra-ataque|78 partida
+132 contra-ataque|77 treinador, treinar
+132 contra-ataque|75 volante
+132 contra-ataque|74 seu
+132 contra-ataque|72 façanha
+132 contra-ataque|71 torneio
+132 contra-ataque|70 seu
+132 contra-ataque|69 conquista
+132 contra-ataque|68 treinador, treinar
+132 contra-ataque|67 ele
+132 contra-ataque|66 sua
+132 contra-ataque|65 chance
+132 contra-ataque|64 que
+132 contra-ataque|63 que
+132 contra-ataque|62 seleção
+132 contra-ataque|61 frente
+132 contra-ataque|59 técnico
+132 contra-ataque|57 Londres
+132 contra-ataque|56 América
+132 contra-ataque|55 confronto
+132 contra-ataque|54 outro
+132 contra-ataque|52 argentino
+132 contra-ataque|51 vitória
+132 contra-ataque|50 treinador, treinar
+132 contra-ataque|48 Brasil
+132 contra-ataque|47 que
+132 contra-ataque|46 que
+132 contra-ataque|44 Argentina
+132 contra-ataque|43 expressão
+132 contra-ataque|42 adversário
+132 contra-ataque|40 era
+132 contra-ataque|39 título
+132 contra-ataque|38 cansaço
+132 contra-ataque|36 dispensa
+132 contra-ataque|33 futebol
+132 contra-ataque|32 estrela
+132 contra-ataque|31 técnico
+132 contra-ataque|29 conquista
+132 contra-ataque|28 este
+132 contra-ataque|26 disputa
+132 contra-ataque|25 título
+132 contra-ataque|24 seu
+132 contra-ataque|23 Argentina
+132 contra-ataque|21 competição, competir
+132 contra-ataque|20 seu
+132 contra-ataque|19 ano
+132 contra-ataque|18 que
+132 contra-ataque|17 seleção
+132 contra-ataque|15 presidente
+132 contra-ataque|14 política, político
+132 contra-ataque|13 Venezuela
+132 contra-ataque|12 futebol
+132 contra-ataque|11 torneio
+132 contra-ataque|10 edição
+132 contra-ataque|9 campeão
+132 contra-ataque|8 Brasil
+132 contra-ataque|7 Brasil
+132 contra-ataque|6 favorita, favorito
+132 contra-ataque|5 campanha
+132 contra-ataque|4 Argentina
+132 contra-ataque|2 final
+132 contra-ataque|1 Brasil
+132 contra-ataque|0 Argentina
+133 duplo|132 contra-ataque
+133 duplo|131 espaço
+133 duplo|130 pressão
+133 duplo|129 tempo
+133 duplo|128 sua
+133 duplo|127 bola
+133 duplo|124 direita, direito
+133 duplo|122 meio
+133 duplo|121 que
+133 duplo|118 gol
+133 duplo|116 Brasil
+133 duplo|115 empate
+133 duplo|113 trave
+133 duplo|112 bola
+133 duplo|111 argentino
+133 duplo|109 vantagem
+133 duplo|108 Brasil
+133 duplo|107 que
+133 duplo|104 lançar
+133 duplo|101 frente
+133 duplo|100 seleção
+133 duplo|99 isso
+133 duplo|98 decisão
+133 duplo|96 torneio
+133 duplo|95 ataque
+133 duplo|94 vitória
+133 duplo|93 Argentina
+133 duplo|91 Brasil
+133 duplo|90 campanha
+133 duplo|89 meio-campo
+133 duplo|86 banco
+133 duplo|85 que
+133 duplo|84 volante
+133 duplo|83 Fernando
+133 duplo|82 ele
+133 duplo|81 se
+133 duplo|78 partida
+133 duplo|77 treinador, treinar
+133 duplo|75 volante
+133 duplo|74 seu
+133 duplo|72 façanha
+133 duplo|71 torneio
+133 duplo|70 seu
+133 duplo|69 conquista
+133 duplo|68 treinador, treinar
+133 duplo|67 ele
+133 duplo|66 sua
+133 duplo|65 chance
+133 duplo|64 que
+133 duplo|63 que
+133 duplo|62 seleção
+133 duplo|61 frente
+133 duplo|59 técnico
+133 duplo|57 Londres
+133 duplo|56 América
+133 duplo|55 confronto
+133 duplo|54 outro
+133 duplo|52 argentino
+133 duplo|51 vitória
+133 duplo|50 treinador, treinar
+133 duplo|48 Brasil
+133 duplo|47 que
+133 duplo|46 que
+133 duplo|44 Argentina
+133 duplo|43 expressão
+133 duplo|42 adversário
+133 duplo|40 era
+133 duplo|39 título
+133 duplo|38 cansaço
+133 duplo|36 dispensa
+133 duplo|33 futebol
+133 duplo|32 estrela
+133 duplo|31 técnico
+133 duplo|29 conquista
+133 duplo|28 este
+133 duplo|26 disputa
+133 duplo|25 título
+133 duplo|24 seu
+133 duplo|23 Argentina
+133 duplo|21 competição, competir
+133 duplo|20 seu
+133 duplo|19 ano
+133 duplo|18 que
+133 duplo|17 seleção
+133 duplo|15 presidente
+133 duplo|14 política, político
+133 duplo|13 Venezuela
+133 duplo|12 futebol
+133 duplo|11 torneio
+133 duplo|10 edição
+133 duplo|9 campeão
+133 duplo|8 Brasil
+133 duplo|7 Brasil
+133 duplo|6 favorita, favorito
+133 duplo|5 campanha
+133 duplo|4 Argentina
+133 duplo|2 final
+133 duplo|1 Brasil
+133 duplo|0 Argentina
+134 volante|133 duplo
+134 volante|132 contra-ataque
+134 volante|131 espaço
+134 volante|130 pressão
+134 volante|129 tempo
+134 volante|128 sua
+134 volante|127 bola
+134 volante|124 direita, direito
+134 volante|122 meio
+134 volante|121 que
+134 volante|118 gol
+134 volante|116 Brasil
+134 volante|115 empate
+134 volante|113 trave
+134 volante|112 bola
+134 volante|111 argentino
+134 volante|109 vantagem
+134 volante|108 Brasil
+134 volante|107 que
+134 volante|104 lançar
+134 volante|101 frente
+134 volante|100 seleção
+134 volante|99 isso
+134 volante|98 decisão
+134 volante|96 torneio
+134 volante|95 ataque
+134 volante|94 vitória
+134 volante|93 Argentina
+134 volante|91 Brasil
+134 volante|90 campanha
+134 volante|89 meio-campo
+134 volante|86 banco
+134 volante|85 que
+134 volante|84 volante
+134 volante|83 Fernando
+134 volante|82 ele
+134 volante|81 se
+134 volante|78 partida
+134 volante|77 treinador, treinar
+134 volante|75 volante
+134 volante|74 seu
+134 volante|72 façanha
+134 volante|71 torneio
+134 volante|70 seu
+134 volante|69 conquista
+134 volante|68 treinador, treinar
+134 volante|67 ele
+134 volante|66 sua
+134 volante|65 chance
+134 volante|64 que
+134 volante|63 que
+134 volante|62 seleção
+134 volante|61 frente
+134 volante|59 técnico
+134 volante|57 Londres
+134 volante|56 América
+134 volante|55 confronto
+134 volante|54 outro
+134 volante|52 argentino
+134 volante|51 vitória
+134 volante|50 treinador, treinar
+134 volante|48 Brasil
+134 volante|47 que
+134 volante|46 que
+134 volante|44 Argentina
+134 volante|43 expressão
+134 volante|42 adversário
+134 volante|40 era
+134 volante|39 título
+134 volante|38 cansaço
+134 volante|36 dispensa
+134 volante|33 futebol
+134 volante|32 estrela
+134 volante|31 técnico
+134 volante|29 conquista
+134 volante|28 este
+134 volante|26 disputa
+134 volante|25 título
+134 volante|24 seu
+134 volante|23 Argentina
+134 volante|21 competição, competir
+134 volante|20 seu
+134 volante|19 ano
+134 volante|18 que
+134 volante|17 seleção
+134 volante|15 presidente
+134 volante|14 política, político
+134 volante|13 Venezuela
+134 volante|12 futebol
+134 volante|11 torneio
+134 volante|10 edição
+134 volante|9 campeão
+134 volante|8 Brasil
+134 volante|7 Brasil
+134 volante|6 favorita, favorito
+134 volante|5 campanha
+134 volante|4 Argentina
+134 volante|2 final
+134 volante|1 Brasil
+134 volante|0 Argentina
+135 Josué|134 volante
+135 Josué|133 duplo
+135 Josué|132 contra-ataque
+135 Josué|131 espaço
+135 Josué|130 pressão
+135 Josué|129 tempo
+135 Josué|128 sua
+135 Josué|127 bola
+135 Josué|124 direita, direito
+135 Josué|122 meio
+135 Josué|121 que
+135 Josué|118 gol
+135 Josué|116 Brasil
+135 Josué|115 empate
+135 Josué|113 trave
+135 Josué|112 bola
+135 Josué|111 argentino
+135 Josué|109 vantagem
+135 Josué|108 Brasil
+135 Josué|107 que
+135 Josué|104 lançar
+135 Josué|101 frente
+135 Josué|100 seleção
+135 Josué|99 isso
+135 Josué|98 decisão
+135 Josué|96 torneio
+135 Josué|95 ataque
+135 Josué|94 vitória
+135 Josué|93 Argentina
+135 Josué|91 Brasil
+135 Josué|90 campanha
+135 Josué|89 meio-campo
+135 Josué|86 banco
+135 Josué|85 que
+135 Josué|84 volante
+135 Josué|83 Fernando
+135 Josué|82 ele
+135 Josué|81 se
+135 Josué|78 partida
+135 Josué|77 treinador, treinar
+135 Josué|75 volante
+135 Josué|74 seu
+135 Josué|72 façanha
+135 Josué|71 torneio
+135 Josué|70 seu
+135 Josué|69 conquista
+135 Josué|68 treinador, treinar
+135 Josué|67 ele
+135 Josué|66 sua
+135 Josué|65 chance
+135 Josué|64 que
+135 Josué|63 que
+135 Josué|62 seleção
+135 Josué|61 frente
+135 Josué|59 técnico
+135 Josué|57 Londres
+135 Josué|56 América
+135 Josué|55 confronto
+135 Josué|54 outro
+135 Josué|52 argentino
+135 Josué|51 vitória
+135 Josué|50 treinador, treinar
+135 Josué|48 Brasil
+135 Josué|47 que
+135 Josué|46 que
+135 Josué|44 Argentina
+135 Josué|43 expressão
+135 Josué|42 adversário
+135 Josué|40 era
+135 Josué|39 título
+135 Josué|38 cansaço
+135 Josué|36 dispensa
+135 Josué|33 futebol
+135 Josué|32 estrela
+135 Josué|31 técnico
+135 Josué|29 conquista
+135 Josué|28 este
+135 Josué|26 disputa
+135 Josué|25 título
+135 Josué|24 seu
+135 Josué|23 Argentina
+135 Josué|21 competição, competir
+135 Josué|20 seu
+135 Josué|19 ano
+135 Josué|18 que
+135 Josué|17 seleção
+135 Josué|15 presidente
+135 Josué|14 política, político
+135 Josué|13 Venezuela
+135 Josué|12 futebol
+135 Josué|11 torneio
+135 Josué|10 edição
+135 Josué|9 campeão
+135 Josué|8 Brasil
+135 Josué|7 Brasil
+135 Josué|6 favorita, favorito
+135 Josué|5 campanha
+135 Josué|4 Argentina
+135 Josué|2 final
+135 Josué|1 Brasil
+135 Josué|0 Argentina
+137 competição, competir|135 Josué
+137 competição, competir|134 volante
+137 competição, competir|133 duplo
+137 competição, competir|132 contra-ataque
+137 competição, competir|131 espaço
+137 competição, competir|130 pressão
+137 competição, competir|129 tempo
+137 competição, competir|128 sua
+137 competição, competir|127 bola
+137 competição, competir|124 direita, direito
+137 competição, competir|122 meio
+137 competição, competir|121 que
+137 competição, competir|118 gol
+137 competição, competir|116 Brasil
+137 competição, competir|115 empate
+137 competição, competir|113 trave
+137 competição, competir|112 bola
+137 competição, competir|111 argentino
+137 competição, competir|109 vantagem
+137 competição, competir|108 Brasil
+137 competição, competir|107 que
+137 competição, competir|104 lançar
+137 competição, competir|101 frente
+137 competição, competir|100 seleção
+137 competição, competir|99 isso
+137 competição, competir|98 decisão
+137 competição, competir|96 torneio
+137 competição, competir|95 ataque
+137 competição, competir|94 vitória
+137 competição, competir|93 Argentina
+137 competição, competir|91 Brasil
+137 competição, competir|90 campanha
+137 competição, competir|89 meio-campo
+137 competição, competir|86 banco
+137 competição, competir|85 que
+137 competição, competir|84 volante
+137 competição, competir|83 Fernando
+137 competição, competir|82 ele
+137 competição, competir|81 se
+137 competição, competir|78 partida
+137 competição, competir|77 treinador, treinar
+137 competição, competir|75 volante
+137 competição, competir|74 seu
+137 competição, competir|72 façanha
+137 competição, competir|71 torneio
+137 competição, competir|70 seu
+137 competição, competir|69 conquista
+137 competição, competir|68 treinador, treinar
+137 competição, competir|67 ele
+137 competição, competir|66 sua
+137 competição, competir|65 chance
+137 competição, competir|64 que
+137 competição, competir|63 que
+137 competição, competir|62 seleção
+137 competição, competir|61 frente
+137 competição, competir|59 técnico
+137 competição, competir|57 Londres
+137 competição, competir|56 América
+137 competição, competir|55 confronto
+137 competição, competir|54 outro
+137 competição, competir|52 argentino
+137 competição, competir|51 vitória
+137 competição, competir|50 treinador, treinar
+137 competição, competir|48 Brasil
+137 competição, competir|47 que
+137 competição, competir|46 que
+137 competição, competir|44 Argentina
+137 competição, competir|43 expressão
+137 competição, competir|42 adversário
+137 competição, competir|40 era
+137 competição, competir|39 título
+137 competição, competir|38 cansaço
+137 competição, competir|36 dispensa
+137 competição, competir|33 futebol
+137 competição, competir|32 estrela
+137 competição, competir|31 técnico
+137 competição, competir|29 conquista
+137 competição, competir|28 este
+137 competição, competir|26 disputa
+137 competição, competir|25 título
+137 competição, competir|24 seu
+137 competição, competir|23 Argentina
+137 competição, competir|21 competição, competir
+137 competição, competir|20 seu
+137 competição, competir|19 ano
+137 competição, competir|18 que
+137 competição, competir|17 seleção
+137 competição, competir|15 presidente
+137 competição, competir|14 política, político
+137 competição, competir|13 Venezuela
+137 competição, competir|12 futebol
+137 competição, competir|11 torneio
+137 competição, competir|10 edição
+137 competição, competir|9 campeão
+137 competição, competir|8 Brasil
+137 competição, competir|7 Brasil
+137 competição, competir|6 favorita, favorito
+137 competição, competir|5 campanha
+137 competição, competir|4 Argentina
+137 competição, competir|2 final
+137 competição, competir|1 Brasil
+137 competição, competir|0 Argentina
+138 intermediário|137 competição, competir
+138 intermediário|135 Josué
+138 intermediário|134 volante
+138 intermediário|133 duplo
+138 intermediário|132 contra-ataque
+138 intermediário|131 espaço
+138 intermediário|130 pressão
+138 intermediário|129 tempo
+138 intermediário|128 sua
+138 intermediário|127 bola
+138 intermediário|124 direita, direito
+138 intermediário|122 meio
+138 intermediário|121 que
+138 intermediário|118 gol
+138 intermediário|116 Brasil
+138 intermediário|115 empate
+138 intermediário|113 trave
+138 intermediário|112 bola
+138 intermediário|111 argentino
+138 intermediário|109 vantagem
+138 intermediário|108 Brasil
+138 intermediário|107 que
+138 intermediário|104 lançar
+138 intermediário|101 frente
+138 intermediário|100 seleção
+138 intermediário|99 isso
+138 intermediário|98 decisão
+138 intermediário|96 torneio
+138 intermediário|95 ataque
+138 intermediário|94 vitória
+138 intermediário|93 Argentina
+138 intermediário|91 Brasil
+138 intermediário|90 campanha
+138 intermediário|89 meio-campo
+138 intermediário|86 banco
+138 intermediário|85 que
+138 intermediário|84 volante
+138 intermediário|83 Fernando
+138 intermediário|82 ele
+138 intermediário|81 se
+138 intermediário|78 partida
+138 intermediário|77 treinador, treinar
+138 intermediário|75 volante
+138 intermediário|74 seu
+138 intermediário|72 façanha
+138 intermediário|71 torneio
+138 intermediário|70 seu
+138 intermediário|69 conquista
+138 intermediário|68 treinador, treinar
+138 intermediário|67 ele
+138 intermediário|66 sua
+138 intermediário|65 chance
+138 intermediário|64 que
+138 intermediário|63 que
+138 intermediário|62 seleção
+138 intermediário|61 frente
+138 intermediário|59 técnico
+138 intermediário|57 Londres
+138 intermediário|56 América
+138 intermediário|55 confronto
+138 intermediário|54 outro
+138 intermediário|52 argentino
+138 intermediário|51 vitória
+138 intermediário|50 treinador, treinar
+138 intermediário|48 Brasil
+138 intermediário|47 que
+138 intermediário|46 que
+138 intermediário|44 Argentina
+138 intermediário|43 expressão
+138 intermediário|42 adversário
+138 intermediário|40 era
+138 intermediário|39 título
+138 intermediário|38 cansaço
+138 intermediário|36 dispensa
+138 intermediário|33 futebol
+138 intermediário|32 estrela
+138 intermediário|31 técnico
+138 intermediário|29 conquista
+138 intermediário|28 este
+138 intermediário|26 disputa
+138 intermediário|25 título
+138 intermediário|24 seu
+138 intermediário|23 Argentina
+138 intermediário|21 competição, competir
+138 intermediário|20 seu
+138 intermediário|19 ano
+138 intermediário|18 que
+138 intermediário|17 seleção
+138 intermediário|15 presidente
+138 intermediário|14 política, político
+138 intermediário|13 Venezuela
+138 intermediário|12 futebol
+138 intermediário|11 torneio
+138 intermediário|10 edição
+138 intermediário|9 campeão
+138 intermediário|8 Brasil
+138 intermediário|7 Brasil
+138 intermediário|6 favorita, favorito
+138 intermediário|5 campanha
+138 intermediário|4 Argentina
+138 intermediário|2 final
+138 intermediário|1 Brasil
+138 intermediário|0 Argentina
+140 quem|138 intermediário
+140 quem|137 competição, competir
+140 quem|135 Josué
+140 quem|134 volante
+140 quem|133 duplo
+140 quem|132 contra-ataque
+140 quem|131 espaço
+140 quem|130 pressão
+140 quem|129 tempo
+140 quem|128 sua
+140 quem|127 bola
+140 quem|124 direita, direito
+140 quem|122 meio
+140 quem|121 que
+140 quem|118 gol
+140 quem|116 Brasil
+140 quem|115 empate
+140 quem|113 trave
+140 quem|112 bola
+140 quem|111 argentino
+140 quem|109 vantagem
+140 quem|108 Brasil
+140 quem|107 que
+140 quem|104 lançar
+140 quem|101 frente
+140 quem|100 seleção
+140 quem|99 isso
+140 quem|98 decisão
+140 quem|96 torneio
+140 quem|95 ataque
+140 quem|94 vitória
+140 quem|93 Argentina
+140 quem|91 Brasil
+140 quem|90 campanha
+140 quem|89 meio-campo
+140 quem|86 banco
+140 quem|85 que
+140 quem|84 volante
+140 quem|83 Fernando
+140 quem|82 ele
+140 quem|81 se
+140 quem|78 partida
+140 quem|77 treinador, treinar
+140 quem|75 volante
+140 quem|74 seu
+140 quem|72 façanha
+140 quem|71 torneio
+140 quem|70 seu
+140 quem|69 conquista
+140 quem|68 treinador, treinar
+140 quem|67 ele
+140 quem|66 sua
+140 quem|65 chance
+140 quem|64 que
+140 quem|63 que
+140 quem|62 seleção
+140 quem|61 frente
+140 quem|59 técnico
+140 quem|57 Londres
+140 quem|56 América
+140 quem|55 confronto
+140 quem|54 outro
+140 quem|52 argentino
+140 quem|51 vitória
+140 quem|50 treinador, treinar
+140 quem|48 Brasil
+140 quem|47 que
+140 quem|46 que
+140 quem|44 Argentina
+140 quem|43 expressão
+140 quem|42 adversário
+140 quem|40 era
+140 quem|39 título
+140 quem|38 cansaço
+140 quem|36 dispensa
+140 quem|33 futebol
+140 quem|32 estrela
+140 quem|31 técnico
+140 quem|29 conquista
+140 quem|28 este
+140 quem|26 disputa
+140 quem|25 título
+140 quem|24 seu
+140 quem|23 Argentina
+140 quem|21 competição, competir
+140 quem|20 seu
+140 quem|19 ano
+140 quem|18 que
+140 quem|17 seleção
+140 quem|15 presidente
+140 quem|14 política, político
+140 quem|13 Venezuela
+140 quem|12 futebol
+140 quem|11 torneio
+140 quem|10 edição
+140 quem|9 campeão
+140 quem|8 Brasil
+140 quem|7 Brasil
+140 quem|6 favorita, favorito
+140 quem|5 campanha
+140 quem|4 Argentina
+140 quem|2 final
+140 quem|1 Brasil
+140 quem|0 Argentina
+141 campo|140 quem
+141 campo|138 intermediário
+141 campo|137 competição, competir
+141 campo|135 Josué
+141 campo|134 volante
+141 campo|133 duplo
+141 campo|132 contra-ataque
+141 campo|131 espaço
+141 campo|130 pressão
+141 campo|129 tempo
+141 campo|128 sua
+141 campo|127 bola
+141 campo|124 direita, direito
+141 campo|122 meio
+141 campo|121 que
+141 campo|118 gol
+141 campo|116 Brasil
+141 campo|115 empate
+141 campo|113 trave
+141 campo|112 bola
+141 campo|111 argentino
+141 campo|109 vantagem
+141 campo|108 Brasil
+141 campo|107 que
+141 campo|104 lançar
+141 campo|101 frente
+141 campo|100 seleção
+141 campo|99 isso
+141 campo|98 decisão
+141 campo|96 torneio
+141 campo|95 ataque
+141 campo|94 vitória
+141 campo|93 Argentina
+141 campo|91 Brasil
+141 campo|90 campanha
+141 campo|89 meio-campo
+141 campo|86 banco
+141 campo|85 que
+141 campo|84 volante
+141 campo|83 Fernando
+141 campo|82 ele
+141 campo|81 se
+141 campo|78 partida
+141 campo|77 treinador, treinar
+141 campo|75 volante
+141 campo|74 seu
+141 campo|72 façanha
+141 campo|71 torneio
+141 campo|70 seu
+141 campo|69 conquista
+141 campo|68 treinador, treinar
+141 campo|67 ele
+141 campo|66 sua
+141 campo|65 chance
+141 campo|64 que
+141 campo|63 que
+141 campo|62 seleção
+141 campo|61 frente
+141 campo|59 técnico
+141 campo|57 Londres
+141 campo|56 América
+141 campo|55 confronto
+141 campo|54 outro
+141 campo|52 argentino
+141 campo|51 vitória
+141 campo|50 treinador, treinar
+141 campo|48 Brasil
+141 campo|47 que
+141 campo|46 que
+141 campo|44 Argentina
+141 campo|43 expressão
+141 campo|42 adversário
+141 campo|40 era
+141 campo|39 título
+141 campo|38 cansaço
+141 campo|36 dispensa
+141 campo|33 futebol
+141 campo|32 estrela
+141 campo|31 técnico
+141 campo|29 conquista
+141 campo|28 este
+141 campo|26 disputa
+141 campo|25 título
+141 campo|24 seu
+141 campo|23 Argentina
+141 campo|21 competição, competir
+141 campo|20 seu
+141 campo|19 ano
+141 campo|18 que
+141 campo|17 seleção
+141 campo|15 presidente
+141 campo|14 política, político
+141 campo|13 Venezuela
+141 campo|12 futebol
+141 campo|11 torneio
+141 campo|10 edição
+141 campo|9 campeão
+141 campo|8 Brasil
+141 campo|7 Brasil
+141 campo|6 favorita, favorito
+141 campo|5 campanha
+141 campo|4 Argentina
+141 campo|2 final
+141 campo|1 Brasil
+141 campo|0 Argentina
+142 defensor|141 campo
+142 defensor|140 quem
+142 defensor|138 intermediário
+142 defensor|137 competição, competir
+142 defensor|135 Josué
+142 defensor|134 volante
+142 defensor|133 duplo
+142 defensor|132 contra-ataque
+142 defensor|131 espaço
+142 defensor|130 pressão
+142 defensor|129 tempo
+142 defensor|128 sua
+142 defensor|127 bola
+142 defensor|124 direita, direito
+142 defensor|122 meio
+142 defensor|121 que
+142 defensor|118 gol
+142 defensor|116 Brasil
+142 defensor|115 empate
+142 defensor|113 trave
+142 defensor|112 bola
+142 defensor|111 argentino
+142 defensor|109 vantagem
+142 defensor|108 Brasil
+142 defensor|107 que
+142 defensor|104 lançar
+142 defensor|101 frente
+142 defensor|100 seleção
+142 defensor|99 isso
+142 defensor|98 decisão
+142 defensor|96 torneio
+142 defensor|95 ataque
+142 defensor|94 vitória
+142 defensor|93 Argentina
+142 defensor|91 Brasil
+142 defensor|90 campanha
+142 defensor|89 meio-campo
+142 defensor|86 banco
+142 defensor|85 que
+142 defensor|84 volante
+142 defensor|83 Fernando
+142 defensor|82 ele
+142 defensor|81 se
+142 defensor|78 partida
+142 defensor|77 treinador, treinar
+142 defensor|75 volante
+142 defensor|74 seu
+142 defensor|72 façanha
+142 defensor|71 torneio
+142 defensor|70 seu
+142 defensor|69 conquista
+142 defensor|68 treinador, treinar
+142 defensor|67 ele
+142 defensor|66 sua
+142 defensor|65 chance
+142 defensor|64 que
+142 defensor|63 que
+142 defensor|62 seleção
+142 defensor|61 frente
+142 defensor|59 técnico
+142 defensor|57 Londres
+142 defensor|56 América
+142 defensor|55 confronto
+142 defensor|54 outro
+142 defensor|52 argentino
+142 defensor|51 vitória
+142 defensor|50 treinador, treinar
+142 defensor|48 Brasil
+142 defensor|47 que
+142 defensor|46 que
+142 defensor|44 Argentina
+142 defensor|43 expressão
+142 defensor|42 adversário
+142 defensor|40 era
+142 defensor|39 título
+142 defensor|38 cansaço
+142 defensor|36 dispensa
+142 defensor|33 futebol
+142 defensor|32 estrela
+142 defensor|31 técnico
+142 defensor|29 conquista
+142 defensor|28 este
+142 defensor|26 disputa
+142 defensor|25 título
+142 defensor|24 seu
+142 defensor|23 Argentina
+142 defensor|21 competição, competir
+142 defensor|20 seu
+142 defensor|19 ano
+142 defensor|18 que
+142 defensor|17 seleção
+142 defensor|15 presidente
+142 defensor|14 política, político
+142 defensor|13 Venezuela
+142 defensor|12 futebol
+142 defensor|11 torneio
+142 defensor|10 edição
+142 defensor|9 campeão
+142 defensor|8 Brasil
+142 defensor|7 Brasil
+142 defensor|6 favorita, favorito
+142 defensor|5 campanha
+142 defensor|4 Argentina
+142 defensor|2 final
+142 defensor|1 Brasil
+142 defensor|0 Argentina
+143 Brasil|142 defensor
+143 Brasil|141 campo
+143 Brasil|140 quem
+143 Brasil|138 intermediário
+143 Brasil|137 competição, competir
+143 Brasil|135 Josué
+143 Brasil|134 volante
+143 Brasil|133 duplo
+143 Brasil|132 contra-ataque
+143 Brasil|131 espaço
+143 Brasil|130 pressão
+143 Brasil|129 tempo
+143 Brasil|128 sua
+143 Brasil|127 bola
+143 Brasil|124 direita, direito
+143 Brasil|122 meio
+143 Brasil|121 que
+143 Brasil|118 gol
+143 Brasil|116 Brasil
+143 Brasil|115 empate
+143 Brasil|113 trave
+143 Brasil|112 bola
+143 Brasil|111 argentino
+143 Brasil|109 vantagem
+143 Brasil|108 Brasil
+143 Brasil|107 que
+143 Brasil|104 lançar
+143 Brasil|101 frente
+143 Brasil|100 seleção
+143 Brasil|99 isso
+143 Brasil|98 decisão
+143 Brasil|96 torneio
+143 Brasil|95 ataque
+143 Brasil|94 vitória
+143 Brasil|93 Argentina
+143 Brasil|91 Brasil
+143 Brasil|90 campanha
+143 Brasil|89 meio-campo
+143 Brasil|86 banco
+143 Brasil|85 que
+143 Brasil|84 volante
+143 Brasil|83 Fernando
+143 Brasil|82 ele
+143 Brasil|81 se
+143 Brasil|78 partida
+143 Brasil|77 treinador, treinar
+143 Brasil|75 volante
+143 Brasil|74 seu
+143 Brasil|72 façanha
+143 Brasil|71 torneio
+143 Brasil|70 seu
+143 Brasil|69 conquista
+143 Brasil|68 treinador, treinar
+143 Brasil|67 ele
+143 Brasil|66 sua
+143 Brasil|65 chance
+143 Brasil|64 que
+143 Brasil|63 que
+143 Brasil|62 seleção
+143 Brasil|61 frente
+143 Brasil|59 técnico
+143 Brasil|57 Londres
+143 Brasil|56 América
+143 Brasil|55 confronto
+143 Brasil|54 outro
+143 Brasil|52 argentino
+143 Brasil|51 vitória
+143 Brasil|50 treinador, treinar
+143 Brasil|48 Brasil
+143 Brasil|47 que
+143 Brasil|46 que
+143 Brasil|44 Argentina
+143 Brasil|43 expressão
+143 Brasil|42 adversário
+143 Brasil|40 era
+143 Brasil|39 título
+143 Brasil|38 cansaço
+143 Brasil|36 dispensa
+143 Brasil|33 futebol
+143 Brasil|32 estrela
+143 Brasil|31 técnico
+143 Brasil|29 conquista
+143 Brasil|28 este
+143 Brasil|26 disputa
+143 Brasil|25 título
+143 Brasil|24 seu
+143 Brasil|23 Argentina
+143 Brasil|21 competição, competir
+143 Brasil|20 seu
+143 Brasil|19 ano
+143 Brasil|18 que
+143 Brasil|17 seleção
+143 Brasil|15 presidente
+143 Brasil|14 política, político
+143 Brasil|13 Venezuela
+143 Brasil|12 futebol
+143 Brasil|11 torneio
+143 Brasil|10 edição
+143 Brasil|9 campeão
+143 Brasil|8 Brasil
+143 Brasil|7 Brasil
+143 Brasil|6 favorita, favorito
+143 Brasil|5 campanha
+143 Brasil|4 Argentina
+143 Brasil|2 final
+143 Brasil|1 Brasil
+143 Brasil|0 Argentina
+144 jogo|143 Brasil
+144 jogo|142 defensor
+144 jogo|141 campo
+144 jogo|140 quem
+144 jogo|138 intermediário
+144 jogo|137 competição, competir
+144 jogo|135 Josué
+144 jogo|134 volante
+144 jogo|133 duplo
+144 jogo|132 contra-ataque
+144 jogo|131 espaço
+144 jogo|130 pressão
+144 jogo|129 tempo
+144 jogo|128 sua
+144 jogo|127 bola
+144 jogo|124 direita, direito
+144 jogo|122 meio
+144 jogo|121 que
+144 jogo|118 gol
+144 jogo|116 Brasil
+144 jogo|115 empate
+144 jogo|113 trave
+144 jogo|112 bola
+144 jogo|111 argentino
+144 jogo|109 vantagem
+144 jogo|108 Brasil
+144 jogo|107 que
+144 jogo|104 lançar
+144 jogo|101 frente
+144 jogo|100 seleção
+144 jogo|99 isso
+144 jogo|98 decisão
+144 jogo|96 torneio
+144 jogo|95 ataque
+144 jogo|94 vitória
+144 jogo|93 Argentina
+144 jogo|91 Brasil
+144 jogo|90 campanha
+144 jogo|89 meio-campo
+144 jogo|86 banco
+144 jogo|85 que
+144 jogo|84 volante
+144 jogo|83 Fernando
+144 jogo|82 ele
+144 jogo|81 se
+144 jogo|78 partida
+144 jogo|77 treinador, treinar
+144 jogo|75 volante
+144 jogo|74 seu
+144 jogo|72 façanha
+144 jogo|71 torneio
+144 jogo|70 seu
+144 jogo|69 conquista
+144 jogo|68 treinador, treinar
+144 jogo|67 ele
+144 jogo|66 sua
+144 jogo|65 chance
+144 jogo|64 que
+144 jogo|63 que
+144 jogo|62 seleção
+144 jogo|61 frente
+144 jogo|59 técnico
+144 jogo|57 Londres
+144 jogo|56 América
+144 jogo|55 confronto
+144 jogo|54 outro
+144 jogo|52 argentino
+144 jogo|51 vitória
+144 jogo|50 treinador, treinar
+144 jogo|48 Brasil
+144 jogo|47 que
+144 jogo|46 que
+144 jogo|44 Argentina
+144 jogo|43 expressão
+144 jogo|42 adversário
+144 jogo|40 era
+144 jogo|39 título
+144 jogo|38 cansaço
+144 jogo|36 dispensa
+144 jogo|33 futebol
+144 jogo|32 estrela
+144 jogo|31 técnico
+144 jogo|29 conquista
+144 jogo|28 este
+144 jogo|26 disputa
+144 jogo|25 título
+144 jogo|24 seu
+144 jogo|23 Argentina
+144 jogo|21 competição, competir
+144 jogo|20 seu
+144 jogo|19 ano
+144 jogo|18 que
+144 jogo|17 seleção
+144 jogo|15 presidente
+144 jogo|14 política, político
+144 jogo|13 Venezuela
+144 jogo|12 futebol
+144 jogo|11 torneio
+144 jogo|10 edição
+144 jogo|9 campeão
+144 jogo|8 Brasil
+144 jogo|7 Brasil
+144 jogo|6 favorita, favorito
+144 jogo|5 campanha
+144 jogo|4 Argentina
+144 jogo|2 final
+144 jogo|1 Brasil
+144 jogo|0 Argentina
+146 atacante|144 jogo
+146 atacante|143 Brasil
+146 atacante|142 defensor
+146 atacante|141 campo
+146 atacante|140 quem
+146 atacante|138 intermediário
+146 atacante|137 competição, competir
+146 atacante|135 Josué
+146 atacante|134 volante
+146 atacante|133 duplo
+146 atacante|132 contra-ataque
+146 atacante|131 espaço
+146 atacante|130 pressão
+146 atacante|129 tempo
+146 atacante|128 sua
+146 atacante|127 bola
+146 atacante|124 direita, direito
+146 atacante|122 meio
+146 atacante|121 que
+146 atacante|118 gol
+146 atacante|116 Brasil
+146 atacante|115 empate
+146 atacante|113 trave
+146 atacante|112 bola
+146 atacante|111 argentino
+146 atacante|109 vantagem
+146 atacante|108 Brasil
+146 atacante|107 que
+146 atacante|104 lançar
+146 atacante|101 frente
+146 atacante|100 seleção
+146 atacante|99 isso
+146 atacante|98 decisão
+146 atacante|96 torneio
+146 atacante|95 ataque
+146 atacante|94 vitória
+146 atacante|93 Argentina
+146 atacante|91 Brasil
+146 atacante|90 campanha
+146 atacante|89 meio-campo
+146 atacante|86 banco
+146 atacante|85 que
+146 atacante|84 volante
+146 atacante|83 Fernando
+146 atacante|82 ele
+146 atacante|81 se
+146 atacante|78 partida
+146 atacante|77 treinador, treinar
+146 atacante|75 volante
+146 atacante|74 seu
+146 atacante|72 façanha
+146 atacante|71 torneio
+146 atacante|70 seu
+146 atacante|69 conquista
+146 atacante|68 treinador, treinar
+146 atacante|67 ele
+146 atacante|66 sua
+146 atacante|65 chance
+146 atacante|64 que
+146 atacante|63 que
+146 atacante|62 seleção
+146 atacante|61 frente
+146 atacante|59 técnico
+146 atacante|57 Londres
+146 atacante|56 América
+146 atacante|55 confronto
+146 atacante|54 outro
+146 atacante|52 argentino
+146 atacante|51 vitória
+146 atacante|50 treinador, treinar
+146 atacante|48 Brasil
+146 atacante|47 que
+146 atacante|46 que
+146 atacante|44 Argentina
+146 atacante|43 expressão
+146 atacante|42 adversário
+146 atacante|40 era
+146 atacante|39 título
+146 atacante|38 cansaço
+146 atacante|36 dispensa
+146 atacante|33 futebol
+146 atacante|32 estrela
+146 atacante|31 técnico
+146 atacante|29 conquista
+146 atacante|28 este
+146 atacante|26 disputa
+146 atacante|25 título
+146 atacante|24 seu
+146 atacante|23 Argentina
+146 atacante|21 competição, competir
+146 atacante|20 seu
+146 atacante|19 ano
+146 atacante|18 que
+146 atacante|17 seleção
+146 atacante|15 presidente
+146 atacante|14 política, político
+146 atacante|13 Venezuela
+146 atacante|12 futebol
+146 atacante|11 torneio
+146 atacante|10 edição
+146 atacante|9 campeão
+146 atacante|8 Brasil
+146 atacante|7 Brasil
+146 atacante|6 favorita, favorito
+146 atacante|5 campanha
+146 atacante|4 Argentina
+146 atacante|2 final
+146 atacante|1 Brasil
+146 atacante|0 Argentina
+147 que|146 atacante
+147 que|144 jogo
+147 que|143 Brasil
+147 que|142 defensor
+147 que|141 campo
+147 que|140 quem
+147 que|138 intermediário
+147 que|137 competição, competir
+147 que|135 Josué
+147 que|134 volante
+147 que|133 duplo
+147 que|132 contra-ataque
+147 que|131 espaço
+147 que|130 pressão
+147 que|129 tempo
+147 que|128 sua
+147 que|127 bola
+147 que|124 direita, direito
+147 que|122 meio
+147 que|121 que
+147 que|118 gol
+147 que|116 Brasil
+147 que|115 empate
+147 que|113 trave
+147 que|112 bola
+147 que|111 argentino
+147 que|109 vantagem
+147 que|108 Brasil
+147 que|107 que
+147 que|104 lançar
+147 que|101 frente
+147 que|100 seleção
+147 que|99 isso
+147 que|98 decisão
+147 que|96 torneio
+147 que|95 ataque
+147 que|94 vitória
+147 que|93 Argentina
+147 que|91 Brasil
+147 que|90 campanha
+147 que|89 meio-campo
+147 que|86 banco
+147 que|85 que
+147 que|84 volante
+147 que|83 Fernando
+147 que|82 ele
+147 que|81 se
+147 que|78 partida
+147 que|77 treinador, treinar
+147 que|75 volante
+147 que|74 seu
+147 que|72 façanha
+147 que|71 torneio
+147 que|70 seu
+147 que|69 conquista
+147 que|68 treinador, treinar
+147 que|67 ele
+147 que|66 sua
+147 que|65 chance
+147 que|64 que
+147 que|63 que
+147 que|62 seleção
+147 que|61 frente
+147 que|59 técnico
+147 que|57 Londres
+147 que|56 América
+147 que|55 confronto
+147 que|54 outro
+147 que|52 argentino
+147 que|51 vitória
+147 que|50 treinador, treinar
+147 que|48 Brasil
+147 que|47 que
+147 que|46 que
+147 que|44 Argentina
+147 que|43 expressão
+147 que|42 adversário
+147 que|40 era
+147 que|39 título
+147 que|38 cansaço
+147 que|36 dispensa
+147 que|33 futebol
+147 que|32 estrela
+147 que|31 técnico
+147 que|29 conquista
+147 que|28 este
+147 que|26 disputa
+147 que|25 título
+147 que|24 seu
+147 que|23 Argentina
+147 que|21 competição, competir
+147 que|20 seu
+147 que|19 ano
+147 que|18 que
+147 que|17 seleção
+147 que|15 presidente
+147 que|14 política, político
+147 que|13 Venezuela
+147 que|12 futebol
+147 que|11 torneio
+147 que|10 edição
+147 que|9 campeão
+147 que|8 Brasil
+147 que|7 Brasil
+147 que|6 favorita, favorito
+147 que|5 campanha
+147 que|4 Argentina
+147 que|2 final
+147 que|1 Brasil
+147 que|0 Argentina
+149 vez|147 que
+149 vez|146 atacante
+149 vez|144 jogo
+149 vez|143 Brasil
+149 vez|142 defensor
+149 vez|141 campo
+149 vez|140 quem
+149 vez|138 intermediário
+149 vez|137 competição, competir
+149 vez|135 Josué
+149 vez|134 volante
+149 vez|133 duplo
+149 vez|132 contra-ataque
+149 vez|131 espaço
+149 vez|130 pressão
+149 vez|129 tempo
+149 vez|128 sua
+149 vez|127 bola
+149 vez|124 direita, direito
+149 vez|122 meio
+149 vez|121 que
+149 vez|118 gol
+149 vez|116 Brasil
+149 vez|115 empate
+149 vez|113 trave
+149 vez|112 bola
+149 vez|111 argentino
+149 vez|109 vantagem
+149 vez|108 Brasil
+149 vez|107 que
+149 vez|104 lançar
+149 vez|101 frente
+149 vez|100 seleção
+149 vez|99 isso
+149 vez|98 decisão
+149 vez|96 torneio
+149 vez|95 ataque
+149 vez|94 vitória
+149 vez|93 Argentina
+149 vez|91 Brasil
+149 vez|90 campanha
+149 vez|89 meio-campo
+149 vez|86 banco
+149 vez|85 que
+149 vez|84 volante
+149 vez|83 Fernando
+149 vez|82 ele
+149 vez|81 se
+149 vez|78 partida
+149 vez|77 treinador, treinar
+149 vez|75 volante
+149 vez|74 seu
+149 vez|72 façanha
+149 vez|71 torneio
+149 vez|70 seu
+149 vez|69 conquista
+149 vez|68 treinador, treinar
+149 vez|67 ele
+149 vez|66 sua
+149 vez|65 chance
+149 vez|64 que
+149 vez|63 que
+149 vez|62 seleção
+149 vez|61 frente
+149 vez|59 técnico
+149 vez|57 Londres
+149 vez|56 América
+149 vez|55 confronto
+149 vez|54 outro
+149 vez|52 argentino
+149 vez|51 vitória
+149 vez|50 treinador, treinar
+149 vez|48 Brasil
+149 vez|47 que
+149 vez|46 que
+149 vez|44 Argentina
+149 vez|43 expressão
+149 vez|42 adversário
+149 vez|40 era
+149 vez|39 título
+149 vez|38 cansaço
+149 vez|36 dispensa
+149 vez|33 futebol
+149 vez|32 estrela
+149 vez|31 técnico
+149 vez|29 conquista
+149 vez|28 este
+149 vez|26 disputa
+149 vez|25 título
+149 vez|24 seu
+149 vez|23 Argentina
+149 vez|21 competição, competir
+149 vez|20 seu
+149 vez|19 ano
+149 vez|18 que
+149 vez|17 seleção
+149 vez|15 presidente
+149 vez|14 política, político
+149 vez|13 Venezuela
+149 vez|12 futebol
+149 vez|11 torneio
+149 vez|10 edição
+149 vez|9 campeão
+149 vez|8 Brasil
+149 vez|7 Brasil
+149 vez|6 favorita, favorito
+149 vez|5 campanha
+149 vez|4 Argentina
+149 vez|2 final
+149 vez|1 Brasil
+149 vez|0 Argentina
+150 passe|149 vez
+150 passe|147 que
+150 passe|146 atacante
+150 passe|144 jogo
+150 passe|143 Brasil
+150 passe|142 defensor
+150 passe|141 campo
+150 passe|140 quem
+150 passe|138 intermediário
+150 passe|137 competição, competir
+150 passe|135 Josué
+150 passe|134 volante
+150 passe|133 duplo
+150 passe|132 contra-ataque
+150 passe|131 espaço
+150 passe|130 pressão
+150 passe|129 tempo
+150 passe|128 sua
+150 passe|127 bola
+150 passe|124 direita, direito
+150 passe|122 meio
+150 passe|121 que
+150 passe|118 gol
+150 passe|116 Brasil
+150 passe|115 empate
+150 passe|113 trave
+150 passe|112 bola
+150 passe|111 argentino
+150 passe|109 vantagem
+150 passe|108 Brasil
+150 passe|107 que
+150 passe|104 lançar
+150 passe|101 frente
+150 passe|100 seleção
+150 passe|99 isso
+150 passe|98 decisão
+150 passe|96 torneio
+150 passe|95 ataque
+150 passe|94 vitória
+150 passe|93 Argentina
+150 passe|91 Brasil
+150 passe|90 campanha
+150 passe|89 meio-campo
+150 passe|86 banco
+150 passe|85 que
+150 passe|84 volante
+150 passe|83 Fernando
+150 passe|82 ele
+150 passe|81 se
+150 passe|78 partida
+150 passe|77 treinador, treinar
+150 passe|75 volante
+150 passe|74 seu
+150 passe|72 façanha
+150 passe|71 torneio
+150 passe|70 seu
+150 passe|69 conquista
+150 passe|68 treinador, treinar
+150 passe|67 ele
+150 passe|66 sua
+150 passe|65 chance
+150 passe|64 que
+150 passe|63 que
+150 passe|62 seleção
+150 passe|61 frente
+150 passe|59 técnico
+150 passe|57 Londres
+150 passe|56 América
+150 passe|55 confronto
+150 passe|54 outro
+150 passe|52 argentino
+150 passe|51 vitória
+150 passe|50 treinador, treinar
+150 passe|48 Brasil
+150 passe|47 que
+150 passe|46 que
+150 passe|44 Argentina
+150 passe|43 expressão
+150 passe|42 adversário
+150 passe|40 era
+150 passe|39 título
+150 passe|38 cansaço
+150 passe|36 dispensa
+150 passe|33 futebol
+150 passe|32 estrela
+150 passe|31 técnico
+150 passe|29 conquista
+150 passe|28 este
+150 passe|26 disputa
+150 passe|25 título
+150 passe|24 seu
+150 passe|23 Argentina
+150 passe|21 competição, competir
+150 passe|20 seu
+150 passe|19 ano
+150 passe|18 que
+150 passe|17 seleção
+150 passe|15 presidente
+150 passe|14 política, político
+150 passe|13 Venezuela
+150 passe|12 futebol
+150 passe|11 torneio
+150 passe|10 edição
+150 passe|9 campeão
+150 passe|8 Brasil
+150 passe|7 Brasil
+150 passe|6 favorita, favorito
+150 passe|5 campanha
+150 passe|4 Argentina
+150 passe|2 final
+150 passe|1 Brasil
+150 passe|0 Argentina
+152 área|150 passe
+152 área|149 vez
+152 área|147 que
+152 área|146 atacante
+152 área|144 jogo
+152 área|143 Brasil
+152 área|142 defensor
+152 área|141 campo
+152 área|140 quem
+152 área|138 intermediário
+152 área|137 competição, competir
+152 área|135 Josué
+152 área|134 volante
+152 área|133 duplo
+152 área|132 contra-ataque
+152 área|131 espaço
+152 área|130 pressão
+152 área|129 tempo
+152 área|128 sua
+152 área|127 bola
+152 área|124 direita, direito
+152 área|122 meio
+152 área|121 que
+152 área|118 gol
+152 área|116 Brasil
+152 área|115 empate
+152 área|113 trave
+152 área|112 bola
+152 área|111 argentino
+152 área|109 vantagem
+152 área|108 Brasil
+152 área|107 que
+152 área|104 lançar
+152 área|101 frente
+152 área|100 seleção
+152 área|99 isso
+152 área|98 decisão
+152 área|96 torneio
+152 área|95 ataque
+152 área|94 vitória
+152 área|93 Argentina
+152 área|91 Brasil
+152 área|90 campanha
+152 área|89 meio-campo
+152 área|86 banco
+152 área|85 que
+152 área|84 volante
+152 área|83 Fernando
+152 área|82 ele
+152 área|81 se
+152 área|78 partida
+152 área|77 treinador, treinar
+152 área|75 volante
+152 área|74 seu
+152 área|72 façanha
+152 área|71 torneio
+152 área|70 seu
+152 área|69 conquista
+152 área|68 treinador, treinar
+152 área|67 ele
+152 área|66 sua
+152 área|65 chance
+152 área|64 que
+152 área|63 que
+152 área|62 seleção
+152 área|61 frente
+152 área|59 técnico
+152 área|57 Londres
+152 área|56 América
+152 área|55 confronto
+152 área|54 outro
+152 área|52 argentino
+152 área|51 vitória
+152 área|50 treinador, treinar
+152 área|48 Brasil
+152 área|47 que
+152 área|46 que
+152 área|44 Argentina
+152 área|43 expressão
+152 área|42 adversário
+152 área|40 era
+152 área|39 título
+152 área|38 cansaço
+152 área|36 dispensa
+152 área|33 futebol
+152 área|32 estrela
+152 área|31 técnico
+152 área|29 conquista
+152 área|28 este
+152 área|26 disputa
+152 área|25 título
+152 área|24 seu
+152 área|23 Argentina
+152 área|21 competição, competir
+152 área|20 seu
+152 área|19 ano
+152 área|18 que
+152 área|17 seleção
+152 área|15 presidente
+152 área|14 política, político
+152 área|13 Venezuela
+152 área|12 futebol
+152 área|11 torneio
+152 área|10 edição
+152 área|9 campeão
+152 área|8 Brasil
+152 área|7 Brasil
+152 área|6 favorita, favorito
+152 área|5 campanha
+152 área|4 Argentina
+152 área|2 final
+152 área|1 Brasil
+152 área|0 Argentina
+155 vitória|152 área
+155 vitória|150 passe
+155 vitória|149 vez
+155 vitória|147 que
+155 vitória|146 atacante
+155 vitória|144 jogo
+155 vitória|143 Brasil
+155 vitória|142 defensor
+155 vitória|141 campo
+155 vitória|140 quem
+155 vitória|138 intermediário
+155 vitória|137 competição, competir
+155 vitória|135 Josué
+155 vitória|134 volante
+155 vitória|133 duplo
+155 vitória|132 contra-ataque
+155 vitória|131 espaço
+155 vitória|130 pressão
+155 vitória|129 tempo
+155 vitória|128 sua
+155 vitória|127 bola
+155 vitória|124 direita, direito
+155 vitória|122 meio
+155 vitória|121 que
+155 vitória|118 gol
+155 vitória|116 Brasil
+155 vitória|115 empate
+155 vitória|113 trave
+155 vitória|112 bola
+155 vitória|111 argentino
+155 vitória|109 vantagem
+155 vitória|108 Brasil
+155 vitória|107 que
+155 vitória|104 lançar
+155 vitória|101 frente
+155 vitória|100 seleção
+155 vitória|99 isso
+155 vitória|98 decisão
+155 vitória|96 torneio
+155 vitória|95 ataque
+155 vitória|94 vitória
+155 vitória|93 Argentina
+155 vitória|91 Brasil
+155 vitória|90 campanha
+155 vitória|89 meio-campo
+155 vitória|86 banco
+155 vitória|85 que
+155 vitória|84 volante
+155 vitória|83 Fernando
+155 vitória|82 ele
+155 vitória|81 se
+155 vitória|78 partida
+155 vitória|77 treinador, treinar
+155 vitória|75 volante
+155 vitória|74 seu
+155 vitória|72 façanha
+155 vitória|71 torneio
+155 vitória|70 seu
+155 vitória|69 conquista
+155 vitória|68 treinador, treinar
+155 vitória|67 ele
+155 vitória|66 sua
+155 vitória|65 chance
+155 vitória|64 que
+155 vitória|63 que
+155 vitória|62 seleção
+155 vitória|61 frente
+155 vitória|59 técnico
+155 vitória|57 Londres
+155 vitória|56 América
+155 vitória|55 confronto
+155 vitória|54 outro
+155 vitória|52 argentino
+155 vitória|51 vitória
+155 vitória|50 treinador, treinar
+155 vitória|48 Brasil
+155 vitória|47 que
+155 vitória|46 que
+155 vitória|44 Argentina
+155 vitória|43 expressão
+155 vitória|42 adversário
+155 vitória|40 era
+155 vitória|39 título
+155 vitória|38 cansaço
+155 vitória|36 dispensa
+155 vitória|33 futebol
+155 vitória|32 estrela
+155 vitória|31 técnico
+155 vitória|29 conquista
+155 vitória|28 este
+155 vitória|26 disputa
+155 vitória|25 título
+155 vitória|24 seu
+155 vitória|23 Argentina
+155 vitória|21 competição, competir
+155 vitória|20 seu
+155 vitória|19 ano
+155 vitória|18 que
+155 vitória|17 seleção
+155 vitória|15 presidente
+155 vitória|14 política, político
+155 vitória|13 Venezuela
+155 vitória|12 futebol
+155 vitória|11 torneio
+155 vitória|10 edição
+155 vitória|9 campeão
+155 vitória|8 Brasil
+155 vitória|7 Brasil
+155 vitória|6 favorita, favorito
+155 vitória|5 campanha
+155 vitória|4 Argentina
+155 vitória|2 final
+155 vitória|1 Brasil
+155 vitória|0 Argentina
+156 gosto|155 vitória
+156 gosto|152 área
+156 gosto|150 passe
+156 gosto|149 vez
+156 gosto|147 que
+156 gosto|146 atacante
+156 gosto|144 jogo
+156 gosto|143 Brasil
+156 gosto|142 defensor
+156 gosto|141 campo
+156 gosto|140 quem
+156 gosto|138 intermediário
+156 gosto|137 competição, competir
+156 gosto|135 Josué
+156 gosto|134 volante
+156 gosto|133 duplo
+156 gosto|132 contra-ataque
+156 gosto|131 espaço
+156 gosto|130 pressão
+156 gosto|129 tempo
+156 gosto|128 sua
+156 gosto|127 bola
+156 gosto|124 direita, direito
+156 gosto|122 meio
+156 gosto|121 que
+156 gosto|118 gol
+156 gosto|116 Brasil
+156 gosto|115 empate
+156 gosto|113 trave
+156 gosto|112 bola
+156 gosto|111 argentino
+156 gosto|109 vantagem
+156 gosto|108 Brasil
+156 gosto|107 que
+156 gosto|104 lançar
+156 gosto|101 frente
+156 gosto|100 seleção
+156 gosto|99 isso
+156 gosto|98 decisão
+156 gosto|96 torneio
+156 gosto|95 ataque
+156 gosto|94 vitória
+156 gosto|93 Argentina
+156 gosto|91 Brasil
+156 gosto|90 campanha
+156 gosto|89 meio-campo
+156 gosto|86 banco
+156 gosto|85 que
+156 gosto|84 volante
+156 gosto|83 Fernando
+156 gosto|82 ele
+156 gosto|81 se
+156 gosto|78 partida
+156 gosto|77 treinador, treinar
+156 gosto|75 volante
+156 gosto|74 seu
+156 gosto|72 façanha
+156 gosto|71 torneio
+156 gosto|70 seu
+156 gosto|69 conquista
+156 gosto|68 treinador, treinar
+156 gosto|67 ele
+156 gosto|66 sua
+156 gosto|65 chance
+156 gosto|64 que
+156 gosto|63 que
+156 gosto|62 seleção
+156 gosto|61 frente
+156 gosto|59 técnico
+156 gosto|57 Londres
+156 gosto|56 América
+156 gosto|55 confronto
+156 gosto|54 outro
+156 gosto|52 argentino
+156 gosto|51 vitória
+156 gosto|50 treinador, treinar
+156 gosto|48 Brasil
+156 gosto|47 que
+156 gosto|46 que
+156 gosto|44 Argentina
+156 gosto|43 expressão
+156 gosto|42 adversário
+156 gosto|40 era
+156 gosto|39 título
+156 gosto|38 cansaço
+156 gosto|36 dispensa
+156 gosto|33 futebol
+156 gosto|32 estrela
+156 gosto|31 técnico
+156 gosto|29 conquista
+156 gosto|28 este
+156 gosto|26 disputa
+156 gosto|25 título
+156 gosto|24 seu
+156 gosto|23 Argentina
+156 gosto|21 competição, competir
+156 gosto|20 seu
+156 gosto|19 ano
+156 gosto|18 que
+156 gosto|17 seleção
+156 gosto|15 presidente
+156 gosto|14 política, político
+156 gosto|13 Venezuela
+156 gosto|12 futebol
+156 gosto|11 torneio
+156 gosto|10 edição
+156 gosto|9 campeão
+156 gosto|8 Brasil
+156 gosto|7 Brasil
+156 gosto|6 favorita, favorito
+156 gosto|5 campanha
+156 gosto|4 Argentina
+156 gosto|2 final
+156 gosto|1 Brasil
+156 gosto|0 Argentina
+157 estatístico|156 gosto
+157 estatístico|155 vitória
+157 estatístico|152 área
+157 estatístico|150 passe
+157 estatístico|149 vez
+157 estatístico|147 que
+157 estatístico|146 atacante
+157 estatístico|144 jogo
+157 estatístico|143 Brasil
+157 estatístico|142 defensor
+157 estatístico|141 campo
+157 estatístico|140 quem
+157 estatístico|138 intermediário
+157 estatístico|137 competição, competir
+157 estatístico|135 Josué
+157 estatístico|134 volante
+157 estatístico|133 duplo
+157 estatístico|132 contra-ataque
+157 estatístico|131 espaço
+157 estatístico|130 pressão
+157 estatístico|129 tempo
+157 estatístico|128 sua
+157 estatístico|127 bola
+157 estatístico|124 direita, direito
+157 estatístico|122 meio
+157 estatístico|121 que
+157 estatístico|118 gol
+157 estatístico|116 Brasil
+157 estatístico|115 empate
+157 estatístico|113 trave
+157 estatístico|112 bola
+157 estatístico|111 argentino
+157 estatístico|109 vantagem
+157 estatístico|108 Brasil
+157 estatístico|107 que
+157 estatístico|104 lançar
+157 estatístico|101 frente
+157 estatístico|100 seleção
+157 estatístico|99 isso
+157 estatístico|98 decisão
+157 estatístico|96 torneio
+157 estatístico|95 ataque
+157 estatístico|94 vitória
+157 estatístico|93 Argentina
+157 estatístico|91 Brasil
+157 estatístico|90 campanha
+157 estatístico|89 meio-campo
+157 estatístico|86 banco
+157 estatístico|85 que
+157 estatístico|84 volante
+157 estatístico|83 Fernando
+157 estatístico|82 ele
+157 estatístico|81 se
+157 estatístico|78 partida
+157 estatístico|77 treinador, treinar
+157 estatístico|75 volante
+157 estatístico|74 seu
+157 estatístico|72 façanha
+157 estatístico|71 torneio
+157 estatístico|70 seu
+157 estatístico|69 conquista
+157 estatístico|68 treinador, treinar
+157 estatístico|67 ele
+157 estatístico|66 sua
+157 estatístico|65 chance
+157 estatístico|64 que
+157 estatístico|63 que
+157 estatístico|62 seleção
+157 estatístico|61 frente
+157 estatístico|59 técnico
+157 estatístico|57 Londres
+157 estatístico|56 América
+157 estatístico|55 confronto
+157 estatístico|54 outro
+157 estatístico|52 argentino
+157 estatístico|51 vitória
+157 estatístico|50 treinador, treinar
+157 estatístico|48 Brasil
+157 estatístico|47 que
+157 estatístico|46 que
+157 estatístico|44 Argentina
+157 estatístico|43 expressão
+157 estatístico|42 adversário
+157 estatístico|40 era
+157 estatístico|39 título
+157 estatístico|38 cansaço
+157 estatístico|36 dispensa
+157 estatístico|33 futebol
+157 estatístico|32 estrela
+157 estatístico|31 técnico
+157 estatístico|29 conquista
+157 estatístico|28 este
+157 estatístico|26 disputa
+157 estatístico|25 título
+157 estatístico|24 seu
+157 estatístico|23 Argentina
+157 estatístico|21 competição, competir
+157 estatístico|20 seu
+157 estatístico|19 ano
+157 estatístico|18 que
+157 estatístico|17 seleção
+157 estatístico|15 presidente
+157 estatístico|14 política, político
+157 estatístico|13 Venezuela
+157 estatístico|12 futebol
+157 estatístico|11 torneio
+157 estatístico|10 edição
+157 estatístico|9 campeão
+157 estatístico|8 Brasil
+157 estatístico|7 Brasil
+157 estatístico|6 favorita, favorito
+157 estatístico|5 campanha
+157 estatístico|4 Argentina
+157 estatístico|2 final
+157 estatístico|1 Brasil
+157 estatístico|0 Argentina
+158 argentino|157 estatístico
+158 argentino|156 gosto
+158 argentino|155 vitória
+158 argentino|152 área
+158 argentino|150 passe
+158 argentino|149 vez
+158 argentino|147 que
+158 argentino|146 atacante
+158 argentino|144 jogo
+158 argentino|143 Brasil
+158 argentino|142 defensor
+158 argentino|141 campo
+158 argentino|140 quem
+158 argentino|138 intermediário
+158 argentino|137 competição, competir
+158 argentino|135 Josué
+158 argentino|134 volante
+158 argentino|133 duplo
+158 argentino|132 contra-ataque
+158 argentino|131 espaço
+158 argentino|130 pressão
+158 argentino|129 tempo
+158 argentino|128 sua
+158 argentino|127 bola
+158 argentino|124 direita, direito
+158 argentino|122 meio
+158 argentino|121 que
+158 argentino|118 gol
+158 argentino|116 Brasil
+158 argentino|115 empate
+158 argentino|113 trave
+158 argentino|112 bola
+158 argentino|111 argentino
+158 argentino|109 vantagem
+158 argentino|108 Brasil
+158 argentino|107 que
+158 argentino|104 lançar
+158 argentino|101 frente
+158 argentino|100 seleção
+158 argentino|99 isso
+158 argentino|98 decisão
+158 argentino|96 torneio
+158 argentino|95 ataque
+158 argentino|94 vitória
+158 argentino|93 Argentina
+158 argentino|91 Brasil
+158 argentino|90 campanha
+158 argentino|89 meio-campo
+158 argentino|86 banco
+158 argentino|85 que
+158 argentino|84 volante
+158 argentino|83 Fernando
+158 argentino|82 ele
+158 argentino|81 se
+158 argentino|78 partida
+158 argentino|77 treinador, treinar
+158 argentino|75 volante
+158 argentino|74 seu
+158 argentino|72 façanha
+158 argentino|71 torneio
+158 argentino|70 seu
+158 argentino|69 conquista
+158 argentino|68 treinador, treinar
+158 argentino|67 ele
+158 argentino|66 sua
+158 argentino|65 chance
+158 argentino|64 que
+158 argentino|63 que
+158 argentino|62 seleção
+158 argentino|61 frente
+158 argentino|59 técnico
+158 argentino|57 Londres
+158 argentino|56 América
+158 argentino|55 confronto
+158 argentino|54 outro
+158 argentino|52 argentino
+158 argentino|51 vitória
+158 argentino|50 treinador, treinar
+158 argentino|48 Brasil
+158 argentino|47 que
+158 argentino|46 que
+158 argentino|44 Argentina
+158 argentino|43 expressão
+158 argentino|42 adversário
+158 argentino|40 era
+158 argentino|39 título
+158 argentino|38 cansaço
+158 argentino|36 dispensa
+158 argentino|33 futebol
+158 argentino|32 estrela
+158 argentino|31 técnico
+158 argentino|29 conquista
+158 argentino|28 este
+158 argentino|26 disputa
+158 argentino|25 título
+158 argentino|24 seu
+158 argentino|23 Argentina
+158 argentino|21 competição, competir
+158 argentino|20 seu
+158 argentino|19 ano
+158 argentino|18 que
+158 argentino|17 seleção
+158 argentino|15 presidente
+158 argentino|14 política, político
+158 argentino|13 Venezuela
+158 argentino|12 futebol
+158 argentino|11 torneio
+158 argentino|10 edição
+158 argentino|9 campeão
+158 argentino|8 Brasil
+158 argentino|7 Brasil
+158 argentino|6 favorita, favorito
+158 argentino|5 campanha
+158 argentino|4 Argentina
+158 argentino|2 final
+158 argentino|1 Brasil
+158 argentino|0 Argentina
+159 Brasil|158 argentino
+159 Brasil|157 estatístico
+159 Brasil|156 gosto
+159 Brasil|155 vitória
+159 Brasil|152 área
+159 Brasil|150 passe
+159 Brasil|149 vez
+159 Brasil|147 que
+159 Brasil|146 atacante
+159 Brasil|144 jogo
+159 Brasil|143 Brasil
+159 Brasil|142 defensor
+159 Brasil|141 campo
+159 Brasil|140 quem
+159 Brasil|138 intermediário
+159 Brasil|137 competição, competir
+159 Brasil|135 Josué
+159 Brasil|134 volante
+159 Brasil|133 duplo
+159 Brasil|132 contra-ataque
+159 Brasil|131 espaço
+159 Brasil|130 pressão
+159 Brasil|129 tempo
+159 Brasil|128 sua
+159 Brasil|127 bola
+159 Brasil|124 direita, direito
+159 Brasil|122 meio
+159 Brasil|121 que
+159 Brasil|118 gol
+159 Brasil|116 Brasil
+159 Brasil|115 empate
+159 Brasil|113 trave
+159 Brasil|112 bola
+159 Brasil|111 argentino
+159 Brasil|109 vantagem
+159 Brasil|108 Brasil
+159 Brasil|107 que
+159 Brasil|104 lançar
+159 Brasil|101 frente
+159 Brasil|100 seleção
+159 Brasil|99 isso
+159 Brasil|98 decisão
+159 Brasil|96 torneio
+159 Brasil|95 ataque
+159 Brasil|94 vitória
+159 Brasil|93 Argentina
+159 Brasil|91 Brasil
+159 Brasil|90 campanha
+159 Brasil|89 meio-campo
+159 Brasil|86 banco
+159 Brasil|85 que
+159 Brasil|84 volante
+159 Brasil|83 Fernando
+159 Brasil|82 ele
+159 Brasil|81 se
+159 Brasil|78 partida
+159 Brasil|77 treinador, treinar
+159 Brasil|75 volante
+159 Brasil|74 seu
+159 Brasil|72 façanha
+159 Brasil|71 torneio
+159 Brasil|70 seu
+159 Brasil|69 conquista
+159 Brasil|68 treinador, treinar
+159 Brasil|67 ele
+159 Brasil|66 sua
+159 Brasil|65 chance
+159 Brasil|64 que
+159 Brasil|63 que
+159 Brasil|62 seleção
+159 Brasil|61 frente
+159 Brasil|59 técnico
+159 Brasil|57 Londres
+159 Brasil|56 América
+159 Brasil|55 confronto
+159 Brasil|54 outro
+159 Brasil|52 argentino
+159 Brasil|51 vitória
+159 Brasil|50 treinador, treinar
+159 Brasil|48 Brasil
+159 Brasil|47 que
+159 Brasil|46 que
+159 Brasil|44 Argentina
+159 Brasil|43 expressão
+159 Brasil|42 adversário
+159 Brasil|40 era
+159 Brasil|39 título
+159 Brasil|38 cansaço
+159 Brasil|36 dispensa
+159 Brasil|33 futebol
+159 Brasil|32 estrela
+159 Brasil|31 técnico
+159 Brasil|29 conquista
+159 Brasil|28 este
+159 Brasil|26 disputa
+159 Brasil|25 título
+159 Brasil|24 seu
+159 Brasil|23 Argentina
+159 Brasil|21 competição, competir
+159 Brasil|20 seu
+159 Brasil|19 ano
+159 Brasil|18 que
+159 Brasil|17 seleção
+159 Brasil|15 presidente
+159 Brasil|14 política, político
+159 Brasil|13 Venezuela
+159 Brasil|12 futebol
+159 Brasil|11 torneio
+159 Brasil|10 edição
+159 Brasil|9 campeão
+159 Brasil|8 Brasil
+159 Brasil|7 Brasil
+159 Brasil|6 favorita, favorito
+159 Brasil|5 campanha
+159 Brasil|4 Argentina
+159 Brasil|2 final
+159 Brasil|1 Brasil
+159 Brasil|0 Argentina
+160 vantagem|159 Brasil
+160 vantagem|158 argentino
+160 vantagem|157 estatístico
+160 vantagem|156 gosto
+160 vantagem|155 vitória
+160 vantagem|152 área
+160 vantagem|150 passe
+160 vantagem|149 vez
+160 vantagem|147 que
+160 vantagem|146 atacante
+160 vantagem|144 jogo
+160 vantagem|143 Brasil
+160 vantagem|142 defensor
+160 vantagem|141 campo
+160 vantagem|140 quem
+160 vantagem|138 intermediário
+160 vantagem|137 competição, competir
+160 vantagem|135 Josué
+160 vantagem|134 volante
+160 vantagem|133 duplo
+160 vantagem|132 contra-ataque
+160 vantagem|131 espaço
+160 vantagem|130 pressão
+160 vantagem|129 tempo
+160 vantagem|128 sua
+160 vantagem|127 bola
+160 vantagem|124 direita, direito
+160 vantagem|122 meio
+160 vantagem|121 que
+160 vantagem|118 gol
+160 vantagem|116 Brasil
+160 vantagem|115 empate
+160 vantagem|113 trave
+160 vantagem|112 bola
+160 vantagem|111 argentino
+160 vantagem|109 vantagem
+160 vantagem|108 Brasil
+160 vantagem|107 que
+160 vantagem|104 lançar
+160 vantagem|101 frente
+160 vantagem|100 seleção
+160 vantagem|99 isso
+160 vantagem|98 decisão
+160 vantagem|96 torneio
+160 vantagem|95 ataque
+160 vantagem|94 vitória
+160 vantagem|93 Argentina
+160 vantagem|91 Brasil
+160 vantagem|90 campanha
+160 vantagem|89 meio-campo
+160 vantagem|86 banco
+160 vantagem|85 que
+160 vantagem|84 volante
+160 vantagem|83 Fernando
+160 vantagem|82 ele
+160 vantagem|81 se
+160 vantagem|78 partida
+160 vantagem|77 treinador, treinar
+160 vantagem|75 volante
+160 vantagem|74 seu
+160 vantagem|72 façanha
+160 vantagem|71 torneio
+160 vantagem|70 seu
+160 vantagem|69 conquista
+160 vantagem|68 treinador, treinar
+160 vantagem|67 ele
+160 vantagem|66 sua
+160 vantagem|65 chance
+160 vantagem|64 que
+160 vantagem|63 que
+160 vantagem|62 seleção
+160 vantagem|61 frente
+160 vantagem|59 técnico
+160 vantagem|57 Londres
+160 vantagem|56 América
+160 vantagem|55 confronto
+160 vantagem|54 outro
+160 vantagem|52 argentino
+160 vantagem|51 vitória
+160 vantagem|50 treinador, treinar
+160 vantagem|48 Brasil
+160 vantagem|47 que
+160 vantagem|46 que
+160 vantagem|44 Argentina
+160 vantagem|43 expressão
+160 vantagem|42 adversário
+160 vantagem|40 era
+160 vantagem|39 título
+160 vantagem|38 cansaço
+160 vantagem|36 dispensa
+160 vantagem|33 futebol
+160 vantagem|32 estrela
+160 vantagem|31 técnico
+160 vantagem|29 conquista
+160 vantagem|28 este
+160 vantagem|26 disputa
+160 vantagem|25 título
+160 vantagem|24 seu
+160 vantagem|23 Argentina
+160 vantagem|21 competição, competir
+160 vantagem|20 seu
+160 vantagem|19 ano
+160 vantagem|18 que
+160 vantagem|17 seleção
+160 vantagem|15 presidente
+160 vantagem|14 política, político
+160 vantagem|13 Venezuela
+160 vantagem|12 futebol
+160 vantagem|11 torneio
+160 vantagem|10 edição
+160 vantagem|9 campeão
+160 vantagem|8 Brasil
+160 vantagem|7 Brasil
+160 vantagem|6 favorita, favorito
+160 vantagem|5 campanha
+160 vantagem|4 Argentina
+160 vantagem|2 final
+160 vantagem|1 Brasil
+160 vantagem|0 Argentina
+161 confronto|160 vantagem
+161 confronto|159 Brasil
+161 confronto|158 argentino
+161 confronto|157 estatístico
+161 confronto|156 gosto
+161 confronto|155 vitória
+161 confronto|152 área
+161 confronto|150 passe
+161 confronto|149 vez
+161 confronto|147 que
+161 confronto|146 atacante
+161 confronto|144 jogo
+161 confronto|143 Brasil
+161 confronto|142 defensor
+161 confronto|141 campo
+161 confronto|140 quem
+161 confronto|138 intermediário
+161 confronto|137 competição, competir
+161 confronto|135 Josué
+161 confronto|134 volante
+161 confronto|133 duplo
+161 confronto|132 contra-ataque
+161 confronto|131 espaço
+161 confronto|130 pressão
+161 confronto|129 tempo
+161 confronto|128 sua
+161 confronto|127 bola
+161 confronto|124 direita, direito
+161 confronto|122 meio
+161 confronto|121 que
+161 confronto|118 gol
+161 confronto|116 Brasil
+161 confronto|115 empate
+161 confronto|113 trave
+161 confronto|112 bola
+161 confronto|111 argentino
+161 confronto|109 vantagem
+161 confronto|108 Brasil
+161 confronto|107 que
+161 confronto|104 lançar
+161 confronto|101 frente
+161 confronto|100 seleção
+161 confronto|99 isso
+161 confronto|98 decisão
+161 confronto|96 torneio
+161 confronto|95 ataque
+161 confronto|94 vitória
+161 confronto|93 Argentina
+161 confronto|91 Brasil
+161 confronto|90 campanha
+161 confronto|89 meio-campo
+161 confronto|86 banco
+161 confronto|85 que
+161 confronto|84 volante
+161 confronto|83 Fernando
+161 confronto|82 ele
+161 confronto|81 se
+161 confronto|78 partida
+161 confronto|77 treinador, treinar
+161 confronto|75 volante
+161 confronto|74 seu
+161 confronto|72 façanha
+161 confronto|71 torneio
+161 confronto|70 seu
+161 confronto|69 conquista
+161 confronto|68 treinador, treinar
+161 confronto|67 ele
+161 confronto|66 sua
+161 confronto|65 chance
+161 confronto|64 que
+161 confronto|63 que
+161 confronto|62 seleção
+161 confronto|61 frente
+161 confronto|59 técnico
+161 confronto|57 Londres
+161 confronto|56 América
+161 confronto|55 confronto
+161 confronto|54 outro
+161 confronto|52 argentino
+161 confronto|51 vitória
+161 confronto|50 treinador, treinar
+161 confronto|48 Brasil
+161 confronto|47 que
+161 confronto|46 que
+161 confronto|44 Argentina
+161 confronto|43 expressão
+161 confronto|42 adversário
+161 confronto|40 era
+161 confronto|39 título
+161 confronto|38 cansaço
+161 confronto|36 dispensa
+161 confronto|33 futebol
+161 confronto|32 estrela
+161 confronto|31 técnico
+161 confronto|29 conquista
+161 confronto|28 este
+161 confronto|26 disputa
+161 confronto|25 título
+161 confronto|24 seu
+161 confronto|23 Argentina
+161 confronto|21 competição, competir
+161 confronto|20 seu
+161 confronto|19 ano
+161 confronto|18 que
+161 confronto|17 seleção
+161 confronto|15 presidente
+161 confronto|14 política, político
+161 confronto|13 Venezuela
+161 confronto|12 futebol
+161 confronto|11 torneio
+161 confronto|10 edição
+161 confronto|9 campeão
+161 confronto|8 Brasil
+161 confronto|7 Brasil
+161 confronto|6 favorita, favorito
+161 confronto|5 campanha
+161 confronto|4 Argentina
+161 confronto|2 final
+161 confronto|1 Brasil
+161 confronto|0 Argentina
+164 número|161 confronto
+164 número|160 vantagem
+164 número|159 Brasil
+164 número|158 argentino
+164 número|157 estatístico
+164 número|156 gosto
+164 número|155 vitória
+164 número|152 área
+164 número|150 passe
+164 número|149 vez
+164 número|147 que
+164 número|146 atacante
+164 número|144 jogo
+164 número|143 Brasil
+164 número|142 defensor
+164 número|141 campo
+164 número|140 quem
+164 número|138 intermediário
+164 número|137 competição, competir
+164 número|135 Josué
+164 número|134 volante
+164 número|133 duplo
+164 número|132 contra-ataque
+164 número|131 espaço
+164 número|130 pressão
+164 número|129 tempo
+164 número|128 sua
+164 número|127 bola
+164 número|124 direita, direito
+164 número|122 meio
+164 número|121 que
+164 número|118 gol
+164 número|116 Brasil
+164 número|115 empate
+164 número|113 trave
+164 número|112 bola
+164 número|111 argentino
+164 número|109 vantagem
+164 número|108 Brasil
+164 número|107 que
+164 número|104 lançar
+164 número|101 frente
+164 número|100 seleção
+164 número|99 isso
+164 número|98 decisão
+164 número|96 torneio
+164 número|95 ataque
+164 número|94 vitória
+164 número|93 Argentina
+164 número|91 Brasil
+164 número|90 campanha
+164 número|89 meio-campo
+164 número|86 banco
+164 número|85 que
+164 número|84 volante
+164 número|83 Fernando
+164 número|82 ele
+164 número|81 se
+164 número|78 partida
+164 número|77 treinador, treinar
+164 número|75 volante
+164 número|74 seu
+164 número|72 façanha
+164 número|71 torneio
+164 número|70 seu
+164 número|69 conquista
+164 número|68 treinador, treinar
+164 número|67 ele
+164 número|66 sua
+164 número|65 chance
+164 número|64 que
+164 número|63 que
+164 número|62 seleção
+164 número|61 frente
+164 número|59 técnico
+164 número|57 Londres
+164 número|56 América
+164 número|55 confronto
+164 número|54 outro
+164 número|52 argentino
+164 número|51 vitória
+164 número|50 treinador, treinar
+164 número|48 Brasil
+164 número|47 que
+164 número|46 que
+164 número|44 Argentina
+164 número|43 expressão
+164 número|42 adversário
+164 número|40 era
+164 número|39 título
+164 número|38 cansaço
+164 número|36 dispensa
+164 número|33 futebol
+164 número|32 estrela
+164 número|31 técnico
+164 número|29 conquista
+164 número|28 este
+164 número|26 disputa
+164 número|25 título
+164 número|24 seu
+164 número|23 Argentina
+164 número|21 competição, competir
+164 número|20 seu
+164 número|19 ano
+164 número|18 que
+164 número|17 seleção
+164 número|15 presidente
+164 número|14 política, político
+164 número|13 Venezuela
+164 número|12 futebol
+164 número|11 torneio
+164 número|10 edição
+164 número|9 campeão
+164 número|8 Brasil
+164 número|7 Brasil
+164 número|6 favorita, favorito
+164 número|5 campanha
+164 número|4 Argentina
+164 número|2 final
+164 número|1 Brasil
+164 número|0 Argentina
+166 vantagem|164 número
+166 vantagem|161 confronto
+166 vantagem|160 vantagem
+166 vantagem|159 Brasil
+166 vantagem|158 argentino
+166 vantagem|157 estatístico
+166 vantagem|156 gosto
+166 vantagem|155 vitória
+166 vantagem|152 área
+166 vantagem|150 passe
+166 vantagem|149 vez
+166 vantagem|147 que
+166 vantagem|146 atacante
+166 vantagem|144 jogo
+166 vantagem|143 Brasil
+166 vantagem|142 defensor
+166 vantagem|141 campo
+166 vantagem|140 quem
+166 vantagem|138 intermediário
+166 vantagem|137 competição, competir
+166 vantagem|135 Josué
+166 vantagem|134 volante
+166 vantagem|133 duplo
+166 vantagem|132 contra-ataque
+166 vantagem|131 espaço
+166 vantagem|130 pressão
+166 vantagem|129 tempo
+166 vantagem|128 sua
+166 vantagem|127 bola
+166 vantagem|124 direita, direito
+166 vantagem|122 meio
+166 vantagem|121 que
+166 vantagem|118 gol
+166 vantagem|116 Brasil
+166 vantagem|115 empate
+166 vantagem|113 trave
+166 vantagem|112 bola
+166 vantagem|111 argentino
+166 vantagem|109 vantagem
+166 vantagem|108 Brasil
+166 vantagem|107 que
+166 vantagem|104 lançar
+166 vantagem|101 frente
+166 vantagem|100 seleção
+166 vantagem|99 isso
+166 vantagem|98 decisão
+166 vantagem|96 torneio
+166 vantagem|95 ataque
+166 vantagem|94 vitória
+166 vantagem|93 Argentina
+166 vantagem|91 Brasil
+166 vantagem|90 campanha
+166 vantagem|89 meio-campo
+166 vantagem|86 banco
+166 vantagem|85 que
+166 vantagem|84 volante
+166 vantagem|83 Fernando
+166 vantagem|82 ele
+166 vantagem|81 se
+166 vantagem|78 partida
+166 vantagem|77 treinador, treinar
+166 vantagem|75 volante
+166 vantagem|74 seu
+166 vantagem|72 façanha
+166 vantagem|71 torneio
+166 vantagem|70 seu
+166 vantagem|69 conquista
+166 vantagem|68 treinador, treinar
+166 vantagem|67 ele
+166 vantagem|66 sua
+166 vantagem|65 chance
+166 vantagem|64 que
+166 vantagem|63 que
+166 vantagem|62 seleção
+166 vantagem|61 frente
+166 vantagem|59 técnico
+166 vantagem|57 Londres
+166 vantagem|56 América
+166 vantagem|55 confronto
+166 vantagem|54 outro
+166 vantagem|52 argentino
+166 vantagem|51 vitória
+166 vantagem|50 treinador, treinar
+166 vantagem|48 Brasil
+166 vantagem|47 que
+166 vantagem|46 que
+166 vantagem|44 Argentina
+166 vantagem|43 expressão
+166 vantagem|42 adversário
+166 vantagem|40 era
+166 vantagem|39 título
+166 vantagem|38 cansaço
+166 vantagem|36 dispensa
+166 vantagem|33 futebol
+166 vantagem|32 estrela
+166 vantagem|31 técnico
+166 vantagem|29 conquista
+166 vantagem|28 este
+166 vantagem|26 disputa
+166 vantagem|25 título
+166 vantagem|24 seu
+166 vantagem|23 Argentina
+166 vantagem|21 competição, competir
+166 vantagem|20 seu
+166 vantagem|19 ano
+166 vantagem|18 que
+166 vantagem|17 seleção
+166 vantagem|15 presidente
+166 vantagem|14 política, político
+166 vantagem|13 Venezuela
+166 vantagem|12 futebol
+166 vantagem|11 torneio
+166 vantagem|10 edição
+166 vantagem|9 campeão
+166 vantagem|8 Brasil
+166 vantagem|7 Brasil
+166 vantagem|6 favorita, favorito
+166 vantagem|5 campanha
+166 vantagem|4 Argentina
+166 vantagem|2 final
+166 vantagem|1 Brasil
+166 vantagem|0 Argentina
