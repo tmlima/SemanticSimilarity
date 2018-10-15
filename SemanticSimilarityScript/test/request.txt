@@ -1,0 +1,20 @@
+[
+    {
+        "id": "18",
+        "lemma": "final",
+        "id_antecedent": "15",
+        "lemma_antecedent": "conquista"
+    },
+    {
+        "id": "37",
+        "lemma": "fase",
+        "id_antecedent": "12",
+        "lemma_antecedent": "título"
+    },
+    {
+        "id": "47",
+        "lemma": "medalha",
+        "id_antecedent": "30",
+        "lemma_antecedent": "campanha"
+    }
+]
