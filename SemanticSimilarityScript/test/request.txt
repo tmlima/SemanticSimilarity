@@ -16,5 +16,11 @@
         "lemma": "medalha",
         "id_antecedent": "30",
         "lemma_antecedent": "campanha"
+    },
+    {
+        "id": "55",
+        "lemma": "modalidade, modal",
+        "id_antecedent": "51",
+        "lemma_antecedent": "modal"
     }
 ]
