@@ -13,11 +13,12 @@ def similarity():
         pairs = request.get_json()
         response = []
         for p in pairs:
-            similarity = model.similarity(p["lemma"],  p["lemma_antecedent"])
-            response.append({ 
-                "id" : p["id"],
-                "id_antecedent" : p["id_antecedent"],
-                "similarity" : str(similarity) })
+            if (p["lemma"] in model.wv.vocab and p["lemma_antecedent"] in model.wv.vocab):
+                similarity = model.similarity(p["lemma"],  p["lemma_antecedent"])
+                response.append({ 
+                    "id" : p["id"],
+                    "id_antecedent" : p["id_antecedent"],
+                    "similarity" : str(similarity) })
         return jsonify(response)
     
 if __name__ == "__main__":
