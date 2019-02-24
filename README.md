@@ -1,4 +1,4 @@
-# SemanticSimilarity
+# Semantic Similarity Web API
 A Web API which calculates word similarity between words pairs
 
 # Installation steps:
