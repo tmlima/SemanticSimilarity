@@ -2,7 +2,7 @@ from flask import Flask, jsonify,  session, request
 from gensim.models import KeyedVectors
 
 print("loading")
-model = KeyedVectors.load_word2vec_format("Resource/glove_s300.txt", unicode_errors="ignore")
+model = KeyedVectors.load_word2vec_format("Resource/cbow_s300.txt", unicode_errors="ignore")
 print("model loaded")
 
 app = Flask(__name__)
