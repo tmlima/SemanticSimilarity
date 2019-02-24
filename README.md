@@ -14,6 +14,16 @@ A Web API which calculates word similarity between words pairs
 
 * `pip3 install -r requirements.txt`
 
-3. Run the server (it will take about three minutes to load the model)
+3. Download model from NILC 
+
+* http://nilc.icmc.usp.br/embeddings
+
+4. Paste the file into `SemanticSimilarityScript/Resource/` folder
+
+5. Set the file name in `word_embeddings_api.py` (default is `cbow_s300.txt`)
+
+* `model = KeyedVectors.load_word2vec_format("Resource/cbow_s300.txt", unicode_errors="ignore")`
+
+6. Run the server (it will take about three minutes to load the model)
 
 * `python3 word_embeddings_api.py`
