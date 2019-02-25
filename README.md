@@ -27,3 +27,39 @@ A Web API which calculates word similarity between words pairs
 6. Run the server (it will take about three minutes to load the model)
 
 * `python3 word_embeddings_api.py`
+
+# Request example
+
+```json
+[
+    {
+        "id": "18",
+        "lemma": "começo",
+        "id_antecedent": "15",
+        "lemma_antecedent": "início"
+    },
+    {
+        "id": "37",
+        "lemma": "maneira",
+        "id_antecedent": "12",
+        "lemma_antecedent": "forma"
+    }
+]
+```
+
+# Response example
+
+```json
+[
+    {
+        "id": "18",
+        "id_antecedent": "15",
+        "similarity": "0.84969133"
+    },
+    {
+        "id": "37",
+        "id_antecedent": "12",
+        "similarity": "0.8975464"
+    }
+]
+```
